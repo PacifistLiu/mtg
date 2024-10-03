@@ -882,6 +882,20 @@
         "effect2": ""
     },
     {
+        "name": "Big Game Hunter",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Creature \u2014 Human Rebel Assassin",
+        "cost": "{1}{B}{B}",
+        "power": "1/1",
+        "tag": "creature destruction",
+        "set": "Planar Chaos",
+        "amount": "1",
+        "effect": "When Big Game Hunter enters, destroy target creature with power 4 or greater. It can\u2019t be regenerated.; Madness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+        "effect2": ""
+    },
+    {
         "name": "Bilious Skulldweller",
         "name2": "",
         "rarity": "Uncommon",
@@ -1232,6 +1246,20 @@
         "effect2": ""
     },
     {
+        "name": "Brave the Elements",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{W}",
+        "power": "",
+        "tag": "",
+        "set": "Zendikar",
+        "amount": "5",
+        "effect": "Choose a color. White creatures you control gain protection from the chosen color until end of turn.",
+        "effect2": ""
+    },
+    {
         "name": "Bright-Palm, Soul Awakener",
         "name2": "",
         "rarity": "Mythic",
@@ -1341,6 +1369,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "{T}: Add {C}.; {2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.",
+        "effect2": ""
+    },
+    {
+        "name": "Burnout",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "counterspell, draw card",
+        "set": "Alliances",
+        "amount": "1",
+        "effect": "Counter target instant spell if it\u2019s blue.; Draw a card at the beginning of the next turn\u2019s upkeep.",
         "effect2": ""
     },
     {
@@ -1862,6 +1904,20 @@
         "effect2": ""
     },
     {
+        "name": "Coldsteel Heart",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Snow Artifact",
+        "cost": "{2}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Coldsnap",
+        "amount": "1",
+        "effect": "Coldsteel Heart enters tapped.; As Coldsteel Heart enters, choose a color.; {T}: Add one mana of the chosen color.",
+        "effect2": ""
+    },
+    {
         "name": "Colossal Whale",
         "name2": "",
         "rarity": "Rare",
@@ -2067,7 +2123,7 @@
         "power": "",
         "tag": "life gain, direct damage",
         "set": "Magic 2011, The Brothers' War",
-        "amount": "2",
+        "amount": "3",
         "effect": "Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.",
         "effect2": ""
     },
@@ -2893,7 +2949,7 @@
         "power": "",
         "tag": "hijack",
         "set": "Rise of the Eldrazi",
-        "amount": "1",
+        "amount": "2",
         "effect": "Enchant creature; You control enchanted creature.; At the beginning of your end step, if enchanted creature\u2019s power is 4 or greater, sacrifice Domestication.",
         "effect2": ""
     },
@@ -3234,6 +3290,20 @@
         "effect2": ""
     },
     {
+        "name": "Dwarven Driller",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Creature \u2014 Dwarf",
+        "cost": "{3}{R}",
+        "power": "2/2",
+        "tag": "direct damage, Land Destruction",
+        "set": "Judgment ",
+        "amount": "1",
+        "effect": "{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to them.",
+        "effect2": ""
+    },
+    {
         "name": "Echoing Truth",
         "name2": "",
         "rarity": "Common",
@@ -3357,6 +3427,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "{G}, {T}: You may put a creature card from your hand onto the battlefield.",
+        "effect2": ""
+    },
+    {
+        "name": "Elvish Spirit Guide",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Elf Spirit",
+        "cost": "{2}{G}",
+        "power": "2/2",
+        "tag": "mana ability",
+        "set": "Alliances",
+        "amount": "2",
+        "effect": "Exile Elvish Spirit Guide from your hand: Add {G}.",
         "effect2": ""
     },
     {
@@ -3747,7 +3831,7 @@
         "power": "",
         "tag": "life gain, creature destruction",
         "set": "Zendikar",
-        "amount": "4",
+        "amount": "5",
         "effect": "Cast this spell only if you control two or more Vampires.; Destroy target creature. You gain 4 life.",
         "effect2": ""
     },
@@ -3777,6 +3861,20 @@
         "set": "The Brothers' War Commander, Dominaria United Commander",
         "amount": "2",
         "effect": "{T}: Add one mana of any color that a land an opponent controls could produce.",
+        "effect2": ""
+    },
+    {
+        "name": "Festival of the Guildpact",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{X}{W}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Ravnica: City of Guilds",
+        "amount": "1",
+        "effect": "Prevent the next X damage that would be dealt to you this turn.; Draw a card.",
         "effect2": ""
     },
     {
@@ -3892,7 +3990,7 @@
         "effect2": ""
     },
     {
-        "name": "flame slash",
+        "name": "Flame Slash",
         "name2": "",
         "rarity": "Common",
         "color": "red",
@@ -4676,6 +4774,20 @@
         "effect2": ""
     },
     {
+        "name": "Gorilla Shaman",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Creature \u2014 Ape Shaman",
+        "cost": "{R}",
+        "power": "1/1",
+        "tag": "artifact destruction",
+        "set": "Alliances",
+        "amount": "3",
+        "effect": "{X}{X}{1}: Destroy target noncreature artifact with mana value X.",
+        "effect2": ""
+    },
+    {
         "name": "Grappling Hook",
         "name2": "",
         "rarity": "Rare",
@@ -4757,6 +4869,20 @@
         "set": "The Lord of the Rings: Tales of Middle-earth",
         "amount": "2",
         "effect": "{T}: Add {C}.; {1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells.",
+        "effect2": ""
+    },
+    {
+        "name": "Greenweaver Druid",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Elf Druid",
+        "cost": "{2}{G}",
+        "power": "1/1",
+        "tag": "mana ability",
+        "set": "Zendikar",
+        "amount": "4",
+        "effect": "{T}: Add {G}{G}.",
         "effect2": ""
     },
     {
@@ -5250,6 +5376,20 @@
         "effect2": ""
     },
     {
+        "name": "Hushwood Verge",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "Dual Land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "{T}: Add {G}.; {T}: Add {W}. Activate only if you control a Forest or a Plains.",
+        "effect2": ""
+    },
+    {
         "name": "Hymn to Tourach",
         "name2": "",
         "rarity": "Common",
@@ -5289,6 +5429,20 @@
         "set": "Phyrexia: All Will Be One",
         "amount": "1",
         "effect": "Deathtouch; Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+        "effect2": ""
+    },
+    {
+        "name": "Icy Manipulator",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{4}",
+        "power": "",
+        "tag": "",
+        "set": "Ninth Edition",
+        "amount": "1",
+        "effect": "{1}, {T}: Tap target artifact, creature, or land.",
         "effect2": ""
     },
     {
@@ -5401,6 +5555,20 @@
         "set": "Ravnica Remastered",
         "amount": "1",
         "effect": "Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle.; Hellbent \u2014 If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle.",
+        "effect2": ""
+    },
+    {
+        "name": "Inheritance",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Enchantment",
+        "cost": "{W}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Alliances",
+        "amount": "3",
+        "effect": "Whenever a creature dies, you may pay {3}. If you do, draw a card.",
         "effect2": ""
     },
     {
@@ -6622,6 +6790,20 @@
         "effect2": ""
     },
     {
+        "name": "Liliana's Caress",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Enchantment",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "life loss",
+        "set": "Magic 2011",
+        "amount": "1",
+        "effect": "Whenever an opponent discards a card, that player loses 2 life.",
+        "effect2": ""
+    },
+    {
         "name": "Liliana's Specter",
         "name2": "",
         "rarity": "Common",
@@ -6633,6 +6815,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Flying; When Liliana\u2019s Specter enters, each opponent discards a card.",
+        "effect2": ""
+    },
+    {
+        "name": "Lim-D\u00fbl's Vault",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black, blue",
+        "type": "Instant",
+        "cost": "{B}{U}",
+        "power": "",
+        "tag": "fetch card",
+        "set": "Alliances",
+        "amount": "1",
+        "effect": "Look at the top five cards of your library. As many times as you choose, you may pay 1 life, put those cards on the bottom of your library in any order, then look at the top five cards of your library. Then shuffle and put the last cards you looked at this way on top in any order.",
         "effect2": ""
     },
     {
@@ -7233,7 +7429,7 @@
         "power": "",
         "tag": "hijack",
         "set": "Magic 2011",
-        "amount": "1",
+        "amount": "2",
         "effect": "Enchant creature; You control enchanted creature.",
         "effect2": ""
     },
@@ -7910,6 +8106,20 @@
         "effect2": ""
     },
     {
+        "name": "Nemesis Mask",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{3}",
+        "power": "",
+        "tag": "",
+        "set": "Darksteel",
+        "amount": "1",
+        "effect": "All creatures able to block equipped creature do so.; Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters unattached and stays on the battlefield if the creature leaves.)",
+        "effect2": ""
+    },
+    {
         "name": "Nemesis of Reason",
         "name2": "",
         "rarity": "Rare",
@@ -8008,6 +8218,20 @@
         "effect2": ""
     },
     {
+        "name": "Night's Whisper",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Fifth Dawn",
+        "amount": "1",
+        "effect": "You draw two cards and you lose 2 life.",
+        "effect2": ""
+    },
+    {
         "name": "Nimraiser Paladin",
         "name2": "",
         "rarity": "Uncommon",
@@ -8061,6 +8285,20 @@
         "set": "Worldwake",
         "amount": "1",
         "effect": "Whenever Novablast Wurm attacks, destroy all other creatures.",
+        "effect2": ""
+    },
+    {
+        "name": "Noxious Field",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{1}{B}{B}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Prophecy",
+        "amount": "1",
+        "effect": "Enchant land; Enchanted land has \u201c{T}: This land deals 1 damage to each creature and each player.\u201d",
         "effect2": ""
     },
     {
@@ -8257,6 +8495,20 @@
         "set": "The Lord of the Rings: Tales of Middle-earth",
         "amount": "1",
         "effect": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.); I \u2014 The Ring tempts you, then each player mills cards equal to your Ring-bearer\u2019s power.; II \u2014 Destroy all nonlegendary creatures.; III \u2014 Each opponent loses 1 life for each creature card in that player\u2019s graveyard.",
+        "effect2": ""
+    },
+    {
+        "name": "One with Nature",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{G}",
+        "power": "",
+        "tag": "fetch card",
+        "set": "Scourge",
+        "amount": "1",
+        "effect": "Enchant creature; Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
         "effect2": ""
     },
     {
@@ -8498,6 +8750,20 @@
         "effect2": ""
     },
     {
+        "name": "Paradox Haze",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{2}{U}",
+        "power": "",
+        "tag": "rule change",
+        "set": "Time Spiral",
+        "amount": "1",
+        "effect": "Enchant player; At the beginning of enchanted player\u2019s first upkeep each turn, that player gets an additional upkeep step after this step.",
+        "effect2": ""
+    },
+    {
         "name": "Parallectric Feedback",
         "name2": "",
         "rarity": "Rare",
@@ -8554,6 +8820,34 @@
         "effect2": ""
     },
     {
+        "name": "Pawn of Ulamog",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Creature \u2014 Vampire Shaman",
+        "cost": "{1}{B}{B}",
+        "power": "2/2",
+        "tag": "Token Creature",
+        "set": "Rise of the Eldrazi",
+        "amount": "2",
+        "effect": "Whenever Pawn of Ulamog or another nontoken creature you control dies, you may create a 0/1 colorless Eldrazi Spawn creature token. It has \u201cSacrifice this creature: Add {C}.\u201d",
+        "effect2": ""
+    },
+    {
+        "name": "Pemmin's Aura",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{1}{U}{U}",
+        "power": "",
+        "tag": "",
+        "set": "Scourge",
+        "amount": "1",
+        "effect": "Enchant creature; {U}: Untap enchanted creature.; {U}: Enchanted creature gains flying until end of turn.; {U}: Enchanted creature gains shroud until end of turn. (It can\u2019t be the target of spells or abilities.); {1}: Enchanted creature gets +1/-1 or -1/+1 until end of turn.",
+        "effect2": ""
+    },
+    {
         "name": "Perimeter Captain",
         "name2": "",
         "rarity": "Uncommon",
@@ -8565,6 +8859,20 @@
         "set": "Worldwake",
         "amount": "4",
         "effect": "Defender; Whenever a creature you control with defender blocks, you may gain 2 life.",
+        "effect2": ""
+    },
+    {
+        "name": "Perish",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Tempest",
+        "amount": "1",
+        "effect": "Destroy all green creatures. They can\u2019t be regenerated.",
         "effect2": ""
     },
     {
@@ -8750,6 +9058,20 @@
         "effect2": ""
     },
     {
+        "name": "Phyrexian Totem",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{3}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Time Spiral",
+        "amount": "1",
+        "effect": "{T}: Add {B}.; {2}{B}: Phyrexian Totem becomes a 5/5 black Phyrexian Horror artifact creature with trample until end of turn.; Whenever Phyrexian Totem is dealt damage, if it\u2019s a creature, sacrifice that many permanents.",
+        "effect2": ""
+    },
+    {
         "name": "Pile On",
         "name2": "",
         "rarity": "Rare",
@@ -8803,6 +9125,20 @@
         "set": "Prophecy",
         "amount": "1",
         "effect": "Destroy all creatures you don\u2019t control. They can\u2019t be regenerated.",
+        "effect2": ""
+    },
+    {
+        "name": "Planar Chaos",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Enchantment",
+        "cost": "{2}{R}",
+        "power": "",
+        "tag": "counterspell",
+        "set": "Judgment ",
+        "amount": "1",
+        "effect": "At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice Planar Chaos.; Whenever a player casts a spell, that player flips a coin. If they lose the flip, counter that spell.",
         "effect2": ""
     },
     {
@@ -8974,6 +9310,20 @@
         "effect2": ""
     },
     {
+        "name": "Primal Bellow",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Instant",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "",
+        "set": "Zendikar",
+        "amount": "3",
+        "effect": "Target creature gets +1/+1 until end of turn for each Forest you control.",
+        "effect2": ""
+    },
+    {
         "name": "Primeval Spawn",
         "name2": "",
         "rarity": "Rare",
@@ -9002,6 +9352,20 @@
         "effect2": ""
     },
     {
+        "name": "Primitive Justice",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "artifact destruction, life gain",
+        "set": "Alliances",
+        "amount": "1",
+        "effect": "As an additional cost to cast this spell, you may pay {1}{R} and/or {1}{G} any number of times.; Destroy target artifact. For each additional {1}{R} you paid, destroy another target artifact. For each additional {1}{G} you paid, destroy another target artifact, and you gain 1 life.",
+        "effect2": ""
+    },
+    {
         "name": "Pristine Talisman",
         "name2": "",
         "rarity": "Common",
@@ -9025,7 +9389,7 @@
         "power": "1/1",
         "tag": "direct damage",
         "set": "Magic 2011",
-        "amount": "1",
+        "amount": "2",
         "effect": "{T}: Prodigal Pyromancer deals 1 damage to any target.",
         "effect2": ""
     },
@@ -9041,6 +9405,20 @@
         "set": "The Brothers' War Commander, Dominaria United Commander",
         "amount": "2",
         "effect": "When Prophetic Prism enters, draw a card.; {1}, {T}: Add one mana of any color.",
+        "effect2": ""
+    },
+    {
+        "name": "Psychic Drain",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black, blue",
+        "type": "Sorcery",
+        "cost": "{X}{B}{U}",
+        "power": "",
+        "tag": "life gain, mill",
+        "set": "Ravnica: City of Guilds",
+        "amount": "1",
+        "effect": "Target player mills X cards and you gain X life.",
         "effect2": ""
     },
     {
@@ -9125,6 +9503,20 @@
         "set": "Worldwake",
         "amount": "2",
         "effect": "Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.); Swampwalk (This creature can\u2019t be blocked as long as defending player controls a Swamp.); Quag Vampires enters with a +1/+1 counter on it for each time it was kicked.",
+        "effect2": ""
+    },
+    {
+        "name": "Quest for Pure Flame",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Enchantment",
+        "cost": "{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Zendikar",
+        "amount": "1",
+        "effect": "Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.; Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a permanent or player this turn, it deals double that damage to that permanent or player instead.",
         "effect2": ""
     },
     {
@@ -9352,6 +9744,20 @@
         "effect2": ""
     },
     {
+        "name": "Reality Spasm",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{X}{U}{U}",
+        "power": "",
+        "tag": "",
+        "set": "Rise of the Eldrazi",
+        "amount": "2",
+        "effect": "Choose one \u2014; \u2022 Tap X target permanents.; \u2022 Untap X target permanents.",
+        "effect2": ""
+    },
+    {
         "name": "Realm Seekers",
         "name2": "",
         "rarity": "Rare",
@@ -9473,7 +9879,7 @@
         "power": "2/2",
         "tag": "deck limit",
         "set": "Magic 2011",
-        "amount": "1",
+        "amount": "2",
         "effect": "Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.; A deck can have any number of cards named Relentless Rats.",
         "effect2": ""
     },
@@ -9520,6 +9926,20 @@
         "effect2": ""
     },
     {
+        "name": "Remand",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{1}{U}",
+        "power": "",
+        "tag": "counterspell",
+        "set": "Ravnica: City of Guilds",
+        "amount": "1",
+        "effect": "Counter target spell. If that spell is countered this way, put it into its owner\u2019s hand instead of into that player\u2019s graveyard.; Draw a card.",
+        "effect2": ""
+    },
+    {
         "name": "Repay in Kind",
         "name2": "",
         "rarity": "Rare",
@@ -9531,6 +9951,20 @@
         "set": "Rise of the Eldrazi",
         "amount": "1",
         "effect": "Each player\u2019s life total becomes the lowest life total among all players.",
+        "effect2": ""
+    },
+    {
+        "name": "Reprisal",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{1}{W}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Alliances",
+        "amount": "3",
+        "effect": "Destroy target creature with power 4 or greater. It can\u2019t be regenerated.",
         "effect2": ""
     },
     {
@@ -9655,7 +10089,7 @@
         "power": "",
         "tag": "graveyard",
         "set": "Magic 2011",
-        "amount": "1",
+        "amount": "3",
         "effect": "Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
         "effect2": ""
     },
@@ -9755,6 +10189,20 @@
         "set": "Zendikar Rising",
         "amount": "1",
         "effect": "At the beginning of each player\u2019s upkeep, Roiling Vortex deals 1 damage to them.; Whenever a player casts a spell, if no mana was spent to cast that spell, Roiling Vortex deals 5 damage to that player.; {R}: Your opponents can\u2019t gain life this turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Rolling Spoil",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{2}{G}{G}",
+        "power": "",
+        "tag": "Land Destruction",
+        "set": "Ravnica: City of Guilds",
+        "amount": "1",
+        "effect": "Destroy target land. If {B} was spent to cast this spell, all creatures get -1/-1 until end of turn.",
         "effect2": ""
     },
     {
@@ -10402,6 +10850,20 @@
         "effect2": ""
     },
     {
+        "name": "Shield Sphere",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Artifact Creature \u2014 Wall",
+        "cost": "{0}",
+        "power": "",
+        "tag": "",
+        "set": "Alliances",
+        "amount": "1",
+        "effect": "Defender; Whenever Shield Sphere blocks, put a -0/-1 counter on it.",
+        "effect2": ""
+    },
+    {
         "name": "Shineshadow Snarl",
         "name2": "",
         "rarity": "Rare",
@@ -10469,6 +10931,20 @@
         "set": "Stronghold",
         "amount": "1",
         "effect": "Shock deals 2 damage to any target.",
+        "effect2": ""
+    },
+    {
+        "name": "Shuko",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{1}",
+        "power": "",
+        "tag": "",
+        "set": "Betrayers of Kamigawa",
+        "amount": "1",
+        "effect": "Equipped creature gets +1/+0.; Equip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.)",
         "effect2": ""
     },
     {
@@ -10607,7 +11083,7 @@
         "power": "",
         "tag": "",
         "set": "Magic 2011",
-        "amount": "2",
+        "amount": "3",
         "effect": "Tap all creatures target player controls. Those creatures don\u2019t untap during that player\u2019s next untap step.",
         "effect2": ""
     },
@@ -10651,6 +11127,20 @@
         "set": "Urza's Legacy",
         "amount": "2",
         "effect": "Enchant creature; At the beginning of the upkeep of enchanted creature\u2019s controller, that player sacrifices that creature unless they pay {2}.; When Slow Motion is put into a graveyard from the battlefield, return Slow Motion to its owner\u2019s hand.",
+        "effect2": ""
+    },
+    {
+        "name": "Smallpox",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{B}{B}",
+        "power": "",
+        "tag": "Land Destruction, life loss, discard card",
+        "set": "Time Spiral",
+        "amount": "1",
+        "effect": "Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.",
         "effect2": ""
     },
     {
@@ -10777,6 +11267,20 @@
         "set": "The Brothers' War Commander, Tales of Middle-earth Commander",
         "amount": "2",
         "effect": "{T}: Add {C}{C}.",
+        "effect2": ""
+    },
+    {
+        "name": "Soldevi Adnate",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Creature \u2014 Human Cleric",
+        "cost": "{1}{B}",
+        "power": "1/2",
+        "tag": "mana ability",
+        "set": "Alliances",
+        "amount": "1",
+        "effect": "{T}, Sacrifice a black or artifact creature: Add an amount of {B} equal to the sacrificed creature\u2019s mana value.",
         "effect2": ""
     },
     {
@@ -11172,6 +11676,20 @@
         "effect2": ""
     },
     {
+        "name": "Stalking Stones",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "",
+        "set": "Mirrodin",
+        "amount": "1",
+        "effect": "{T}: Add {C}.; {6}: Stalking Stones becomes a 3/3 Elemental artifact creature that\u2019s still a land. (This effect lasts indefinitely.)",
+        "effect2": ""
+    },
+    {
         "name": "Stalwart Shield-Bearers",
         "name2": "",
         "rarity": "Common",
@@ -11508,6 +12026,20 @@
         "effect2": ""
     },
     {
+        "name": "Surreal Memoir",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{3}{R}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Rise of the Eldrazi",
+        "amount": "3",
+        "effect": "Return an instant card at random from your graveyard to your hand.; Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+        "effect2": ""
+    },
+    {
         "name": "Surrounded by Orcs",
         "name2": "",
         "rarity": "Common",
@@ -11629,7 +12161,7 @@
         "power": "1/2",
         "tag": "direct damage",
         "set": "Zendikar",
-        "amount": "4",
+        "amount": "5",
         "effect": "Whenever Tajuru Archer or another Ally you control enters, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.",
         "effect2": ""
     },
@@ -11701,6 +12233,20 @@
         "set": "March of the Machine Commander",
         "amount": "1",
         "effect": "Enchant planeswalker; Enchanted planeswalker has \u201c[-12]: You get an emblem with \u2018You may activate loyalty abilities of planeswalkers you control on any player\u2019s turn any time you could cast an instant.\u2019\u201d; Whenever you draw a card, put a loyalty counter on enchanted planeswalker.",
+        "effect2": ""
+    },
+    {
+        "name": "Telekinetic Sliver",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Creature \u2014 Sliver",
+        "cost": "{2}{U}{U}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Time Spiral",
+        "amount": "2",
+        "effect": "All Slivers have \u201c{T}: Tap target permanent.\u201d",
         "effect2": ""
     },
     {
@@ -12670,6 +13216,20 @@
         "effect2": ""
     },
     {
+        "name": "Unstoppable Slasher",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Zombie Assassin",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "life loss, graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Deathtouch; Whenever Unstoppable Slasher deals combat damage to a player, they lose half their life, rounded up.; When Unstoppable Slasher dies, if it had no counters on it, return it to the battlefield tapped under its owner\u2019s control with two stun counters on it.",
+        "effect2": ""
+    },
+    {
         "name": "Urabrask's Forge",
         "name2": "",
         "rarity": "Rare",
@@ -12863,6 +13423,20 @@
         "set": "Phyrexia: All Will Be One",
         "amount": "2",
         "effect": "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.); Corrupted \u2014 As long as an opponent has three or more poison counters and Viral Spawning is in your graveyard, it has flashback {2}{G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "effect2": ""
+    },
+    {
+        "name": "Virtue's Ruin",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Portal",
+        "amount": "1",
+        "effect": "Destroy all white creatures.",
         "effect2": ""
     },
     {
