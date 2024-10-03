@@ -1,0 +1,734 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>MTG</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="robots" content="noindex">
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/png" href="images/mtg_logo2.png">
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-"></span>
+							<img width="40%" src="images/mtg_logo.png" alt="" />
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Magic: The Gathering</h1>
+								<p>A Webpage to discover Magic The Gathering cards and build decks.</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#cards">Card Search</a></li>
+								<li><a href="#deckbuilder">Deckbuilder</a></li>
+								<li><a href="#resources">More Resources</a></li>
+								<li><a href="#about">aboot</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- cards -->
+							<article id="cards">
+								<h2 class="major">Card Search</h2>
+								<table>
+									<tr>	
+										<td>	  
+											<input type="checkbox" value="common" id="common" name="rarity"> 
+											<label for="common">Common</label>		  
+										</td>
+										<td>									
+											<input type="checkbox" value="uncommon" id="uncommon" name="rarity"> 
+											<label for="uncommon">Uncommon</label>
+										</td>
+										<td>									
+											<input type="checkbox" value="rare" id="rare" name="rarity"> 
+											<label for="rare">Rare</label>		
+										</td>
+										<td>									
+											<input type="checkbox" value="mythic" id="mythic" name="rarity"> 
+											<label for="mythic">Mythic</label>	
+										</td>							  
+									</tr>
+									<tr>
+										<td colspan="1">Card Type</td>
+										<td colspan="3"><select id="typeFilter">
+											<option value="all">All</option>
+											<option value="artifact">Artifact</option>
+											<option value="aura">Aura</option>
+											<option value="battle">Battle</option>
+											<option value="Creature">Creature</option>
+											<option value="Curse">Curse</option>
+											<option value="Enchantment">Enchantment</option>
+											<option value="Equipment">Equipment</option>
+											<option value="instant">Instant</option>
+											<option value="Land">Land</option>
+											<option value="Legendary">Legendary</option>
+											<option value="Planeswalker">Planeswalker</option>
+											<option value="Saga">Saga</option>
+											<option value="Sphere">Sphere</option>
+											<option value="Trap">Trap</option>
+											<!--<option value="siege">Siege</option>-->
+											<option value="sorcery">Sorcery</option>
+										</select></td>
+									</tr>
+									<tr>
+										<td colspan="1">Creature Type</td>
+										<td colspan="3"><select id="creatureTypeFilter">
+											<option value="all">All</option>
+											<option value="Advisor">Advisor</option>
+											<option value="Ally">Ally</option>
+											<option value="Angel">Angel</option>
+											<option value="Ape">Ape</option>
+											<option value="Archer">Archer</option>
+											<option value="Archon">Archon</option>
+											<option value="Artificer">Artificer</option>
+											<option value="Assassin">Assassin</option>
+											<option value="Avatar">Avatar</option>
+											<option value="Barbarian">Barbarian</option>
+											<option value="Bard">Bard</option>
+											<option value="Basilisk">Basilisk</option>
+											<option value="Bear">Bear</option>
+											<option value="Beast">Beast</option>
+											<option value="Berserker">Berserker</option>
+											<option value="Bird">Bird</option>
+											<option value="Cat">Cat</option>
+											<option value="Centaur">Centaur</option>
+											<option value="Citizen ">Citizen </option>
+											<option value="Cleric">Cleric</option>
+											<option value="Construct">Construct</option>
+											<option value="Crab">Crab</option>
+											<option value="Cyclops">Cyclops</option>
+											<option value="Demon">Demon</option>
+											<option value="Dinosaur ">Dinosaur </option>
+											<option value="Dragon">Dragon</option>
+											<option value="Drake">Drake</option>
+											<option value="Druid">Druid</option>
+											<option value="Dwarf">Dwarf</option>
+											<option value="Eldrazi">Eldrazi</option>
+											<option value="Elemental">Elemental</option>
+											<option value="Elf">Elf</option>
+											<option value="Elk">Elk</option>
+											<option value="Faerie">Faerie</option>
+											<option value="Fox">Fox</option>
+											<option value="Frog">Frog</option>
+											<option value="Fungus">Fungus</option>
+											<option value="Giant">Giant</option>
+											<option value="Goblin">Goblin</option>
+											<option value="God">God</option>
+											<option value="Golem">Golem</option>
+											<option value="Griffin">Griffin</option>
+											<option value="Halfling">Halfling</option>
+											<option value="Hellion">Hellion</option>
+											<option value="Horror">Horror</option>
+											<option value="Horse">Horse</option>
+											<option value="Human">Human</option>
+											<option value="Hydra">Hydra</option>
+											<option value="Insect">Insect</option>
+											<option value="Knight">Knight</option>
+											<option value="Kor">Kor</option>
+											<option value="Kraken">Kraken</option>
+											<option value="Leviathan">Leviathan</option>
+											<option value="Manticore">Manticore</option>
+											<option value="Merfolk">Merfolk</option>
+											<option value="Minion">Minion</option>
+											<option value="Minotaur">Minotaur</option>
+											<option value="Monk">Monk</option>
+											<option value="Myr">Myr</option>
+											<option value="Nephilim">Nephilim</option>
+											<option value="Nightmare">Nightmare</option>
+											<option value="Noble">Noble</option>
+											<option value="Nymph">Nymph</option>
+											<option value="Ogre">Ogre</option>
+											<option value="Ooze">Ooze</option>
+											<option value="Orc">Orc</option>
+											<option value="Otter">Otter</option>
+											<option value="Peasant">Peasant</option>
+											<option value="Phelddagrif">Phelddagrif</option>
+											<option value="Phyrexian">Phyrexian</option>
+											<option value="Plant">Plant</option>
+											<option value="Praetor">Praetor</option>
+											<option value="Rabbit">Rabbit</option>
+											<option value="Ranger">Ranger</option>
+											<option value="Rat">Rat</option>
+											<option value="Rebel">Rebel</option>
+											<option value="Rogue">Rogue</option>
+											<option value="Samurai">Samurai</option>
+											<option value="Scarecrow">Scarecrow</option>
+											<option value="Scorpion">Scorpion</option>
+											<option value="Scout">Scout</option>
+											<option value="Shade">Shade</option>
+											<option value="Shaman">Shaman</option>
+											<option value="Shapeshifter">Shapeshifter</option>
+											<option value="Shark">Shark</option>
+											<option value="Sliver">Sliver</option>
+											<option value="Snake">Snake</option>
+											<option value="Soldier">Soldier</option>
+											<option value="Specter">Specter</option>
+											<option value="Sphinx">Sphinx</option>
+											<option value="Spider">Spider</option>
+											<option value="Spirit">Spirit</option>
+											<option value="Thopter">Thopter</option>
+											<option value="Treefolk">Treefolk</option>
+											<option value="Turtle">Turtle</option>
+											<option value="Unicorn">Unicorn</option>
+											<option value="Vampire ">Vampire </option>
+											<option value="Vedalken">Vedalken</option>
+											<option value="Wall">Wall</option>
+											<option value="Warlock">Warlock</option>
+											<option value="Warrior">Warrior</option>
+											<option value="Wizard">Wizard</option>
+											<option value="Wraith">Wraith</option>
+											<option value="Wurm">Wurm</option>
+											<option value="Zombie">Zombie</option>
+											<option value="Zubera">Zubera</option>
+										</select></td>
+									</tr>
+									<tr>	
+										<td>
+										</td>
+										<td>	  
+											<input type="checkbox" value="colorless" id="colorless" name="color"> 
+											<label for="colorless">Colorless</label>		  
+										</td>
+										<td>									
+											<input type="checkbox" value="black" id="black" name="color"> 
+											<label for="black">Black</label>
+										</td>
+										<td>	  
+											<input type="checkbox" value="blue" id="blue" name="color"> 
+											<label for="blue">Blue</label>		  
+										</td>
+									</tr>
+									<tr>
+										<td>
+										</td>
+										<td>									
+											<input type="checkbox" value="white" id="white" name="color"> 
+											<label for="white">White</label>
+										</td>
+										<td>									
+											<input type="checkbox" value="green" id="green" name="color"> 
+											<label for="green">Green</label>		
+										</td>
+										<td>									
+											<input type="checkbox" value="red" id="red" name="color"> 
+											<label for="red">Red</label>	
+										</td>							  
+									</tr>
+									<tr>
+										<td colspan="1">Set</td>
+										<td colspan="3"><select id="setFilter">
+											<option value="all">All</option>
+											<option value="Alara Reborn">Alara Reborn</option>
+											<option value="Alliances">Alliances</option>
+											<option value="Amonkhet">Amonkhet</option>
+											<option value="Apocalypse ">Apocalypse </option>
+											<option value="Battle for Zendikar">Battle for Zendikar</option>
+											<option value="Betrayers of Kamigawa">Betrayers of Kamigawa</option>
+											<option value="Breaking News">Breaking News</option>
+											<option value="Champions of Kamigawa">Champions of Kamigawa</option>
+											<option value="Coldsnap">Coldsnap</option>
+											<option value="Commander 2011">Commander 2011</option>
+											<option value="Commander 2018">Commander 2018</option>
+											<option value="Commander 2020">Commander 2020</option>
+											<option value="Commander Legends: Battle for Baldur's Gate">Commander Legends: Battle for Baldur's Gate</option>
+											<option value="Core Set 2020">Core Set 2020</option>
+											<option value="Darksteel">Darksteel</option>
+											<option value="DCI Promos">DCI Promos</option>
+											<option value="Dissension">Dissension</option>
+											<option value="Dominaria Remastered">Dominaria Remastered</option>
+											<option value="Dominaria United">Dominaria United</option>
+											<option value="Dominaria United Commander">Dominaria United Commander</option>
+											<option value="Dragon's Maze">Dragon's Maze</option>
+											<option value="Duel Decks: Merfolk vs. Goblins">Duel Decks: Merfolk vs. Goblins</option>
+											<option value="Duel Decks: Sorin vs. Tibalt">Duel Decks: Sorin vs. Tibalt</option>
+											<option value="Duskmourn: House of Horror">Duskmourn: House of Horror</option>
+											<option value="Eighth Edition">Eighth Edition</option>
+											<option value="Exodus ">Exodus </option>
+											<option value="Fallen Empires">Fallen Empires</option>
+											<option value="Fallout">Fallout</option>
+											<option value="Fifth Dawn">Fifth Dawn</option>
+											<option value="Fifth Edition">Fifth Edition</option>
+											<option value="Fourth Edition">Fourth Edition</option>
+											<option value="Guildpact">Guildpact</option>
+											<option value="Ice Age">Ice Age</option>
+											<option value="Invasion">Invasion</option>
+											<option value="Judgment ">Judgment </option>
+											<option value="Kamigawa: Neon Dynasty">Kamigawa: Neon Dynasty</option>
+											<option value="Magic 2010">Magic 2010</option>
+											<option value="Magic 2011">Magic 2011</option>
+											<option value="Magic 2012">Magic 2012</option>
+											<option value="Magic 2014">Magic 2014</option>
+											<option value="Magic 2015">Magic 2015</option>
+											<option value="Magic Origins">Magic Origins</option>
+											<option value="Masters 25">Masters 25</option>
+											<option value="March of the Machine">March of the Machine</option>
+											<option value="March of the Machine Commander">March of the Machine Commander</option>
+											<option value="Mirage">Mirage</option>
+											<option value="Mirrodin">Mirrodin</option>
+											<option value="Modern Horizons 2">Modern Horizons 2</option>
+											<option value="Modern Horizons 3 Commander">Modern Horizons 3 Commander</option>
+											<option value="Modern Masters">Modern Masters</option>
+											<option value="Multiverse Legends">Multiverse Legends</option>
+											<option value="New Phyrexia">New Phyrexia</option>
+											<option value="Ninth Edition">Ninth Edition</option>
+											<option value="Odyssey">Odyssey</option>
+											<option value="Phyrexia: All Will Be One">Phyrexia: All Will Be One</option>
+											<option value="Phyrexia: All Will Be One Commander">Phyrexia: All Will Be One Commander</option>
+											<option value="Planar Chaos">Planar Chaos</option>
+											<option value="Planeshift ">Planeshift </option>
+											<option value="Portal">Portal</option>
+											<option value="Prophecy">Prophecy</option>
+											<option value="Ravnica Remastered">Ravnica Remastered</option>
+											<option value="Ravnica: City of Guilds">Ravnica: City of Guilds</option>
+											<option value="Return to Ravnica">Return to Ravnica</option>
+											<option value="Revised">Revised</option>
+											<option value="Rise of the Eldrazi">Rise of the Eldrazi</option>
+											<option value="Saviors of Kamigawa">Saviors of Kamigawa</option>
+											<option value="Scourge">Scourge</option>
+											<option value="Secret Lair Drop">Secret Lair Drop</option>
+											<option value="Seventh Edition">Seventh Edition</option>
+											<option value="Shadowmoor">Shadowmoor</option>
+											<option value="Shadows over Innistrad">Shadows over Innistrad</option>
+											<option value="Sixth Edition">Sixth Edition</option>
+											<option value="Strixhaven: School of Mages">Strixhaven: School of Mages</option>
+											<option value="Stronghold">Stronghold</option>
+											<option value="Tales of Middle-earth Commander">Tales of Middle-earth Commander</option>
+											<option value="Tempest">Tempest</option>
+											<option value="Tenth Edition">Tenth Edition</option>
+											<option value="The Brothers' War">The Brothers' War</option>
+											<option value="The Brothers' War Commander">The Brothers' War Commander</option>
+											<option value="The Brothers' War Retro Artifacts">The Brothers' War Retro Artifacts</option>
+											<option value="The List">The List</option>
+											<option value="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</option>
+											<option value="Theros">Theros</option>
+											<option value="Time Spiral">Time Spiral</option>
+											<option value="Time Spiral Remastered">Time Spiral Remastered</option>
+											<option value="Time Spiral Timeshifted ">Time Spiral Timeshifted </option>
+											<option value="Torment">Torment</option>
+											<option value="Urza's Legacy">Urza's Legacy</option>
+											<option value="Urza's Saga">Urza's Saga</option>
+											<option value="Visions">Visions</option>
+											<option value="War of the Spark">War of the Spark</option>
+											<option value="Weatherlight">Weatherlight</option>
+											<option value="Worldwake">Worldwake</option>
+											<option value="Zendikar">Zendikar</option>
+											<option value="Zendikar Rising">Zendikar Rising</option>
+											<option value="Zendikar Rising Commander">Zendikar Rising Commander</option>											
+										</select></td>
+									</tr>
+									<tr>
+										<td colspan="1">Tag</td>
+										<td colspan="3"><select id="tagFilter">
+											<option value="all">All</option>
+											<option value="artifact destruction">Artifact Destruction</option>
+											<option value="color">Color</option>
+											<option value="copy spell">Copy Spell</option>
+											<option value="counterspell">Counterspell</option>
+											<option value="creature destruction">Creature Destruction</option>
+											<option value="deck limit">Deck Limit</option>
+											<option value="direct damage">Direct Damage</option>
+											<option value="discard card">Discard Card</option>											
+											<option value="draw card">Draw Card</option>
+											<option value="Dual Land">Dual Land</option>
+											<option value="enchantment destruction">Enchantment Destruction</option>
+											<option value="fetch card">Fetch Card</option>
+											<option value="graveyard">Graveyard</option>
+											<option value="hijack">Hijack Card</option>
+											<option value="land destruction">Land Destruction</option>
+											<option value="life gain">Life Gain</option>
+											<option value="life loss">Life Loss</option>
+											<option value="mana ability">Mana Ability</option>
+											<option value="mill">Mill Card</option>
+											<option value="multi land">Multi Land</option>
+											<option value="rule change">Rule Change</option>
+											<option value="Token Creature">Token Creature</option>
+											<option value="Tri Land">Tri Land</option>
+											<option value="toxic">Toxic</option>
+											<option value="Voting">Voting</option>
+											<option value="win condition">Win Condition</option>
+
+											
+											<!--<option value="Bounce Land">Bounce Land</option>
+											<option value="Filter Land">Filter Land</option>
+											<option value="Pain Land">Pain Land</option>
+											<option value="Shock Land">Shock Land</option>
+											<option value="Utility Land">Utility Land</option>-->
+											
+										</select></td>
+									</tr>
+									<tr>
+										<td colspan="4"><input type="text" id="searchInput" placeholder="Search for a card"></td>
+									</tr>
+									<tr>
+										<td colspan="4"><button style="width: 100%" onclick="searchCards(cardData)">Search</button>	</td>
+									</tr>
+								</table>
+								<div id="cardResults"></div>
+							</article>
+
+						<!-- deckbuilder -->
+							<article id="deckbuilder">
+								<h2 class="major">Deckbuilder</h2>
+								<p>Add cards to Deck</p>
+								<div style="display: flex; flex-direction: row;">	
+									<select style="width: 75%" id="cardSelectDeckbuilder"></select>
+									<select style="width: 25%" id="cardSelectAmount">
+											<option value="1">1</option>
+											<option value="2">2</option>
+											<option value="3">3</option>
+											<option value="4">4</option>
+									</select>								
+								</div>
+								<div style="display: flex; flex-direction: row;">	
+									<button style="width: 25%" onclick="addToDeck()">Add</button>
+									<button style="width: 25%" onclick="exportDeckAsJSON()">Export</button>	
+									<button style="width: 25%" onclick="importDeckFromJSON()">Import</button>
+									<button style="width: 25%" onclick="clearDeck()">Clear</button>	
+									
+								</div>
+								<div id="totalCardsDiv"></div>
+								<div id="deckContainerDiv"></div>								
+							</article>
+
+						<!-- resources -->
+							<article id="resources">
+								<h2 class="major">Resources</h2>
+								<a href="https://www.cardmarket.com/en/Magic/Products/Search?searchString=" target="_blank">
+								  <div class="image-container" style="border: 1px solid white; borderRadius: 5px">
+								  <br>
+								  <h3>&nbsp; cardmarket</h3>
+									<span class="image main" style="width: 95%; display: block; margin: 0 auto;">
+									  <img src="images/pic03.jpg" alt="" />
+									  <br>
+									</span>
+								  </div> 
+								</a>
+								<br>
+								<a href="https://scryfall.com/" target="_blank">
+								  <div class="image-container" style="border: 1px solid white; borderRadius: 5px">
+								  <br>
+								  <h3>&nbsp; scryfall</h3>
+									<span class="image main" style="width: 95%; display: block; margin: 0 auto;">
+									  <img src="images/pic02.jpg" alt="" />
+									  <br>
+									</span>
+								  </div>
+								</a>
+							</article>
+
+						<!-- about -->
+							<article id="about">
+								<h2 class="major">aboot</h2>
+								<p>There is nothing to say aboot me or this page. You can visit my social media that i don't have.</p>
+								<ul class="icons">
+									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+								<hr>
+								<p>Image credit:</p>
+								<ul>
+									<li><a href="https://wallpapersden.com/aurelia-magic-the-gathering-wallpaper/1920x1080/" target="_blank">Aurelia</a></li>
+									<li><a href="https://www.hdwallpaper.nu/magic-the-gathering-hd-wallpapers/" target="_blank">Avacyn, Angel of Hope (#28336)</a></li>
+									<li><a href="https://www.hdwallpaper.nu/magic-the-gathering-hd-wallpapers/" target="_blank">Jace, Architext of Thoght (#28337)</a></li>
+									<li><a href="https://www.hdwallpaper.nu/magic-the-gathering-hd-wallpapers/" target="_blank">Griselbrand (#28346)</a></li>
+									<li><a href="https://www.hdwallpaper.nu/magic-the-gathering-hd-wallpapers/" target="_blank">Dimir (#28349)</a></li>
+									<li><a href="https://www.hdwallpaper.nu/magic-the-gathering-hd-wallpapers/" target="_blank">Chandra (#28353)</a></li>									
+									<li><a href="https://wallpapercave.com/magic-the-gathering-wallpaper" target="_blank">Khalni Hydra</a></li>
+									<li><a href="https://wallpapercave.com/magic-the-gathering-wallpaper" target="_blank">Lightning Dragon</a></li>
+									<li><a href="https://wallpapercave.com/magic-the-gathering-wallpaper" target="_blank">Sunblast Angel</a></li>
+									<li><a href="https://vectorified.com/magic-the-gathering-logo-vector">MTG Logo</a></li>
+									<li><a href="https://scryfall.com/">All card images</a></li>
+								</ul>
+							</article>
+					
+							
+						<!-- Elements -->
+						<!-- Elements lists many example elements that could be used in a page -->
+						<!-- 
+							<article id="elements">
+								<h2 class="major">Elements</h2>
+
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre>
+										<code>i = 0;
+											while (!deck.isInOrder()) {
+												print 'Iteration ' + i;
+												deck.shuffle();
+												i++;
+											}
+											print 'It took ' + i + ' iterations to sort the deck.';
+										</code>
+									</pre>
+								</section>
+
+								<section>
+									<h3 class="major">Lists</h3>
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Form</h3>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+
+							</article>
+							 -->
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; 2024</p>
+						<p class="reference">Design by <a href="https://html5up.net">HTML5 UP</a>: Dimension and Eventually.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/cardsearch.js"></script>
+			<script src="assets/js/deckbuilder.js"></script>
+
+	</body>
+</html>
