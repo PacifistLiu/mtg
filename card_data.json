@@ -4886,6 +4886,20 @@
         "effect2": ""
     },
     {
+        "name": "Gloomlake Verge",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "Dual Land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "{T}: Add {U}.; {T}: Add {B}. Activate only if you control an Island or a Swamp.",
+        "effect2": ""
+    },
+    {
         "name": "Gnawing Vermin",
         "name2": "",
         "rarity": "Uncommon",
@@ -5345,6 +5359,20 @@
         "set": "Amonkhet",
         "amount": "1",
         "effect": "Whenever an opponent activates an ability of an artifact, creature, or land on the battlefield, if it isn\u2019t a mana ability, Harsh Mentor deals 2 damage to that player.",
+        "effect2": ""
+    },
+    {
+        "name": "Hedge Shredder",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Artifact \u2014 Vehicle",
+        "cost": "{2}{G}{G}",
+        "power": "5/5",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Whenever Hedge Shredder attacks, you may mill two cards.; Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.; Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
         "effect2": ""
     },
     {
@@ -7028,6 +7056,20 @@
         "effect2": ""
     },
     {
+        "name": "Leyline of the Void",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Enchantment",
+        "cost": "{2}{B}{B}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.; If a card would be put into an opponent\u2019s graveyard from anywhere, exile it instead.",
+        "effect2": ""
+    },
+    {
         "name": "Leyline of Transformation",
         "name2": "",
         "rarity": "Rare",
@@ -8521,7 +8563,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "3",
+        "amount": "4",
         "effect": "Neglected Manor enters tapped unless a player has 13 or less life.; {T}: Add {W} or {B}.",
         "effect2": ""
     },
@@ -10257,7 +10299,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Raucous Carnival enters tapped unless a player has 13 or less life.; {T}: Add {R} or {W}.",
         "effect2": ""
     },
@@ -13891,9 +13933,9 @@
         "name": "Underworld Dreams",
         "name2": "",
         "rarity": "Rare",
-        "color": "black",
+        "color": "colorless",
         "type": "Enchantment",
-        "cost": "{B}{B}{B}",
+        "cost": "",
         "power": "",
         "tag": "direct damage",
         "set": "Ninth Edition",
@@ -13935,7 +13977,7 @@
         "rarity": "Rare",
         "color": "black",
         "type": "Creature \u2014 Zombie Assassin",
-        "cost": "{B}",
+        "cost": "{2}{B}",
         "power": "",
         "tag": "life loss, graveyard, rule change",
         "set": "Duskmourn: House of Horror",
@@ -13983,6 +14025,34 @@
         "set": "The Brothers' War",
         "amount": "2",
         "effect": "Choose one \u2014; \u2022 Counter target spell.; \u2022 Tap up to two target creatures.",
+        "effect2": ""
+    },
+    {
+        "name": "Valgavoth's Lair",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Enchantment Land",
+        "cost": "",
+        "power": "",
+        "tag": "multi land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Hexproof; Valgavoth\u2019s Lair enters tapped. As it enters, choose a color.; {T}: Add one mana of the chosen color.",
+        "effect2": ""
+    },
+    {
+        "name": "Valgavoth's Onslaught",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{X}{X}{G}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Manifest dread X times, then put X +1/+1 counters on each of those creatures. (To manifest dread, look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it\u2019s a creature card.)",
         "effect2": ""
     },
     {
