@@ -1352,8 +1352,8 @@
         "cost": "{2}{R}",
         "power": "",
         "tag": "draw card, direct damage",
-        "set": "Masters 25",
-        "amount": "5",
+        "set": "Masters 25, Duel Decks: Sorin vs. Tibalt, Premium Deck Series: Fire and Lightning",
+        "amount": "13",
         "effect": "Any player may have Browbeat deal 5 damage to them. If no one does, target player draws three cards.",
         "effect2": ""
     },
@@ -2430,8 +2430,8 @@
         "cost": "{B}",
         "power": "",
         "tag": "mana ability",
-        "set": "Tempest, Ice Age",
-        "amount": "4",
+        "set": "Revised, Tempest, Ice Age, Mirage, Urza's Saga",
+        "amount": "13",
         "effect": "Add {B}{B}{B}.",
         "effect2": ""
     },
@@ -3158,7 +3158,7 @@
         "cost": "{X}{1}{B}",
         "power": "",
         "tag": "life gain, direct damage",
-        "set": "Fifth Edition",
+        "set": "Revised, Fifth Edition",
         "amount": "2",
         "effect": "Spend only black mana on X.; Drain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player\u2019s life total before the damage was dealt, the planeswalker\u2019s loyalty before the damage was dealt, or the creature\u2019s toughness.",
         "effect2": ""
@@ -3287,6 +3287,20 @@
         "set": "Invasion",
         "amount": "1",
         "effect": "Flying; Whenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U}. If you do, choose a color, then return all creatures of that color to their owners\u2019 hands.",
+        "effect2": ""
+    },
+    {
+        "name": "Dromar's Cavern",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Land \u2014 Lair",
+        "cost": "",
+        "power": "",
+        "tag": "tri land",
+        "set": "Planeshift ",
+        "amount": "3",
+        "effect": "When Dromar\u2019s Cavern enters, sacrifice it unless you return a non-Lair land you control to its owner\u2019s hand.; {T}: Add {W}, {U}, or {B}.",
         "effect2": ""
     },
     {
@@ -3721,6 +3735,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Whenever players finish voting, each opponent who voted for a choice you voted for creates a Treasure token. You scry X, where X is the number of opponents who voted for a choice you didn\u2019t vote for. Draw a card.",
+        "effect2": ""
+    },
+    {
+        "name": "Erosion",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{U}{U}{U}",
+        "power": "",
+        "tag": "life loss, land Destruction",
+        "set": "Fourth Edition",
+        "amount": "1",
+        "effect": "Enchant land; At the beginning of the upkeep of enchanted land\u2019s controller, destroy that land unless that player pays {1} or 1 life.",
         "effect2": ""
     },
     {
@@ -5359,6 +5387,20 @@
         "set": "Amonkhet",
         "amount": "1",
         "effect": "Whenever an opponent activates an ability of an artifact, creature, or land on the battlefield, if it isn\u2019t a mana ability, Harsh Mentor deals 2 damage to that player.",
+        "effect2": ""
+    },
+    {
+        "name": "Haunting Imitation",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Sorcery",
+        "cost": "{2}{U}",
+        "power": "",
+        "tag": "copy spell, Creature Token",
+        "set": "Crimson Vow Commander",
+        "amount": "1",
+        "effect": "Each player reveals the top card of their library. For each creature card revealed this way, create a token that\u2019s a copy of that card, except it\u2019s 1/1, it\u2019s a Spirit in addition to its other types, and it has flying. If no creature cards were revealed this way, return Haunting Imitation to its owner\u2019s hand.",
         "effect2": ""
     },
     {
@@ -7065,7 +7107,7 @@
         "power": "",
         "tag": "graveyard",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.; If a card would be put into an opponent\u2019s graveyard from anywhere, exile it instead.",
         "effect2": ""
     },
@@ -7079,7 +7121,7 @@
         "power": "",
         "tag": "",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "If Leyline of Transformation is in your opening hand, you may begin the game with it on the battlefield.; As Leyline of Transformation enters, choose a creature type.; Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren\u2019t on the battlefield.",
         "effect2": ""
     },
@@ -10458,6 +10500,20 @@
         "effect2": ""
     },
     {
+        "name": "Release the Gremlins",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{X}{X}{R}",
+        "power": "",
+        "tag": "artifact destruction, Creature Token",
+        "set": "The List",
+        "amount": "2",
+        "effect": "Destroy X target artifacts. Create X 2/2 red Gremlin creature tokens.",
+        "effect2": ""
+    },
+    {
         "name": "Relentless Rats",
         "name2": "",
         "rarity": "Uncommon",
@@ -10511,6 +10567,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "You have no maximum hand size.; {T}: Add {C}.",
+        "effect2": ""
+    },
+    {
+        "name": "Reluctant Role Model",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Creature \u2014 Human Survivor",
+        "cost": "{1}{W}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Survival \u2014 At the beginning of your second main phase, if Reluctant Role Model is tapped, put a flying, lifelink, or +1/+1 counter on it.; Whenever Reluctant Role Model or another creature you control dies, if it had counters on it, put those counters on up to one target creature.",
         "effect2": ""
     },
     {
@@ -10606,8 +10676,8 @@
         "cost": "{R}{R}",
         "power": "",
         "tag": "copy spell",
-        "set": "Magic 2011",
-        "amount": "1",
+        "set": "Magic 2011, Warhammer 40,000 Commander",
+        "amount": "9",
         "effect": "Copy target instant or sorcery spell. You may choose new targets for the copy.",
         "effect2": ""
     },
@@ -10886,8 +10956,8 @@
         "cost": "",
         "power": "",
         "tag": "dual land, life gain",
-        "set": "March of the Machine",
-        "amount": "1",
+        "set": "March of the Machine, Kamigawa: Neon Dynasty",
+        "amount": "2",
         "effect": "Rugged Highlands enters the battlefield tapped.; When Rugged Highlands enters the battlefield, you gain 1 life.; {T}: Add {R} or {G}.",
         "effect2": ""
     },
@@ -11335,7 +11405,7 @@
         "power": "",
         "tag": "Land Destruction, mana ability",
         "set": "Ravnica: City of Guilds",
-        "amount": "1",
+        "amount": "2",
         "effect": "Destroy target land. Add {R}{R}.",
         "effect2": ""
     },
@@ -12404,6 +12474,20 @@
         "effect2": ""
     },
     {
+        "name": "Stensia Uprising",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Enchantment",
+        "cost": "{1}{R}{R}",
+        "power": "",
+        "tag": "direct damage, Creature Token",
+        "set": "Innistrad: Crimson Vow",
+        "amount": "2",
+        "effect": "At the beginning of your end step, create a 1/1 red Human creature token. Then if you control exactly thirteen permanents, you may sacrifice Stensia Uprising. When you do, it deals 7 damage to any target.",
+        "effect2": ""
+    },
+    {
         "name": "Stern Scolding",
         "name2": "",
         "rarity": "Uncommon",
@@ -12555,6 +12639,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "{2}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. (A triggered ability uses the words \u201cwhen,\u201d \u201cwhenever,\u201d or \u201cat.\u201d)",
+        "effect2": ""
+    },
+    {
+        "name": "Strip Mine",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "land Destruction",
+        "set": "Anthologies",
+        "amount": "1",
+        "effect": "{T}: Add {C}.; {T}, Sacrifice Strip Mine: Destroy target land.",
         "effect2": ""
     },
     {
@@ -13070,8 +13168,8 @@
         "cost": "{1}{B}",
         "power": "",
         "tag": "creature destruction",
-        "set": "Fourth Edition, Mirrodin",
-        "amount": "3",
+        "set": "Revised, Fourth Edition, Mirrodin",
+        "amount": "4",
         "effect": "Destroy target nonartifact, nonblack creature. It can\u2019t be regenerated.",
         "effect2": ""
     },
@@ -13608,6 +13706,20 @@
         "effect2": ""
     },
     {
+        "name": "Toxin Sliver",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Sliver",
+        "cost": "{3}{B}",
+        "power": "3/3",
+        "tag": "creature destruction",
+        "set": "Secret Lair Drop",
+        "amount": "1",
+        "effect": "Whenever a Sliver deals combat damage to a creature, destroy that creature. It can\u2019t be regenerated.",
+        "effect2": ""
+    },
+    {
         "name": "Trading Post",
         "name2": "",
         "rarity": "Rare",
@@ -13790,6 +13902,20 @@
         "effect2": ""
     },
     {
+        "name": "Twitching Doll",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Artifact Creature \u2014 Spider Toy",
+        "cost": "{1}{G}",
+        "power": "2/2",
+        "tag": "mana ability, Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "{T}: Add one mana of any color. Put a nest counter on Twitching Doll.; {T}, Sacrifice Twitching Doll: Create a 2/2 green Spider creature token with reach for each counter on Twitching Doll. Activate only as a sorcery.",
+        "effect2": ""
+    },
+    {
         "name": "Two-Headed Hellkite",
         "name2": "",
         "rarity": "Rare",
@@ -13807,9 +13933,9 @@
         "name": "Tyrannize",
         "name2": "",
         "rarity": "Rare",
-        "color": "black, red",
+        "color": "colorless",
         "type": "Sorcery",
-        "cost": " {3}{B/R}{B/R}",
+        "cost": "",
         "power": "",
         "tag": "life loss",
         "set": "Shadowmoor",
@@ -13933,9 +14059,9 @@
         "name": "Underworld Dreams",
         "name2": "",
         "rarity": "Rare",
-        "color": "colorless",
+        "color": "black",
         "type": "Enchantment",
-        "cost": "",
+        "cost": "{B}{B}{B}",
         "power": "",
         "tag": "direct damage",
         "set": "Ninth Edition",
@@ -14025,6 +14151,20 @@
         "set": "The Brothers' War",
         "amount": "2",
         "effect": "Choose one \u2014; \u2022 Counter target spell.; \u2022 Tap up to two target creatures.",
+        "effect2": ""
+    },
+    {
+        "name": "Urza's Tower",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Land \u2014 Urza's Tower",
+        "cost": "",
+        "power": "",
+        "tag": "",
+        "set": "Chronicles, Fifth Edition",
+        "amount": "3",
+        "effect": "{T}: Add {C}. If you control an Urza\u2019s Mine and an Urza\u2019s Power-Plant, add {C}{C}{C} instead.",
         "effect2": ""
     },
     {
@@ -14809,6 +14949,20 @@
         "set": "Zendikar",
         "amount": "1",
         "effect": "Landfall \u2014 Whenever a land you control enters, you may put a quest counter on Zektar Shrine Expedition.; Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Create a 7/1 red Elemental creature token with trample and haste. Exile it at the beginning of the next end step.",
+        "effect2": ""
+    },
+    {
+        "name": "Zimone, All-Questioning",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue, green",
+        "type": "Legendary Creature \u2014 Human Wizard",
+        "cost": "{1}{U}{G}",
+        "power": "1/1",
+        "tag": "Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)",
         "effect2": ""
     }
 ]
