@@ -9,8 +9,22 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "2",
+        "amount": "3",
         "effect": "Abandoned Campground enters tapped unless a player has 13 or less life.; {T}: Add {W} or {U}.",
+        "effect2": ""
+    },
+    {
+        "name": "Abhorrent Oculus",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "blue",
+        "type": "Creature \u2014 Eye",
+        "cost": "{2}{U}",
+        "power": "5/5",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "As an additional cost to cast this spell, exile six cards from your graveyard.; Flying; At the beginning of each opponent\u2019s upkeep, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it\u2019s a creature card.)",
         "effect2": ""
     },
     {
@@ -1050,6 +1064,34 @@
         "effect2": ""
     },
     {
+        "name": "Blazemire Verge",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "Dual Land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "{T}: Add {B}.; {T}: Add {R}. Activate only if you control a Swamp or a Mountain.",
+        "effect2": ""
+    },
+    {
+        "name": "Bleeding Woods",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "dual land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Bleeding Woods enters tapped unless a player has 13 or less life.; {T}: Add {R} or {G}.",
+        "effect2": ""
+    },
+    {
         "name": "Bloated Contaminator",
         "name2": "",
         "rarity": "Rare",
@@ -1596,6 +1638,20 @@
         "effect2": ""
     },
     {
+        "name": "Chainsaw",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{3}{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "When Chainsaw enters, it deals 3 damage to up to one target creature.; Whenever one or more creatures die, put a rev counter on Chainsaw.; Equipped creature gets +X/+0, where X is the number of rev counters on Chainsaw.; Equip {3}",
+        "effect2": ""
+    },
+    {
         "name": "Chaos Harlequin",
         "name2": "",
         "rarity": "Rare",
@@ -1983,7 +2039,7 @@
         "power": "",
         "tag": "creature destruction, hijack",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Destroy target creature. If a creature card is put into a graveyard this way, return it to the battlefield under your control. Sacrifice it at the beginning of your next end step.",
         "effect2": ""
     },
@@ -2352,6 +2408,20 @@
         "effect2": ""
     },
     {
+        "name": "Cursed Recording",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Artifact",
+        "cost": "{2}{R}{R}",
+        "power": "",
+        "tag": "copy spell",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Whenever you cast an instant or sorcery spell, put a time counter on Cursed Recording. Then if there are seven or more time counters on it, remove those counters and it deals 20 damage to you.; {T}: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
+        "effect2": ""
+    },
+    {
         "name": "Cyclops Gladiator",
         "name2": "",
         "rarity": "Rare",
@@ -2671,6 +2741,20 @@
         "set": "Time Spiral",
         "amount": "1",
         "effect": "Buyback\u2014Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.); Search your library for a card, put that card into your hand, then shuffle.",
+        "effect2": ""
+    },
+    {
+        "name": "Demonic Counsel",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Search your library for a Demon card, reveal it, put it into your hand, then shuffle.; Delirium \u2014 If there are four or more card types among cards in your graveyard, instead search your library for any card, put it into your hand, then shuffle.",
         "effect2": ""
     },
     {
@@ -3010,6 +3094,20 @@
         "effect2": ""
     },
     {
+        "name": "Dissection Tools",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{5}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "When Dissection Tools enters, manifest dread, then attach Dissection Tools to that creature.; Equipped creature gets +2/+2 and has deathtouch and lifelink.; Equip\u2014Sacrifice a creature.",
+        "effect2": ""
+    },
+    {
         "name": "Distorting Lens",
         "name2": "",
         "rarity": "Rare",
@@ -3077,6 +3175,20 @@
         "set": "Magic 2011, Magic 2012",
         "amount": "4",
         "effect": "Destroy target nonblack creature.",
+        "effect2": ""
+    },
+    {
+        "name": "Doomsday Excruciator",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Demon",
+        "cost": "{B}{B}{B}{B}{B}{B}",
+        "power": "6/6",
+        "tag": "draw card, mill",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Flying; When Doomsday Excruciator enters, if it was cast, each player exiles all but the bottom six cards of their library face down.; At the beginning of your upkeep, draw a card.",
         "effect2": ""
     },
     {
@@ -3663,8 +3775,22 @@
         "power": "3/3",
         "tag": "",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Whenever another creature you control enters, it gets +2/+0 and gains haste until end of turn.; When Enduring Courage dies, if it was a creature, return it to the battlefield under its owner\u2019s control. It\u2019s an enchantment. (It\u2019s not a creature.)",
+        "effect2": ""
+    },
+    {
+        "name": "Enduring Curiosity",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Enchantment Creature \u2014 Cat Glimmer",
+        "cost": "{2}{U}{U}",
+        "power": "4/3",
+        "tag": "draw card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Flash; Whenever a creature you control deals combat damage to a player, draw a card.; When Enduring Curiosity dies, if it was a creature, return it to the battlefield under its owner\u2019s control. It\u2019s an enchantment. (It\u2019s not a creature.)",
         "effect2": ""
     },
     {
@@ -3679,6 +3805,34 @@
         "set": "Duskmourn: House of Horror",
         "amount": "1",
         "effect": "Lifelink; Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.; When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner\u2019s control. It\u2019s an enchantment. (It\u2019s not a creature.)",
+        "effect2": ""
+    },
+    {
+        "name": "Enduring Tenacity",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Enchantment Creature \u2014 Snake Glimmer",
+        "cost": "{2}{B}{B}",
+        "power": "",
+        "tag": "life loss",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Whenever you gain life, target opponent loses that much life.; When Enduring Tenacity dies, if it was a creature, return it to the battlefield under its owner\u2019s control. It\u2019s an enchantment. (It\u2019s not a creature.)",
+        "effect2": ""
+    },
+    {
+        "name": "Enduring Vitality",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Enchantment Creature \u2014 Elk Glimmer",
+        "cost": "{1}{G}{G}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Vigilance; Creatures you control have \u201c{T}: Add one mana of any color.\u201d; When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner\u2019s control. It\u2019s an enchantment. (It\u2019s not a creature.)",
         "effect2": ""
     },
     {
@@ -3705,7 +3859,7 @@
         "power": "2/3",
         "tag": "draw card",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Flash; Eerie \u2014 Whenever an enchantment you control enters and whenever you fully unlock a Room, draw a card.",
         "effect2": ""
     },
@@ -3789,7 +3943,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Etched Cornfield enters tapped unless a player has 13 or less life.; {T}: Add {G} or {W}.",
         "effect2": ""
     },
@@ -4055,7 +4209,7 @@
         "power": "2/3",
         "tag": "draw card, rule change",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "When Fear of Missing Out enters, discard a card, then draw a card.; Delirium \u2014 Whenever Fear of Missing Out attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",
         "effect2": ""
     },
@@ -4298,6 +4452,20 @@
         "effect2": ""
     },
     {
+        "name": "Floodfarm Verge",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "Dual Land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "{T}: Add {W}.; {T}: Add {U}. Activate only if you control a Plains or an Island.",
+        "effect2": ""
+    },
+    {
         "name": "Flow of Knowledge",
         "name2": "",
         "rarity": "Uncommon",
@@ -4506,6 +4674,20 @@
         "amount": "1",
         "effect": "As Frostboil Snarl enters, you may reveal an Island or Mountain card from your hand. If you don\u2019t, Frostboil Snarl enters tapped.; {T}: Add {U} or {R}.",
         "effect2": ""
+    },
+    {
+        "name": "Funeral Room",
+        "name2": "Awakening Hall",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "life gain, life loss, graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",
+        "effect2": "When you unlock this door, return all creature cards from your graveyard to the battlefield."
     },
     {
         "name": "Furycalm Snarl",
@@ -4718,6 +4900,20 @@
         "effect2": ""
     },
     {
+        "name": "Geosurge",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{R}{R}{R}{R}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "New Phyrexia",
+        "amount": "3",
+        "effect": "Add {R}{R}{R}{R}{R}{R}{R}. Spend this mana only to cast artifact or creature spells.",
+        "effect2": ""
+    },
+    {
         "name": "Geth, Lord of the Vault",
         "name2": "",
         "rarity": "Mythic",
@@ -4771,6 +4967,20 @@
         "set": "Duskmourn: House of Horror",
         "amount": "1",
         "effect": "{T}: Exile target card from a graveyard.; {6}, {T}, Sacrifice Ghost Vacuum: Put each creature card exiled with Ghost Vacuum onto the battlefield under your control with a flying counter on it. Each of them is a 1/1 Spirit in addition to its other types. Activate only as a sorcery.",
+        "effect2": ""
+    },
+    {
+        "name": "Ghostly Dancers",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Creature \u2014 Spirit",
+        "cost": "{3}{W}{W}",
+        "power": "2/5",
+        "tag": "Creature Token, graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Flying; When Ghostly Dancers enters, return an enchantment card from your graveyard to your hand or unlock a locked door of a Room you control.; Eerie \u2014 Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 3/1 white Spirit creature token with flying.",
         "effect2": ""
     },
     {
@@ -4923,7 +5133,7 @@
         "power": "",
         "tag": "Dual Land",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "3",
         "effect": "{T}: Add {U}.; {T}: Add {B}. Activate only if you control an Island or a Swamp.",
         "effect2": ""
     },
@@ -5413,7 +5623,7 @@
         "power": "5/5",
         "tag": "graveyard",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Whenever Hedge Shredder attacks, you may mill two cards.; Whenever one or more land cards are put into your graveyard from your library, put them onto the battlefield tapped.; Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
         "effect2": ""
     },
@@ -6398,6 +6608,20 @@
         "effect2": ""
     },
     {
+        "name": "Joyful Stormsculptor",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue, red",
+        "type": "Creature \u2014 Human Shaman",
+        "cost": "{3}{U}{R}",
+        "power": "2/3",
+        "tag": "direct damage, Creature Token",
+        "set": "March of the Machine",
+        "amount": "2",
+        "effect": "When Joyful Stormsculptor enters, create two 1/1 blue and red Elemental creature tokens.; Whenever you cast a spell that has convoke, Joyful Stormsculptor deals 1 damage to each opponent and each battle they protect.",
+        "effect2": ""
+    },
+    {
         "name": "Jungle Hollow",
         "name2": "",
         "rarity": "Common",
@@ -6911,7 +7135,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Lakeside Shack enters tapped unless a player has 13 or less life.; {T}: Add {G} or {U}.",
         "effect2": ""
     },
@@ -7053,6 +7277,20 @@
         "set": "The List",
         "amount": "1",
         "effect": "Players can\u2019t search libraries. Any player may pay\u00a0{2}\u00a0for that player to ignore this effect until end of turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Leyline of Hope",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Enchantment",
+        "cost": "{2}{W}{W}",
+        "power": "",
+        "tag": "life gain",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "If Leyline of Hope is in your opening hand, you may begin the game with it on the battlefield.; If you would gain life, you gain that much life plus 1 instead.; As long as you have at least 7 life more than your starting life total, creatures you control get +2/+2.",
         "effect2": ""
     },
     {
@@ -7291,6 +7529,20 @@
         "set": "Fourth Edition, Magic 2011",
         "amount": "4",
         "effect": "{T}: Add {G}.",
+        "effect2": ""
+    },
+    {
+        "name": "Llanowar Tribe",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Elf Druid",
+        "cost": "{G}{G}{G}",
+        "power": "3/3",
+        "tag": "mana ability",
+        "set": "Modern Horizons",
+        "amount": "1",
+        "effect": "{T}: Add {G}{G}{G}.",
         "effect2": ""
     },
     {
@@ -7672,6 +7924,20 @@
         "effect2": ""
     },
     {
+        "name": "Marina Vendrell's Grimoire",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Legendary Artifact",
+        "cost": "{5}{U}",
+        "power": "",
+        "tag": "draw card, rule change",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "When Marina Vendrell\u2019s Grimoire enters, if you cast it, draw five cards.; You have no maximum hand size and don\u2019t lose the game for having 0 or less life.; Whenever you gain life, draw that many cards.; Whenever you lose life, discard that many cards. Then if you have no cards in hand, you lose the game.",
+        "effect2": ""
+    },
+    {
         "name": "Marsh Flats",
         "name2": "",
         "rarity": "Rare",
@@ -7751,7 +8017,7 @@
         "power": "",
         "tag": "life loss, hijack, graveyard",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "When Meathook Massacre II enters, each player sacrifices X creatures.; Whenever a creature you control dies, you may pay 3 life. If you do, return that card under your control with a finality counter on it.; Whenever a creature an opponent controls dies, they may pay 3 life. If they don\u2019t, return that card under your control with a finality counter on it.",
         "effect2": ""
     },
@@ -8367,7 +8633,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "2",
+        "amount": "3",
         "effect": "Murky Sewer enters tapped unless a player has 13 or less life.; {T}: Add {U} or {B}.",
         "effect2": ""
     },
@@ -9207,8 +9473,22 @@
         "power": "5/5",
         "tag": "direct damage",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Impending 4\u2014{2}{R}{R} (If you cast this spell for its impending cost, it enters with four time counters and isn\u2019t a creature until the last is removed. At the beginning of your end step, remove a time counter from it.); Whenever Overlord of the Boilerbilges enters or attacks, it deals 4 damage to any target.",
+        "effect2": ""
+    },
+    {
+        "name": "Overlord of the Floodpits",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "blue",
+        "type": "Enchantment Creature \u2014 Avatar Horror",
+        "cost": "{3}{U}{U}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Impending 4\u2014{1}{U}{U} (If you cast this spell for its impending cost, it enters with four time counters and isn\u2019t a creature until the last is removed. At the beginning of your end step, remove a time counter from it.); Flying; Whenever Overlord of the Floodpits enters or attacks, draw two cards, then discard a card.",
         "effect2": ""
     },
     {
@@ -9403,7 +9683,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Peculiar Lighthouse enters tapped unless a player has 13 or less life.; {T}: Add {U} or {R}.",
         "effect2": ""
     },
@@ -10206,6 +10486,20 @@
         "effect2": ""
     },
     {
+        "name": "Rain of Salt",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{4}{R}{R}",
+        "power": "",
+        "tag": "Land Destruction",
+        "set": "Urza's Saga",
+        "amount": "7",
+        "effect": "Destroy two target lands.",
+        "effect2": ""
+    },
+    {
         "name": "Raise the Palisade",
         "name2": "",
         "rarity": "Rare",
@@ -10341,7 +10635,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "2",
+        "amount": "3",
         "effect": "Raucous Carnival enters tapped unless a player has 13 or less life.; {T}: Add {R} or {W}.",
         "effect2": ""
     },
@@ -10369,7 +10663,7 @@
         "power": "",
         "tag": "dual land",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Razortrap Gorge enters tapped unless a player has 13 or less life.; {T}: Add {B} or {R}.",
         "effect2": ""
     },
@@ -10677,7 +10971,7 @@
         "power": "",
         "tag": "copy spell",
         "set": "Magic 2011, Warhammer 40,000 Commander",
-        "amount": "9",
+        "amount": "13",
         "effect": "Copy target instant or sorcery spell. You may choose new targets for the copy.",
         "effect2": ""
     },
@@ -10789,7 +11083,7 @@
         "power": "4/4",
         "tag": "fetch card",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Survival \u2014 At the beginning of your second main phase, if Rip, Spawn Hunter is tapped, reveal the top X cards of your library, where X is its power. Put any number of creature and/or Vehicle cards with different powers from among them into your hand. Put the rest on the bottom of your library in a random order.",
         "effect2": ""
     },
@@ -10848,6 +11142,20 @@
         "amount": "1",
         "effect": "Islandwalk (This creature can\u2019t be blocked as long as defending player controls an Island.); {G}: Regenerate River Boa.",
         "effect2": ""
+    },
+    {
+        "name": "Roaring Furnace",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue, red",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "direct damage, draw card, rule change",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "When you unlock this door, this Room deals damage equal to the number of cards in your hand to target creature an opponent controls.",
+        "effect2": "You have no maximum hand size.; At the beginning of your end step, draw a card."
     },
     {
         "name": "Rocky Tar Pit",
@@ -11111,7 +11419,7 @@
         "power": "",
         "tag": "counterspell",
         "set": "The Lord of the Rings: Tales of Middle-earth",
-        "amount": "3",
+        "amount": "7",
         "effect": "Counter target spell.; Amass Orcs 1.",
         "effect2": ""
     },
@@ -11225,6 +11533,20 @@
         "set": "Alliances",
         "amount": "3",
         "effect": "{T}: Add {C}.; {2}, {T}: Add one mana of any color.",
+        "effect2": ""
+    },
+    {
+        "name": "Scorched Earth",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{X}{R}",
+        "power": "",
+        "tag": "Land Destruction",
+        "set": "Tempest",
+        "amount": "2",
+        "effect": "As an additional cost to cast this spell, discard X land cards.; Destroy X target lands.",
         "effect2": ""
     },
     {
@@ -11687,6 +12009,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "Deathtouch; Whenever Silas Renn, Seeker Adept deals combat damage to a player, choose target artifact card in your graveyard. You may cast that card this turn.; Partner (You can have two commanders if both have partner.)",
+        "effect2": ""
+    },
+    {
+        "name": "Silent Hallcreeper",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Enchantment Creature \u2014 Horror",
+        "cost": "{1}{U}",
+        "power": "",
+        "tag": "draw card, copy spell",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Silent Hallcreeper can\u2019t be blocked.; Whenever Silent Hallcreeper deals combat damage to a player, choose one that hasn\u2019t been chosen \u2014; \u2022 Put two +1/+1 counters on Silent Hallcreeper.; \u2022 Draw a card.; \u2022 Silent Hallcreeper becomes a copy of another target creature you control.",
         "effect2": ""
     },
     {
@@ -12315,7 +12651,7 @@
         "power": "",
         "tag": "creature destruction",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Choose one \u2014; \u2022 Destroy all tapped creatures.; \u2022 Destroy all untapped creatures.",
         "effect2": ""
     },
@@ -12611,6 +12947,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Islandwalk (This creature can\u2019t be blocked as long as defending player controls an Island.); All lands are Islands in addition to their other types.; Creatures without flying or islandwalk can\u2019t attack.",
+        "effect2": ""
+    },
+    {
+        "name": "Strangled Cemetery",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "dual land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Strangled Cemetery enters tapped unless a player has 13 or less life.; {T}: Add {B} or {G}.",
         "effect2": ""
     },
     {
@@ -13154,8 +13504,8 @@
         "cost": "",
         "power": "",
         "tag": "fetch card",
-        "set": "Time Spiral, Magic 2011, The Brothers' War Commander, Dominaria United Commander",
-        "amount": "7",
+        "set": "Time Spiral, Magic 2011, The Brothers' War Commander, Dominaria United Commander, Duskmourn: House of Horror",
+        "amount": "13",
         "effect": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
         "effect2": ""
     },
@@ -13351,7 +13701,7 @@
         "power": "10/1",
         "tag": "mill",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "The Mindskinner can\u2019t be blocked.; If a source you control would deal damage to an opponent, prevent that damage and each opponent mills that many cards.",
         "effect2": ""
     },
@@ -13454,6 +13804,20 @@
         "effect2": ""
     },
     {
+        "name": "The Tale of Tamiyo",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Legendary Enchantment \u2014 Saga",
+        "cost": "{2}{U}",
+        "power": "",
+        "tag": "copy spell",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "I, II, III \u2014 Mill two cards. If two cards that share a card type were milled this way, draw a card and repeat this process.; IV \u2014 Exile any number of target instant, sorcery, and/or Tamiyo planeswalker cards from your graveyard. Copy them. You may cast any number of the copies.",
+        "effect2": ""
+    },
+    {
         "name": "The Torment of Gollum",
         "name2": "",
         "rarity": "Common",
@@ -13493,6 +13857,20 @@
         "set": "Zendikar Rising",
         "amount": "1",
         "effect": "Kicker {X}. X can\u2019t be 0. (You may pay an additional {X} as you cast this spell.); Flying; When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to Thieving Skydiver.",
+        "effect2": ""
+    },
+    {
+        "name": "Thornspire Verge",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "Dual Land",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "{T}: Add {R}.; {T}: Add {G}. Activate only if you control a Mountain or a Forest.",
         "effect2": ""
     },
     {
@@ -13557,7 +13935,7 @@
         "rarity": "Uncommon",
         "color": "colorless",
         "type": "Artifact",
-        "cost": "{4}",
+        "cost": "",
         "power": "",
         "tag": "mana ability",
         "set": "The Brothers' War Commander",
@@ -13933,9 +14311,9 @@
         "name": "Tyrannize",
         "name2": "",
         "rarity": "Rare",
-        "color": "colorless",
+        "color": "black, red",
         "type": "Sorcery",
-        "cost": "",
+        "cost": " {3}{B/R}{B/R}",
         "power": "",
         "tag": "life loss",
         "set": "Shadowmoor",
@@ -14023,7 +14401,7 @@
         "power": "2/2",
         "tag": "graveyard",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Trample, haste; You may cast Undead Sprinter from your graveyard if a non-Zombie creature died this turn. If you do, Undead Sprinter enters with a +1/+1 counter on it.",
         "effect2": ""
     },
@@ -14067,6 +14445,48 @@
         "set": "Ninth Edition",
         "amount": "1",
         "effect": "Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.",
+        "effect2": ""
+    },
+    {
+        "name": "Unholy Annex",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "draw card, life gain, life loss, Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "At the beginning of your end step, draw a card. If you control a Demon, each opponent loses 2 life and you gain 2 life. Otherwise, you lose 2 life.",
+        "effect2": "When you unlock this door, create a 6/6 black Demon creature token with flying."
+    },
+    {
+        "name": "Unholy Heat",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Special Guests",
+        "amount": "1",
+        "effect": "Unholy Heat deals 2 damage to target creature or planeswalker.; Delirium \u2014 Unholy Heat deals 6 damage instead if there are four or more card types among cards in your graveyard.",
+        "effect2": ""
+    },
+    {
+        "name": "Unidentified Hovership",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Artifact \u2014 Vehicle",
+        "cost": "{1}{W}{W}",
+        "power": "2/2",
+        "tag": "creature destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Flying; When Unidentified Hovership enters, exile up to one target creature with toughness 5 or less.; When Unidentified Hovership leaves the battlefield, the exiled card\u2019s owner manifests dread.; Crew 1",
         "effect2": ""
     },
     {
@@ -14168,6 +14588,20 @@
         "effect2": ""
     },
     {
+        "name": "Valgavoth, Terror Eater",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "black",
+        "type": "Legendary Creature \u2014 Elder Demon",
+        "cost": "{6}{B}{B}{B}",
+        "power": "9/9",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Flying, lifelink; Ward\u2014Sacrifice three nonland permanents.; If a card you didn\u2019t control would be put into an opponent\u2019s graveyard from anywhere, exile it instead.; During your turn, you may play cards exiled with Valgavoth. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.",
+        "effect2": ""
+    },
+    {
         "name": "Valgavoth's Lair",
         "name2": "",
         "rarity": "Rare",
@@ -14177,7 +14611,7 @@
         "power": "",
         "tag": "multi land",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Hexproof; Valgavoth\u2019s Lair enters tapped. As it enters, choose a color.; {T}: Add one mana of the chosen color.",
         "effect2": ""
     },
@@ -14305,6 +14739,20 @@
         "set": "Zendikar",
         "amount": "1",
         "effect": "{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
+        "effect2": ""
+    },
+    {
+        "name": "Victor, Valgavoth's Seneschal",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, white",
+        "type": "Legendary Creature \u2014 Human Warlock",
+        "cost": "{1}{B}{W}",
+        "power": "",
+        "tag": "discard card, graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Eerie \u2014 Whenever an enchantment you control enters and whenever you fully unlock a Room, surveil 2 if this is the first time this ability has resolved this turn. If it\u2019s the second time, each opponent discards a card. If it\u2019s the third time, put a creature card from a graveyard onto the battlefield under your control.",
         "effect2": ""
     },
     {
@@ -14476,6 +14924,20 @@
         "effect2": ""
     },
     {
+        "name": "Walk-In Closet",
+        "name2": "Forgotten Cellar",
+        "rarity": "Mythic",
+        "color": "green",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "You may play lands from your graveyard.",
+        "effect2": "When you unlock this door, you may cast spells from your graveyard this turn, and if a card would be put into your graveyard from anywhere this turn, exile it instead."
+    },
+    {
         "name": "Wall of Bone",
         "name2": "",
         "rarity": "Uncommon",
@@ -14529,6 +14991,20 @@
         "set": "Magic 2011",
         "amount": "2",
         "effect": "Defender (This creature can\u2019t attack.); Reach (This creature can block creatures with flying.)",
+        "effect2": ""
+    },
+    {
+        "name": "Waltz of Rage",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{3}{R}{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "Target creature you control deals damage equal to its power to each other creature. Until end of turn, whenever a creature you control dies, exile the top card of your library. You may play it until the end of your next turn.",
         "effect2": ""
     },
     {
@@ -14737,7 +15213,7 @@
         "power": "3/4",
         "tag": "draw card, rule change",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "Ward {2}; At the beginning of your upkeep, each player draws two cards.; Delirium \u2014 As long as there are four or more card types among cards in your graveyard, each opponent\u2019s maximum hand size is equal to seven minus the number of those card types.",
         "effect2": ""
     },
