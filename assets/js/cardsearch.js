@@ -46,7 +46,7 @@ function searchCards(data) {
     const selectedRarities = Array.from(rarityCheckboxes).map(cb => cb.value);
     const selectedColors = Array.from(colorCheckboxes).map(cb => cb.value);
     const selectedColorScheme = colorMatchingScheme.value;
-    const cardColors = card.color.toLowerCase().split(",").map(color => color.trim());
+    const cardColors = cardData.color.toLowerCase().split(",").map(color => color.trim());
     
     // Filter the card data based on the search query and filters
     const searchResults = cardData.filter(card =>
