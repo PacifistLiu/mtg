@@ -55,7 +55,7 @@ function searchCards(data) {
         (selectedTag === 'all' || card.tag.toLowerCase().includes(selectedTag.toLowerCase())) &&
         (selectedRarities.length === 0 || selectedRarities.includes(card.rarity.toLowerCase())) &&
 		((selectedColorScheme === "partial" && (selectedColors.length === 0 || selectedColors.some(color => card.color.toLowerCase().includes(color.toLowerCase())))) ||
-        (selectedColorScheme === "exact" && (selectedColors.length === 0 || selectedColors.every(color => card.color.toLowerCase().includes(color.toLowerCase()))))) &&
+        (selectedColorScheme === "exact" && (selectedColors.length === 0 || selectedColors.every(color => card.color.toLowerCase().has(color.toLowerCase()))))) &&
 		(card.name.toLowerCase().includes(searchQuery) ||
         card.rarity.toLowerCase().includes(searchQuery) ||
         card.color.toLowerCase().includes(searchQuery) ||
