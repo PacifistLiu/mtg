@@ -46,6 +46,7 @@ function searchCards(data) {
     const selectedRarities = Array.from(rarityCheckboxes).map(cb => cb.value);
     const selectedColors = Array.from(colorCheckboxes).map(cb => cb.value);
     const selectedColorScheme = colorMatchingScheme.value;
+	const cardColors = card.color.toLowerCase().split(",").map(color => color.trim());
     
     // Filter the card data based on the search query and filters
     const searchResults = cardData.filter(card =>
@@ -55,7 +56,7 @@ function searchCards(data) {
         (selectedTag === 'all' || card.tag.toLowerCase().includes(selectedTag.toLowerCase())) &&
         (selectedRarities.length === 0 || selectedRarities.includes(card.rarity.toLowerCase())) &&
 		((selectedColorScheme === "partial" && (selectedColors.length === 0 || selectedColors.some(color => card.color.toLowerCase().includes(color.toLowerCase())))) ||
-        (selectedColorScheme === "exact" && (selectedColors.length === 0 || selectedColors.every(color => card.color.toLowerCase().has(color.toLowerCase()))))) &&
+        (selectedColorScheme === "exact" && (selectedColors.length === cardColors.length && selectedColors.length === 0 || selectedColors.every(color => card.color.toLowerCase().includes(color.toLowerCase()))))) &&
 		(card.name.toLowerCase().includes(searchQuery) ||
         card.rarity.toLowerCase().includes(searchQuery) ||
         card.color.toLowerCase().includes(searchQuery) ||
