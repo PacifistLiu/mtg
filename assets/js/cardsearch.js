@@ -47,17 +47,15 @@ function searchCards(data) {
     const selectedColors = Array.from(colorCheckboxes).map(cb => cb.value);
     const selectedColorScheme = colorMatchingScheme.value;
     
-    
     // Filter the card data based on the search query and filters
     const searchResults = cardData.filter(card =>
-		const cardColors = card.color.toLowerCase().split(",").map(color => color.trim());
         (selectedType === 'all' || card.type.toLowerCase().includes(selectedType.toLowerCase())) &&
         (selectedCreatureType === 'all' || card.type.toLowerCase().includes(selectedCreatureType.toLowerCase())) &&
         (selectedSet === 'all' || card.set.toLowerCase().includes(selectedSet.toLowerCase())) &&
         (selectedTag === 'all' || card.tag.toLowerCase().includes(selectedTag.toLowerCase())) &&
         (selectedRarities.length === 0 || selectedRarities.includes(card.rarity.toLowerCase())) &&
         ((selectedColorScheme === "partial" && (selectedColors.length === 0 || selectedColors.some(color => card.color.toLowerCase().includes(color.toLowerCase())))) ||
-        (selectedColorScheme === "exact" && (selectedColors.length === 0 || (selectedColors.length === cardColors.length && selectedColors.every(color => card.color.toLowerCase().includes(color.toLowerCase())))))) &&
+        (selectedColorScheme === "exact" && (selectedColors.length === 0 || (selectedColors.length === card.color.toLowerCase().split(",").map(color => color.trim()).length && selectedColors.every(color => card.color.toLowerCase().includes(color.toLowerCase())))))) &&
         (card.name.toLowerCase().includes(searchQuery) ||
         card.rarity.toLowerCase().includes(searchQuery) ||
         card.color.toLowerCase().includes(searchQuery) ||
