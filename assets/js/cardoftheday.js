@@ -11,19 +11,23 @@ fetch('card_data.json')
     console.error('Error loading card data:', error);
   });
 
+const simpleHash = (str) => {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = ((hash << 5) - hash) + char;
+        hash = hash & hash; // Convert to 32-bit integer
+    }
+    return Math.abs(hash);
+};
+
+
 function getObjectOfTheDay(cardData) {
-    const today = new Date();
-    
-    // Calculate the day of the year (0-364)
-    const start = new Date(today.getFullYear(), 0, 0);
-    const diff = today - start;
-    const oneDay = 1000 * 60 * 60 * 24;
-    const dayOfYear = Math.floor(diff / oneDay);
-    
-    // Use modulo to wrap around if there are more days than items
-    const index = dayOfYear % cardData.length;
-    const cardName = cardData[index].name;
-    //return items[index];
+	const today = new Date();
+	const dateString = today.toISOString().split('T')[0]; // YYYY-MM-DD
+	const hash = simpleHash(dateString);
+	const index = hash % cardData.length;
+	const cardName = cardData[index].name;
 	
 	
 	
