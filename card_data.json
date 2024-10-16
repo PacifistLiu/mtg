@@ -154,6 +154,20 @@
         "effect2": ""
     },
     {
+        "name": "Aminatou, Veil Piercer",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "black, blue, white",
+        "type": "Legendary Creature \u2014 Human Wizard",
+        "cost": "{1}{B}{U}{W}",
+        "power": "2/4",
+        "tag": "",
+        "set": "Duskmourn: House of Horror Commander",
+        "amount": "1",
+        "effect": "At the beginning of your upkeep, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.); Each enchantment card in your hand has miracle. Its miracle cost is equal to its mana cost reduced by {4}. (You may cast a card for its miracle cost when you draw it if it\u2019s the first card you drew this turn.)",
+        "effect2": ""
+    },
+    {
         "name": "Anarchist",
         "name2": "",
         "rarity": "Common",
@@ -638,8 +652,8 @@
         "cost": "{2}{G}",
         "power": "",
         "tag": "Creature Token, mana ability",
-        "set": "Rise of the Eldrazi",
-        "amount": "1",
+        "set": "Rise of the Eldrazi, New Capenna Commander",
+        "amount": "4",
         "effect": "At the beginning of your upkeep, you may create a 0/1 colorless Eldrazi Spawn creature token. It has \u201cSacrifice this creature: Add {C}.\u201d",
         "effect2": ""
     },
@@ -2296,6 +2310,20 @@
         "effect2": ""
     },
     {
+        "name": "Crucible of Worlds",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{3}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Core Set 2019",
+        "amount": "1",
+        "effect": "You may play lands from your graveyard.",
+        "effect2": ""
+    },
+    {
         "name": "Crumbling Necropolis",
         "name2": "",
         "rarity": "Uncommon",
@@ -2307,6 +2335,20 @@
         "set": "The Brothers' War Commander, Dominaria United Commander",
         "amount": "2",
         "effect": "Crumbling Necropolis enters the battlefield tapped.; {T}: Add {U}, {B}, or {R}.",
+        "effect2": ""
+    },
+    {
+        "name": "Crypt Ghast",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Spirit",
+        "cost": "{3}{B}",
+        "power": "2/2",
+        "tag": "mana ability, life gain, life loss",
+        "set": "Gatecrash",
+        "amount": "1",
+        "effect": "Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.); Whenever you tap a Swamp for mana, add an additional {B}.",
         "effect2": ""
     },
     {
@@ -5852,6 +5894,20 @@
         "effect2": ""
     },
     {
+        "name": "Hordeling Outburst",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{1}{R}{R}",
+        "power": "",
+        "tag": "Creature Token",
+        "set": "Khans of Tarkir",
+        "amount": "1",
+        "effect": "Create three 1/1 red Goblin creature tokens.",
+        "effect2": ""
+    },
+    {
         "name": "Horn of the Mark",
         "name2": "",
         "rarity": "Rare",
@@ -7812,6 +7868,20 @@
         "effect2": ""
     },
     {
+        "name": "Magus of the Coffers",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Human Wizard",
+        "cost": "{4}{B}",
+        "power": "4/4",
+        "tag": "mana ability",
+        "set": "Planar Chaos",
+        "amount": "1",
+        "effect": "{2}, {T}: Add {B} for each Swamp you control.",
+        "effect2": ""
+    },
+    {
         "name": "Magus of the Jar",
         "name2": "",
         "rarity": "Rare",
@@ -8103,6 +8173,20 @@
         "set": "Planeshift ",
         "amount": "1",
         "effect": "{T}: Choose a color of a permanent you control. Add one mana of that color.",
+        "effect2": ""
+    },
+    {
+        "name": "Might Sliver",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Sliver",
+        "cost": "{4}{G}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Time Spiral",
+        "amount": "1",
+        "effect": "All Sliver creatures get +2/+2.",
         "effect2": ""
     },
     {
@@ -9940,6 +10024,20 @@
         "effect2": ""
     },
     {
+        "name": "Pillage",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{1}{R}{R}",
+        "power": "",
+        "tag": "Land Destruction, artifact destruction",
+        "set": "The List",
+        "amount": "1",
+        "effect": "Destroy target artifact or land. It can\u2019t be regenerated.",
+        "effect2": ""
+    },
+    {
         "name": "Pippin, Guard of the Citadel",
         "name2": "",
         "rarity": "Rare",
@@ -11419,7 +11517,7 @@
         "power": "",
         "tag": "counterspell",
         "set": "The Lord of the Rings: Tales of Middle-earth",
-        "amount": "7",
+        "amount": "10",
         "effect": "Counter target spell.; Amass Orcs 1.",
         "effect2": ""
     },
@@ -11727,7 +11825,7 @@
         "power": "",
         "tag": "Land Destruction, mana ability",
         "set": "Ravnica: City of Guilds",
-        "amount": "2",
+        "amount": "8",
         "effect": "Destroy target land. Add {R}{R}.",
         "effect2": ""
     },
@@ -13020,6 +13118,20 @@
         "effect2": ""
     },
     {
+        "name": "Stymied Hopes",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{1}{U}",
+        "power": "",
+        "tag": "counterspell",
+        "set": "Theros",
+        "amount": "2",
+        "effect": "Counter target spell unless its controller pays {1}. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+        "effect2": ""
+    },
+    {
         "name": "Suffer the Past",
         "name2": "",
         "rarity": "Uncommon",
@@ -13821,9 +13933,9 @@
         "name": "The Torment of Gollum",
         "name2": "",
         "rarity": "Common",
-        "color": "black",
+        "color": "colorless",
         "type": "Sorcery",
-        "cost": "{3}{B}",
+        "cost": "{3}",
         "power": "",
         "tag": "Creature Token, discard card",
         "set": "The Lord of the Rings: Tales of Middle-earth",
@@ -13935,7 +14047,7 @@
         "rarity": "Uncommon",
         "color": "colorless",
         "type": "Artifact",
-        "cost": "",
+        "cost": "{4}",
         "power": "",
         "tag": "mana ability",
         "set": "The Brothers' War Commander",
