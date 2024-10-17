@@ -8,11 +8,16 @@ fetch('card_data.json')
   .catch(error => {
     console.error('Error loading card data:', error);
   });
-document.addEventListener('keypress', function(event) { 
-	if (event.key === 'Enter' && document.activeElement === document.getElementById('searchInput')) {
-		event.preventDefault(); document.getElementById('searchButton').click();
-	} 
+
+document.addEventListener("DOMContentLoaded", function() {
+	document.addEventListener('keypress', function(event) { 
+		if (event.key === 'Enter' && document.activeElement === document.getElementById('searchInput')) {
+			event.preventDefault(); 
+			document.getElementById('searchButton').click();
+		} 
+	});
 });
+
 // Function to search the card data and display the results
 function searchCards(data) {
     // Get the search input element
