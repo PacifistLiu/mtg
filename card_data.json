@@ -63,7 +63,7 @@
         "type": "Creature \u2014 Human Wizard",
         "cost": "{1}{U}{U}",
         "power": "2/2",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Magic 2011",
         "amount": "5",
         "effect": "When Aether Adept enters, return target creature to its owner\u2019s hand.",
@@ -140,6 +140,20 @@
         "effect2": ""
     },
     {
+        "name": "Altanak, the Thrice-Called",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Legendary Creature \u2014 Insect Beast",
+        "cost": "{5}{G}{G}",
+        "power": "9/9",
+        "tag": "draw card, graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Trample; Whenever Altanak, the Thrice-Called becomes the target of a spell or ability an opponent controls, draw a card.; {1}{G}, Discard Altanak, the Thrice-Called: Return target land card from your graveyard to the battlefield tapped.",
+        "effect2": ""
+    },
+    {
         "name": "Ambassador Laquatus",
         "name2": "",
         "rarity": "Rare",
@@ -207,6 +221,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Flying; Each opponent who cast a spell this turn can\u2019t attack with creatures.; Each opponent who attacked with a creature this turn can\u2019t cast spells.",
+        "effect2": ""
+    },
+    {
+        "name": "Arabella, Abandoned Doll",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white, red",
+        "type": "Legendary Artifact Creature \u2014 Toy",
+        "cost": "{W}{R}",
+        "power": "1/3",
+        "tag": "direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Whenever Arabella, Abandoned Doll attacks, it deals X damage to each opponent and you gain X life, where X is the number of creatures you control with power 2 or less.",
         "effect2": ""
     },
     {
@@ -693,7 +721,7 @@
         "type": "Land",
         "cost": "",
         "power": "",
-        "tag": "dual land",
+        "tag": "dual land, Bounce",
         "set": "Dissension",
         "amount": "1",
         "effect": "Azorius Chancery enters tapped.; When Azorius Chancery enters, return a land you control to its owner\u2019s hand.; {T}: Add {W}{U}.",
@@ -1267,7 +1295,7 @@
         "type": "Instant",
         "cost": "{U}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Eighth Edition",
         "amount": "1",
         "effect": "Return target permanent to its owner\u2019s hand.",
@@ -1300,6 +1328,20 @@
         "amount": "3",
         "effect": "Vigilance; Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.; Sacrifice Boromir, Warden of the Tower: Creatures you control gain indestructible until end of turn. The Ring tempts you.",
         "effect2": ""
+    },
+    {
+        "name": "Bottomless Pool",
+        "name2": "Locker Room",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{U}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "When you unlock this door, return up to one target creature to its owner\u2019s hand.",
+        "effect2": "Whenever one or more creatures you control deal combat damage to a player, draw a card."
     },
     {
         "name": "Braids, Cabal Minion",
@@ -1341,6 +1383,20 @@
         "set": "Zendikar",
         "amount": "5",
         "effect": "Choose a color. White creatures you control gain protection from the chosen color until end of turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Break Down the Door",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Instant",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "artifact destruction, enchantment destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Choose one \u2014; \u2022 Exile target artifact.; \u2022 Exile target enchantment.; \u2022 Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it\u2019s a creature card.)",
         "effect2": ""
     },
     {
@@ -1397,6 +1453,20 @@
         "set": "Fifth Edition",
         "amount": "1",
         "effect": "Destroy target nonartifact attacking creature. It can\u2019t be regenerated. Create a black Spirit creature token. Its power is equal to that creature\u2019s power and its toughness is equal to that creature\u2019s toughness. Sacrifice the token at the beginning of the next end step.",
+        "effect2": ""
+    },
+    {
+        "name": "Broodspinner",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black, green",
+        "type": "Creature \u2014 Spider",
+        "cost": "{B}{G}",
+        "power": "2/3",
+        "tag": "Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "each; When Broodspinner enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.); {4}{B}{G}, {T}, Sacrifice Broodspinner: Create a number of 1/1 black and green Insect creature tokens with flying equal to the number of card types among cards in your graveyard.",
         "effect2": ""
     },
     {
@@ -1607,6 +1677,20 @@
         "set": "The List",
         "amount": "1",
         "effect": "Destroy all lands or all creatures. Creatures destroyed this way can\u2019t be regenerated.",
+        "effect2": ""
+    },
+    {
+        "name": "Cathartic Parting",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{1}{G}",
+        "power": "",
+        "tag": "artifact destruction, enchantment destruction, graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "The owner of target artifact or enchantment an opponent controls shuffles it into their library. You may shuffle up to four target cards from your graveyard into your library.",
         "effect2": ""
     },
     {
@@ -2072,6 +2156,20 @@
         "effect2": ""
     },
     {
+        "name": "Commune with Evil",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "draw card, life gain",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. You gain 3 life.",
+        "effect2": ""
+    },
+    {
         "name": "Complete the Circuit",
         "name2": "",
         "rarity": "Rare",
@@ -2478,6 +2576,20 @@
         "effect2": ""
     },
     {
+        "name": "Cynical Loner",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Creature \u2014 Human Survivor",
+        "cost": "{1}{B}",
+        "power": "3/1",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Cynical Loner can\u2019t be blocked by Glimmers.; Survival \u2014 At the beginning of your second main phase, if Cynical Loner is tapped, you may search your library for a card, put it into your graveyard, then shuffle.",
+        "effect2": ""
+    },
+    {
         "name": "Daemogoth Titan",
         "name2": "",
         "rarity": "Rare",
@@ -2730,6 +2842,20 @@
         "effect2": ""
     },
     {
+        "name": "Defiled Crypt",
+        "name2": "Cadaver Lab",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{3}{B}",
+        "power": "",
+        "tag": "Creature Token, graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Whenever one or more cards leave your graveyard, create a 2/2 black Horror enchantment creature token. This ability triggers only once each turn.",
+        "effect2": "When you unlock this door, return target creature card from your graveyard to your hand."
+    },
+    {
         "name": "Demolish",
         "name2": "",
         "rarity": "Common",
@@ -2905,7 +3031,7 @@
         "type": "Sorcery",
         "cost": "{3}{U}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Return all nonland permanents to their owners\u2019 hands.; Miracle {1}{U} (You may cast this card for its miracle cost when you draw it if it\u2019s the first card you drew this turn.)",
@@ -2989,7 +3115,7 @@
         "type": "Land",
         "cost": "",
         "power": "",
-        "tag": "dual land, bounce land",
+        "tag": "dual land, Bounce",
         "set": "The Brothers' War Commander, Ravnica: City of Guilds",
         "amount": "3",
         "effect": "Dimir Aqueduct enters the battlefield tapped.; When Dimir Aqueduct enters the battlefield, return a land you control to its owner\u2019s hand.; {T}: Add {U}{B}.",
@@ -3241,7 +3367,7 @@
         "type": "Creature \u2014 Specter",
         "cost": "{2}{B}{U}",
         "power": "2/3",
-        "tag": "",
+        "tag": "discard card, Bounce",
         "set": "The List",
         "amount": "1",
         "effect": "Flying; When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner\u2019s hand.; Whenever Doomsday Specter deals combat damage to a player, look at that player\u2019s hand and choose a card from it. The player discards that card.",
@@ -3259,6 +3385,20 @@
         "set": "The Lord of the Rings: Tales of Middle-earth",
         "amount": "1",
         "effect": "Whenever you attack, scry 2, then you may reveal the top card of your library. If it\u2019s a creature card, put it onto the battlefield tapped and attacking. Until your next turn, it gains trample if you control a Dwarf and hexproof if you control an Elf.",
+        "effect2": ""
+    },
+    {
+        "name": "Drag to the Roots",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black, green",
+        "type": "Instant",
+        "cost": "{2}{B}{G}",
+        "power": "",
+        "tag": "creature destruction, artifact destruction, enchantment destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Delirium \u2014 This spell costs {2} less to cast as long as there are four or more card types among cards in your graveyard.; Destroy target nonland permanent.",
         "effect2": ""
     },
     {
@@ -3437,7 +3577,7 @@
         "type": "Legendary Creature \u2014 Dragon",
         "cost": "{3}{B}{U}{W}",
         "power": "6/6",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Invasion",
         "amount": "1",
         "effect": "Flying; Whenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U}. If you do, choose a color, then return all creatures of that color to their owners\u2019 hands.",
@@ -3451,7 +3591,7 @@
         "type": "Land \u2014 Lair",
         "cost": "",
         "power": "",
-        "tag": "tri land",
+        "tag": "tri land, Bounce",
         "set": "Planeshift ",
         "amount": "3",
         "effect": "When Dromar\u2019s Cavern enters, sacrifice it unless you return a non-Lair land you control to its owner\u2019s hand.; {T}: Add {W}, {U}, or {B}.",
@@ -3591,7 +3731,7 @@
         "type": "Instant",
         "cost": "{1}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Darksteel",
         "amount": "1",
         "effect": "Return target nonland permanent and all other permanents with the same name as that permanent to their owners\u2019 hands.",
@@ -3801,7 +3941,7 @@
         "type": "Creature \u2014 Insect",
         "cost": "{1}{B}{B}",
         "power": "1/1",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Portal",
         "amount": "1",
         "effect": "When Endless Cockroaches dies, return it to its owner\u2019s hand.",
@@ -4004,6 +4144,20 @@
         "effect2": ""
     },
     {
+        "name": "Ethereal Armor",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{W}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Enchant creature; Enchanted creature gets +1/+1 for each enchantment you control and has first strike.",
+        "effect2": ""
+    },
+    {
         "name": "Everflowing Chalice",
         "name2": "",
         "rarity": "Uncommon",
@@ -4057,6 +4211,20 @@
         "set": "Alliances",
         "amount": "2",
         "effect": "Exile target nonwhite attacking creature. You gain life equal to its toughness.",
+        "effect2": ""
+    },
+    {
+        "name": "Exorcise",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Sorcery",
+        "cost": "{1}{W}",
+        "power": "",
+        "tag": "creature destruction, artifact destruction, enchantment destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Exile target artifact, enchantment, or creature with power 4 or greater.",
         "effect2": ""
     },
     {
@@ -4239,6 +4407,76 @@
         "set": "Alliances",
         "amount": "1",
         "effect": "An opponent chooses one \u2014; \u2022 You draw three cards.; \u2022 You destroy up to two target creatures that player controls. They can\u2019t be regenerated. That player draws up to three cards.",
+        "effect2": ""
+    },
+    {
+        "name": "Fear of Being Hunted",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Enchantment Creature \u2014 Nightmare",
+        "cost": "{1}{R}{R}",
+        "power": "4/2",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Haste; Fear of Being Hunted must be blocked if able.",
+        "effect2": ""
+    },
+    {
+        "name": "Fear of Exposure",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Enchantment Creature \u2014 Nightmare",
+        "cost": "{2}{G}",
+        "power": "5/4",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "As an additional cost to cast this spell, tap two untapped creatures and/or lands you control.; Trample",
+        "effect2": ""
+    },
+    {
+        "name": "Fear of Failed Tests",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment Creature \u2014 Nightmare",
+        "cost": "{4}{U}",
+        "power": "2/7",
+        "tag": "draw card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "Whenever Fear of Failed Tests deals combat damage to a player, draw that many cards.",
+        "effect2": ""
+    },
+    {
+        "name": "Fear of Impostors",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment Creature \u2014 Nightmare",
+        "cost": "{1}{U}{U}",
+        "power": "3/2",
+        "tag": "counterspell",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Flash; When Fear of Impostors enters, counter target spell. Its controller manifests dread. (That player looks at the top two cards of their library, then puts one onto the battlefield face down as a 2/2 creature and the other into their graveyard. If it\u2019s a creature card, it can be turned face up any time for its mana cost.)",
+        "effect2": ""
+    },
+    {
+        "name": "Fear of Infinity",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black, blue",
+        "type": "Instant",
+        "cost": "{2}{B}{U}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Flying, lifelink; Fear of Infinity can\u2019t block.; Eerie \u2014 Whenever an enchantment you control enters and whenever you fully unlock a Room, you may return Fear of Infinity from your graveyard to your hand.",
         "effect2": ""
     },
     {
@@ -4505,6 +4743,20 @@
         "set": "Duskmourn: House of Horror",
         "amount": "1",
         "effect": "{T}: Add {W}.; {T}: Add {U}. Activate only if you control a Plains or an Island.",
+        "effect2": ""
+    },
+    {
+        "name": "Floodpits Drowner",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Creature \u2014 Merfolk",
+        "cost": "{1}{U}",
+        "power": "2/1",
+        "tag": "creature destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Flash; Vigilance; When Floodpits Drowner enters, tap target creature an opponent controls and put a stun counter on it.; {1}{U}, {T}: Shuffle Floodpits Drowner and target creature with a stun counter on it into their owners\u2019 libraries.",
         "effect2": ""
     },
     {
@@ -5124,6 +5376,34 @@
         "effect2": ""
     },
     {
+        "name": "Glassworks",
+        "name2": "Shattered Yard",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "When you unlock this door, this Room deals 4 damage to target creature an opponent controls.",
+        "effect2": "At the beginning of your end step, this Room deals 1 damage to each opponent."
+    },
+    {
+        "name": "Glimmer Seeker",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Creature \u2014 Human Survivor",
+        "cost": "{2}{W}",
+        "power": "3/3",
+        "tag": "draw card, Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Survival \u2014 At the beginning of your second main phase, if Glimmer Seeker is tapped, draw a card if you control a Glimmer creature. If you don\u2019t control a Glimmer creature, create a 1/1 white Glimmer enchantment creature token.",
+        "effect2": ""
+    },
+    {
         "name": "Glint Raker",
         "name2": "",
         "rarity": "Rare",
@@ -5257,7 +5537,7 @@
         "type": "Land",
         "cost": "",
         "power": "",
-        "tag": "dual land",
+        "tag": "dual land, Bounce",
         "set": "Ravnica: City of Guilds",
         "amount": "1",
         "effect": "Golgari Rot Farm enters tapped.; When Golgari Rot Farm enters, return a land you control to its owner\u2019s hand.; {T}: Add {B}{G}.",
@@ -5404,6 +5684,20 @@
         "effect2": ""
     },
     {
+        "name": "Greenhouse",
+        "name2": "Rickety Gazebo",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Lands you control have \u201c{T}: Add one mana of any color.\u201d",
+        "effect2": "When you unlock this door, mill four cards, then return up to two permanent cards from among them to your hand."
+    },
+    {
         "name": "Greenweaver Druid",
         "name2": "",
         "rarity": "Uncommon",
@@ -5415,6 +5709,20 @@
         "set": "Zendikar",
         "amount": "4",
         "effect": "{T}: Add {G}{G}.",
+        "effect2": ""
+    },
+    {
+        "name": "Gremlin Tamer",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue, white",
+        "type": "Creature \u2014 Human Scout",
+        "cost": "{U}{W}",
+        "power": "2/2",
+        "tag": "Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Eerie \u2014 Whenever an enchantment you control enters and whenever you fully unlock a Room, create a 1/1 red Gremlin creature token.",
         "effect2": ""
     },
     {
@@ -5639,6 +5947,20 @@
         "set": "Amonkhet",
         "amount": "1",
         "effect": "Whenever an opponent activates an ability of an artifact, creature, or land on the battlefield, if it isn\u2019t a mana ability, Harsh Mentor deals 2 damage to that player.",
+        "effect2": ""
+    },
+    {
+        "name": "Haunted Screen",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{3}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Duskmourn: House of Horror",
+        "amount": "1",
+        "effect": "{T}: Add {W} or {B}.; {T}, Pay 1 life: Add {G}, {U}, or {R}.; {7}: Put seven +1/+1 counters on Haunted Screen. It becomes a 0/0 Spirit creature in addition to its other types. Activate only once.",
         "effect2": ""
     },
     {
@@ -5957,7 +6279,7 @@
         "type": "Instant",
         "cost": "{4}{U}{U}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "The Brothers' War",
         "amount": "1",
         "effect": "As long as it\u2019s not your turn, this spell costs {3} more to cast.; Return all nonland permanents to their owners\u2019 hands. End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and \u201cthis turn\u201d and \u201cuntil end of turn\u201d effects end.)",
@@ -6174,6 +6496,20 @@
         "effect2": ""
     },
     {
+        "name": "Inquisitive Glimmer",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue, white",
+        "type": "Enchantment Creature \u2014 Fox Glimmer",
+        "cost": "{U}{W}",
+        "power": "2/3",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Enchantment spells you cast cost {1} less to cast.; Unlock costs you pay cost {1} less.",
+        "effect2": ""
+    },
+    {
         "name": "Inscription of Abundance",
         "name2": "",
         "rarity": "Rare",
@@ -6188,6 +6524,20 @@
         "effect2": ""
     },
     {
+        "name": "Insidious Fungus",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Fungus",
+        "cost": "{G}",
+        "power": "1/2",
+        "tag": "draw card, artifact destruction, enchantment destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "{2}, Sacrifice Insidious Fungus: Choose one \u2014; \u2022 Destroy target artifact.; \u2022 Destroy target enchantment.; \u2022 Draw a card. Then you may put a land card from your hand onto the battlefield tapped.",
+        "effect2": ""
+    },
+    {
         "name": "Into the Roil",
         "name2": "",
         "rarity": "Common",
@@ -6195,7 +6545,7 @@
         "type": "Instant",
         "cost": "{1}{U}",
         "power": "",
-        "tag": "draw card",
+        "tag": "draw card, Bounce",
         "set": "Zendikar, Zendikar Rising",
         "amount": "7",
         "effect": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.); Return target nonland permanent to its owner\u2019s hand. If this spell was kicked, draw a card.",
@@ -6384,6 +6734,20 @@
         "effect2": ""
     },
     {
+        "name": "Irreverent Gremlin",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Creature \u2014 Gremlin",
+        "cost": "{1}{R}",
+        "power": "2/2",
+        "tag": "draw card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Menace (This creature can\u2019t be blocked except by two or more creatures.); Whenever another creature you control with power 2 or less enters, you may discard a card. If you do, draw a card. Do this only once each turn.",
+        "effect2": ""
+    },
+    {
         "name": "Isildur's Fateful Strike",
         "name2": "",
         "rarity": "Rare",
@@ -6461,7 +6825,7 @@
         "type": "Land",
         "cost": "",
         "power": "",
-        "tag": "dual land, bounce land",
+        "tag": "dual land, Bounce",
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "Izzet Boilerworks enters the battlefield tapped.; When Izzet Boilerworks enters the battlefield, return a land you control to its owner\u2019s hand.; {T}: Add {U}{R}.",
@@ -6489,7 +6853,7 @@
         "type": "Legendary Planeswalker \u2014 Jace ",
         "cost": "{2}{U}{U}",
         "power": "",
-        "tag": "draw card, mill",
+        "tag": "draw card, mill, Bounce",
         "set": "Worldwake",
         "amount": "1",
         "effect": "+2: Look at the top card of target player\u2019s library. You may put that card on the bottom of that player\u2019s library.; 0: Draw three cards, then put two cards from your hand on top of your library in any order.; -1: Return target creature to its owner\u2019s hand.; -12: Exile all cards from target player\u2019s library, then that player shuffles their hand into their library.",
@@ -7035,7 +7399,7 @@
         "type": "Artifact",
         "cost": "{4}",
         "power": "",
-        "tag": "mana ability",
+        "tag": "mana ability, Bounce",
         "set": "Zendikar",
         "amount": "3",
         "effect": "When Khalni Gem enters, return two lands you control to their owner\u2019s hand.; {T}: Add two mana of any one color.",
@@ -7333,6 +7697,20 @@
         "set": "The List",
         "amount": "1",
         "effect": "Players can\u2019t search libraries. Any player may pay\u00a0{2}\u00a0for that player to ignore this effect until end of turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Let's Play a Game",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{3}{B}",
+        "power": "",
+        "tag": "discard card, life gain, life loss",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Delirium \u2014 Choose one. If there are four or more card types among cards in your graveyard, choose one or more instead.; \u2022 Creatures your opponents control get -1/-1 until end of turn.; \u2022 Each opponent discards two cards.; \u2022 Each opponent loses 3 life and you gain 3 life.",
         "effect2": ""
     },
     {
@@ -8057,7 +8435,7 @@
         "type": "Artifact Creature \u2014 Human Artificer",
         "cost": "{3}{U}",
         "power": "1/2",
-        "tag": "",
+        "tag": "Bounce",
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "{U}, {T}, Return an artifact you control to its owner\u2019s hand: You may put an artifact card from your hand onto the battlefield.",
@@ -8687,7 +9065,7 @@
         "type": "Sorcery",
         "cost": "{X}{U}",
         "power": "",
-        "tag": "Creature Token, draw card",
+        "tag": "Creature Token, draw card, Bounce",
         "set": "Strixhaven: School of Mages",
         "amount": "1",
         "effect": "If X is 1, scry 1, then draw a card.; If X is 2, you may choose a player. They return a creature they control to its owner\u2019s hand.; If X is 3, create a 4/4 blue and red Elemental creature token.; If X is 4 or more, do all of the above.",
@@ -8771,7 +9149,7 @@
         "type": "Instant",
         "cost": "{3}{U}{U}",
         "power": "",
-        "tag": "counterspell, draw card",
+        "tag": "counterspell, draw card, Bounce",
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Choose three. You may choose the same mode more than once.; \u2022 Counter target spell unless its controller pays {3}.; \u2022 Return target creature to its owner\u2019s hand.; \u2022 Draw a card.",
@@ -8841,7 +9219,7 @@
         "type": "Instant",
         "cost": "{2}{W}",
         "power": "",
-        "tag": "life gain",
+        "tag": "life gain, Bounce",
         "set": "Zendikar",
         "amount": "3",
         "effect": "Return target permanent you control to its owner\u2019s hand. You gain 4 life.",
@@ -9156,6 +9534,20 @@
         "effect2": ""
     },
     {
+        "name": "Nowhere to Run",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Enchantment",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "5",
+        "effect": "Flash; When Nowhere to Run enters, target creature an opponent controls gets -3/-3 until end of turn.; Creatures your opponents control can be the targets of spells and abilities as though they didn\u2019t have hexproof. Ward abilities of those creatures don\u2019t trigger.",
+        "effect2": ""
+    },
+    {
         "name": "Noxious Field",
         "name2": "",
         "rarity": "Uncommon",
@@ -9240,6 +9632,20 @@
         "effect2": ""
     },
     {
+        "name": "Oblivious Bookworm",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue, green",
+        "type": "Creature \u2014 Human Wizard",
+        "cost": "{U}{G}",
+        "power": "2/3",
+        "tag": "draw card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "At the beginning of your end step, you may draw a card. If you do, discard a card unless a permanent entered the battlefield face down under your control this turn or you turned a permanent face up this turn.",
+        "effect2": ""
+    },
+    {
         "name": "Obosh, the Preypiercer",
         "name2": "",
         "rarity": "Rare",
@@ -9317,7 +9723,7 @@
         "type": "Instant",
         "cost": "{3}{R}{R}",
         "power": "",
-        "tag": "Land Destruction",
+        "tag": "Land Destruction, Bounce",
         "set": "Alliances",
         "amount": "1",
         "effect": "Return all Islands to their owners\u2019 hands. Each player sacrifices a Plains or a white permanent for each white permanent they control.",
@@ -9492,6 +9898,20 @@
         "effect2": ""
     },
     {
+        "name": "Osseous Sticktwister",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Artifact Creature \u2014 Scarecrow",
+        "cost": "{1}{B}",
+        "power": "2/2",
+        "tag": "creature destruction, artifact destruction, enchantment destruction, discard card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Lifelink; Delirium \u2014 At the beginning of your end step, if there are four or more card types among cards in your graveyard, each opponent may sacrifice a nonland permanent or discard a card. Then Osseous Sticktwister deals damage equal to its power to each opponent who didn\u2019t sacrifice a permanent or discard a card this way.",
+        "effect2": ""
+    },
+    {
         "name": "Overburden",
         "name2": "",
         "rarity": "Rare",
@@ -9499,7 +9919,7 @@
         "type": "Enchantment",
         "cost": "{1}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Prophecy",
         "amount": "2",
         "effect": "Whenever a player puts a nontoken creature onto the battlefield, that player returns a land they control to its owner\u2019s hand.",
@@ -9531,6 +9951,20 @@
         "set": "Rise of the Eldrazi",
         "amount": "4",
         "effect": "Defender; {T}: Add {G} for each creature you control with defender.",
+        "effect2": ""
+    },
+    {
+        "name": "Overgrown Zealot",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Elf Druid",
+        "cost": "{1}{G}",
+        "power": "0/4",
+        "tag": "mana ability",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "{T}: Add one mana of any color.; {T}: Add two mana of any one color. Spend this mana only to turn permanents face up.",
         "effect2": ""
     },
     {
@@ -9863,7 +10297,7 @@
         "type": "Legendary Creature \u2014 Phelddagrif",
         "cost": "{1}{U}{W}{G}",
         "power": "4/4",
-        "tag": "draw card",
+        "tag": "draw card, Bounce",
         "set": "Alliances",
         "amount": "1",
         "effect": "{G}: Phelddagrif gains trample until end of turn. Target opponent creates a 1/1 green Hippo creature token.; {W}: Phelddagrif gains flying until end of turn. Target opponent gains 2 life.; {U}: Return Phelddagrif to its owner\u2019s hand. Target opponent may draw a card.",
@@ -10605,7 +11039,7 @@
         "type": "Sorcery",
         "cost": "{4}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Choose a creature type. Return all creatures that aren\u2019t of the chosen type to their owners\u2019 hands.",
@@ -10619,7 +11053,7 @@
         "type": "Land",
         "cost": "",
         "power": "",
-        "tag": "dual land, bounce land",
+        "tag": "dual land, Bounce",
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "Rakdos Carnarium enters the battlefield tapped.; When Rakdos Carnarium enters the battlefield, return a land you control to its owner\u2019s hand.; {T}: Add {B}{R}.",
@@ -10983,7 +11417,7 @@
         "type": "Instant",
         "cost": "{1}{U}",
         "power": "",
-        "tag": "counterspell",
+        "tag": "counterspell, Bounce",
         "set": "Ravnica: City of Guilds",
         "amount": "1",
         "effect": "Counter target spell. If that spell is countered this way, put it into its owner\u2019s hand instead of into that player\u2019s graveyard.; Draw a card.",
@@ -11137,7 +11571,7 @@
         "type": "Legendary Creature \u2014 Angel",
         "cost": "{2}{W}{G}{R}",
         "power": "5/4",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Flying; Other multicolored creatures you control get +1/+0.; Whenever another multicolored creature you control dies, return it to its owner\u2019s hand at the beginning of the next end step.",
@@ -11337,6 +11771,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Rootbound Crag enters tapped unless you control a Mountain or a Forest.; {T}: Add {R} or {G}.",
+        "effect2": ""
+    },
+    {
+        "name": "Rootwise Survivor",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Human Survivor",
+        "cost": "{3}{G}{G}",
+        "power": "3/4",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Haste; Survival \u2014 At the beginning of your second main phase, if Rootwise Survivor is tapped, put three +1/+1 counters on up to one target land you control. That land becomes a 0/0 Elemental creature in addition to its other types. It gains haste until your next turn.",
         "effect2": ""
     },
     {
@@ -11547,6 +11995,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Savage Lands enters the battlefield tapped.; {T}: Add {B}, {R}, or {G}.",
+        "effect2": ""
+    },
+    {
+        "name": "Savior of the Small",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Creature \u2014 Kor Survivor",
+        "cost": "{3}{W}",
+        "power": "3/4",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Survival \u2014 At the beginning of your second main phase, if Savior of the Small is tapped, return target creature card with mana value 3 or less from your graveyard to your hand.",
         "effect2": ""
     },
     {
@@ -11928,6 +12390,20 @@
         "effect2": ""
     },
     {
+        "name": "Shardmage's Rescue",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{W}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Flash; Enchant creature you control; As long as Shardmage\u2019s Rescue entered this turn, enchanted creature has hexproof.; Enchanted creature gets +1/+1.",
+        "effect2": ""
+    },
+    {
         "name": "Sharkey, Tyrant of the Shire",
         "name2": "",
         "rarity": "Rare",
@@ -11949,7 +12425,7 @@
         "type": "Creature \u2014 Giant Warrior",
         "cost": "{1}{R}{R}",
         "power": "4/3",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Zendikar Rising",
         "amount": "1",
         "effect": "Kicker {2}; Trample, haste; If Shatterskull Charger was kicked, it enters the battlefield with a +1/+1 counter on it.; At the beginning of your end step, if Shatterskull Charger doesn\u2019t have a +1/+1 counter on it, return it to its owner\u2019s hand.",
@@ -11967,6 +12443,20 @@
         "set": "Tenth Edition",
         "amount": "1",
         "effect": "Destroy all artifacts. They can\u2019t be regenerated.",
+        "effect2": ""
+    },
+    {
+        "name": "Sheltered by Ghosts",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{1}{W}",
+        "power": "",
+        "tag": "creature destruction, artifact destruction, enchantment destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Enchant creature you control; When Sheltered by Ghosts enters, exile target nonland permanent an opponent controls until Sheltered by Ghosts leaves the battlefield.; Enchanted creature gets +1/+0 and has lifelink and ward {2}.",
         "effect2": ""
     },
     {
@@ -12180,6 +12670,20 @@
         "effect2": ""
     },
     {
+        "name": "Skullsnap Nuisance",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black, blue",
+        "type": "Creature \u2014 Insect Skeleton",
+        "cost": "{B}{U}",
+        "power": "1/4",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Flying; Eerie \u2014 Whenever an enchantment you control enters and whenever you fully unlock a Room, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+        "effect2": ""
+    },
+    {
         "name": "Skyclave Apparition",
         "name2": "",
         "rarity": "Rare",
@@ -12271,7 +12775,7 @@
         "type": "Enchantment \u2014 Aura",
         "cost": "{2}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Urza's Legacy",
         "amount": "2",
         "effect": "Enchant creature; At the beginning of the upkeep of enchanted creature\u2019s controller, that player sacrifices that creature unless they pay {2}.; When Slow Motion is put into a graveyard from the battlefield, return Slow Motion to its owner\u2019s hand.",
@@ -12348,6 +12852,20 @@
         "effect2": ""
     },
     {
+        "name": "Smoky Lounge",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue, red",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{R}",
+        "power": "",
+        "tag": "Creature Token, mana ability",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "At the beginning of your first main phase, add {R}{R}. Spend this mana only to cast Room spells and unlock doors.",
+        "effect2": "When you unlock this door, create an X/X blue Spirit creature token with flying, where X is the number of unlocked doors among Rooms you control."
+    },
+    {
         "name": "Smoldering Marsh",
         "name2": "",
         "rarity": "Rare",
@@ -12369,7 +12887,7 @@
         "type": "Instant",
         "cost": "{1}{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Time Spiral",
         "amount": "1",
         "effect": "You may exile a blue card from your hand rather than pay this spell\u2019s mana cost.; Return target creature to its owner\u2019s hand.",
@@ -12691,7 +13209,7 @@
         "type": "Artifact",
         "cost": "{7}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "When Spine of Ish Sah enters the battlefield, destroy target permanent.; When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner\u2019s hand.",
@@ -12779,6 +13297,20 @@
         "set": "Prophecy",
         "amount": "1",
         "effect": "Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Sporogenic Infection",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Enchant creature; When Sporogenic Infection enters, target player sacrifices a creature other than enchanted creature.; When enchanted creature is dealt damage, destroy it.",
         "effect2": ""
     },
     {
@@ -12891,6 +13423,20 @@
         "set": "Commander 2020",
         "amount": "2",
         "effect": "Starstorm deals X damage to each creature.; Cycling {3} ({3}, Discard this card: Draw a card.)",
+        "effect2": ""
+    },
+    {
+        "name": "Stay Hidden, Stay Silent",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{1}{U}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Enchant creature; When Stay Hidden, Stay Silent enters, tap enchanted creature.; Enchanted creature doesn\u2019t untap during its controller\u2019s untap step.; {4}{U}{U}: Shuffle enchanted creature into its owner\u2019s library, then manifest dread. Activate only as a sorcery.",
         "effect2": ""
     },
     {
@@ -13027,7 +13573,7 @@
         "type": "Artifact",
         "cost": "{5}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Alliances",
         "amount": "1",
         "effect": "Each player may play an additional land during each of their turns.; Whenever a land is tapped for mana, return it to its owner\u2019s hand.",
@@ -13244,6 +13790,20 @@
         "effect2": ""
     },
     {
+        "name": "Surgical Suite",
+        "name2": "Hospital Room",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{1}{W}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "When you unlock this door, return target creature card with mana value 3 or less from your graveyard to the battlefield.",
+        "effect2": "Whenever you attack, put a +1/+1 counter on target attacking creature."
+    },
+    {
         "name": "Surrak Dragonclaw",
         "name2": "",
         "rarity": "Mythic",
@@ -13373,9 +13933,9 @@
         "name": "Taigam, Ojutai Master",
         "name2": "",
         "rarity": "Rare",
-        "color": "blue, white",
+        "color": "blue",
         "type": "Legendary Creature \u2014 Human Monk",
-        "cost": "{2}{W}{U}",
+        "cost": "{2}{U}{U}",
         "power": "3/4",
         "tag": "",
         "set": "Multiverse Legends",
@@ -13559,7 +14119,7 @@
         "type": "Creature \u2014 Human Wizard",
         "cost": "{1}{U}{U}",
         "power": "1/1",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Seventh Edition",
         "amount": "1",
         "effect": "{U}{U}{U}, {T}: Return target permanent to its owner\u2019s hand.",
@@ -13933,9 +14493,9 @@
         "name": "The Torment of Gollum",
         "name2": "",
         "rarity": "Common",
-        "color": "colorless",
+        "color": "black",
         "type": "Sorcery",
-        "cost": "{3}",
+        "cost": "{3}{B}",
         "power": "",
         "tag": "Creature Token, discard card",
         "set": "The Lord of the Rings: Tales of Middle-earth",
@@ -14056,6 +14616,20 @@
         "effect2": ""
     },
     {
+        "name": "Threats Around Every Corner",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Enchantment",
+        "cost": "{3}{G}",
+        "power": "",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "When Threats Around Every Corner enters, manifest dread.; Whenever a face-down permanent you control enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+        "effect2": ""
+    },
+    {
         "name": "Thunderbolt",
         "name2": "",
         "rarity": "Common",
@@ -14091,7 +14665,7 @@
         "type": "Sorcery",
         "cost": "{2}{U}{W}{W}",
         "power": "",
-        "tag": "",
+        "tag": "creature destruction, Bounce",
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Return a creature you control to its owner\u2019s hand, then destroy all creatures.",
@@ -14322,6 +14896,20 @@
         "effect2": ""
     },
     {
+        "name": "Trial of Agony",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Choose two target creatures controlled by the same opponent. That player chooses one of those creatures. Trial of Agony deals 5 damage to that creature, and the other can\u2019t block this turn.",
+        "effect2": ""
+    },
+    {
         "name": "Tribute to the World Tree",
         "name2": "",
         "rarity": "Rare",
@@ -14518,6 +15106,20 @@
         "effect2": ""
     },
     {
+        "name": "Under the Skin",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it\u2019s a creature card.); You may return a permanent card from your graveyard to your hand.",
+        "effect2": ""
+    },
+    {
         "name": "Underground River",
         "name2": "",
         "rarity": "Rare",
@@ -14630,6 +15232,20 @@
         "effect2": ""
     },
     {
+        "name": "Unnerving Grasp",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Sorcery",
+        "cost": "{2}{U}",
+        "power": "",
+        "tag": "Bounce",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Return up to one target nonland permanent to its owner\u2019s hand. Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it\u2019s a creature card.)",
+        "effect2": ""
+    },
+    {
         "name": "Unstoppable Slasher",
         "name2": "",
         "rarity": "Rare",
@@ -14641,6 +15257,34 @@
         "set": "Duskmourn: House of Horror",
         "amount": "1",
         "effect": "Deathtouch; Whenever Unstoppable Slasher deals combat damage to a player, they lose half their life, rounded up.; When Unstoppable Slasher dies, if it had no counters on it, return it to the battlefield tapped under its owner\u2019s control with two stun counters on it.",
+        "effect2": ""
+    },
+    {
+        "name": "Untimely Malfunction",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "artifact destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Choose one \u2014; \u2022 Destroy target artifact.; \u2022 Change the target of target spell or ability with a single target.; \u2022 One or two target creatures can\u2019t block this turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Unwanted Remake",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{W}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Destroy target creature. Its controller manifests dread. (That player looks at the top two cards of their library, then puts one onto the battlefield face down as a 2/2 creature and the other into their graveyard. If it\u2019s a creature card, it can be turned face up any time for its mana cost.)",
         "effect2": ""
     },
     {
@@ -14826,6 +15470,20 @@
         "effect2": ""
     },
     {
+        "name": "Vengeful Possession",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{2}{R}",
+        "power": "",
+        "tag": "draw card, hijack",
+        "set": "Duskmourn: House of Horror",
+        "amount": "3",
+        "effect": "Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. You may discard a card. If you do, draw a card.",
+        "effect2": ""
+    },
+    {
         "name": "Venomous Brutalizer",
         "name2": "",
         "rarity": "Uncommon",
@@ -14865,6 +15523,20 @@
         "set": "Duskmourn: House of Horror",
         "amount": "1",
         "effect": "Eerie \u2014 Whenever an enchantment you control enters and whenever you fully unlock a Room, surveil 2 if this is the first time this ability has resolved this turn. If it\u2019s the second time, each opponent discards a card. If it\u2019s the third time, put a creature card from a graveyard onto the battlefield under your control.",
+        "effect2": ""
+    },
+    {
+        "name": "Vile Mutilator",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Creature \u2014 Demon",
+        "cost": "{5}{B}{B}",
+        "power": "6/5",
+        "tag": "creature destruction, enchantment destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "As an additional cost to cast this spell, sacrifice a creature or enchantment.; Flying, trample; When Vile Mutilator enters, each opponent sacrifices a nontoken enchantment, then sacrifices a nontoken creature.",
         "effect2": ""
     },
     {
@@ -15260,6 +15932,20 @@
         "effect2": ""
     },
     {
+        "name": "Wickerfolk Thresher",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Artifact Creature \u2014 Scarecrow",
+        "cost": "{3}{G}",
+        "power": "5/4",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "2",
+        "effect": "Delirium \u2014 Whenever Wickerfolk Thresher attacks, if there are four or more card types among cards in your graveyard, look at the top card of your library. If it\u2019s a land card, you may put it onto the battlefield. If you don\u2019t put the card onto the battlefield, put it into your hand.",
+        "effect2": ""
+    },
+    {
         "name": "Will-o'-the-Wisp",
         "name2": "",
         "rarity": "Rare",
@@ -15281,7 +15967,7 @@
         "type": "Enchantment \u2014 Aura",
         "cost": "{U}",
         "power": "",
-        "tag": "",
+        "tag": "Bounce",
         "set": "Worldwake",
         "amount": "1",
         "effect": "Enchant land; Enchanted land is a 2/2 blue Elemental creature with flying. It\u2019s still a land.; When enchanted land dies, return that card to its owner\u2019s hand.",
@@ -15355,6 +16041,20 @@
         "set": "Time Spiral Timeshifted ",
         "amount": "1",
         "effect": "{1}: Exile target card from a graveyard",
+        "effect2": ""
+    },
+    {
+        "name": "Withering Torment",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "creature destruction, enchantment destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Destroy target creature or enchantment. You lose 2 life.",
         "effect2": ""
     },
     {
