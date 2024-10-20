@@ -56,6 +56,20 @@
         "effect2": ""
     },
     {
+        "name": "Acrobatic Cheerleader",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Human Survivor",
+        "cost": "{1}{W}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "Survival \u2014 At the beginning of your second main phase, if Acrobatic Cheerleader is tapped, put a flying counter on it. This ability triggers only once.",
+        "effect2": ""
+    },
+    {
         "name": "Aether Adept",
         "name2": "",
         "rarity": "Common",
@@ -221,6 +235,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Flying; Each opponent who cast a spell this turn can\u2019t attack with creatures.; Each opponent who attacked with a creature this turn can\u2019t cast spells.",
+        "effect2": ""
+    },
+    {
+        "name": "Appendage Amalgam",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Enchantment Creature \u2014 Horror",
+        "cost": "{2}{B}",
+        "power": "3/2",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "Flash; Whenever Appendage Amalgam attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
         "effect2": ""
     },
     {
@@ -935,6 +963,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "Destroy target artifact, creature, or planeswalker.",
+        "effect2": ""
+    },
+    {
+        "name": "Bedhead Beastie",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Creature \u2014 Beast",
+        "cost": "{4}{R}{R}",
+        "power": "",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "9",
+        "effect": "Menace (This creature can\u2019t be blocked except by two or more creatures.); Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
         "effect2": ""
     },
     {
@@ -1946,6 +1988,20 @@
         "effect2": ""
     },
     {
+        "name": "Clockwork Percussionist",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Artifact Creature \u2014 Monkey Toy",
+        "cost": "{R}",
+        "power": "1/1",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "9",
+        "effect": "Haste; When Clockwork Percussionist dies, exile the top card of your library. You may play it until the end of your next turn.",
+        "effect2": ""
+    },
+    {
         "name": "Clone",
         "name2": "",
         "rarity": "Rare",
@@ -2380,6 +2436,34 @@
         "effect2": ""
     },
     {
+        "name": "Cracked Skull",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "creature destruction, discard card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "Enchant creature; When Cracked Skull enters, look at target player\u2019s hand. You may choose a nonland card from it. That player discards that card.; When enchanted creature is dealt damage, destroy it.",
+        "effect2": ""
+    },
+    {
+        "name": "Creeping Peeper",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Creature \u2014 Eye",
+        "cost": "{1}{U}",
+        "power": "2/1",
+        "tag": "mana ability",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "{T}: Add {U}. Spend this mana only to cast an enchantment spell, unlock a door, or turn a permanent face up.",
+        "effect2": ""
+    },
+    {
         "name": "Creeping Tar Pit",
         "name2": "",
         "rarity": "Rare",
@@ -2601,6 +2685,20 @@
         "set": "Strixhaven: School of Mages",
         "amount": "1",
         "effect": "Whenever Daemogoth Titan attacks or blocks, sacrifice a creature.",
+        "effect2": ""
+    },
+    {
+        "name": "Daggermaw Megalodon",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Creature \u2014 Shark",
+        "cost": "{4}{U}{U}",
+        "power": "5/7",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Vigilance; Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
         "effect2": ""
     },
     {
@@ -2968,6 +3066,20 @@
         "effect2": ""
     },
     {
+        "name": "Derelict Attic",
+        "name2": "Widow's Walk",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "When you unlock this door, you draw two cards and you lose 2 life.",
+        "effect2": "Whenever a creature you control attacks alone, it gets +1/+0 and gains deathtouch until end of turn."
+    },
+    {
         "name": "Desecrated Earth",
         "name2": "",
         "rarity": "Common",
@@ -3329,6 +3441,20 @@
         "set": "Rise of the Eldrazi",
         "amount": "2",
         "effect": "Enchant creature; You control enchanted creature.; At the beginning of your end step, if enchanted creature\u2019s power is 4 or greater, sacrifice Domestication.",
+        "effect2": ""
+    },
+    {
+        "name": "Don't Make a Sound",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{1}{U}",
+        "power": "",
+        "tag": "counterspell",
+        "set": "Duskmourn: House of Horror",
+        "amount": "9",
+        "effect": "Counter target spell unless its controller pays {2}. If they do, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
         "effect2": ""
     },
     {
@@ -3889,6 +4015,20 @@
         "set": "Champions of Kamigawa",
         "amount": "1",
         "effect": "When Ember-Fist Zubera dies, it deals damage to any target equal to the number of Zubera that died this turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Emerge from the Cocoon",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Sorcery",
+        "cost": "{4}{W}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "Return target creature card from your graveyard to the battlefield. You gain 3 life.",
         "effect2": ""
     },
     {
@@ -4480,6 +4620,20 @@
         "effect2": ""
     },
     {
+        "name": "Fear of Lost Teeth",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Enchantment Creature \u2014 Nightmare",
+        "cost": "{B}",
+        "power": "1/1",
+        "tag": "life gain, direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "When Fear of Lost Teeth dies, it deals 1 damage to any target and you gain 1 life.",
+        "effect2": ""
+    },
+    {
         "name": "Fear of Missing Out",
         "name2": "",
         "rarity": "Rare",
@@ -4491,6 +4645,34 @@
         "set": "Duskmourn: House of Horror",
         "amount": "2",
         "effect": "When Fear of Missing Out enters, discard a card, then draw a card.; Delirium \u2014 Whenever Fear of Missing Out attacks for the first time each turn, if there are four or more card types among cards in your graveyard, untap target creature. After this phase, there is an additional combat phase.",
+        "effect2": ""
+    },
+    {
+        "name": "Fear of Surveillance",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Enchantment Creature \u2014 Nightmare",
+        "cost": "{1}{W}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Vigilance; Whenever Fear of Surveillance attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+        "effect2": ""
+    },
+    {
+        "name": "Fear of the Dark",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Enchantment Creature \u2014 Nightmare",
+        "cost": "{4}{B}",
+        "power": "5/5",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "8",
+        "effect": "Whenever Fear of the Dark attacks, if defending player controls no Glimmer creatures, it gains menace and deathtouch until end of turn. (A creature with menace can\u2019t be blocked except by two or more creatures.)",
         "effect2": ""
     },
     {
@@ -4592,6 +4774,20 @@
         "effect2": ""
     },
     {
+        "name": "Final Vengeance",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "8",
+        "effect": "As an additional cost to cast this spell, sacrifice a creature or enchantment.; Exile target creature.",
+        "effect2": ""
+    },
+    {
         "name": "Finale of Revelation",
         "name2": "",
         "rarity": "Mythic",
@@ -4687,6 +4883,20 @@
         "set": "Revised",
         "amount": "1",
         "effect": "Destroy all Plains.",
+        "effect2": ""
+    },
+    {
+        "name": "Flesh Burrower",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Insect",
+        "cost": "{1}{G}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "8",
+        "effect": "Deathtouch; Whenever Flesh Burrower attacks, another target creature you control gains deathtouch until end of turn.",
         "effect2": ""
     },
     {
@@ -5385,7 +5595,7 @@
         "power": "",
         "tag": "direct damage",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "7",
         "effect": "When you unlock this door, this Room deals 4 damage to target creature an opponent controls.",
         "effect2": "At the beginning of your end step, this Room deals 1 damage to each opponent."
     },
@@ -5401,6 +5611,34 @@
         "set": "Duskmourn: House of Horror",
         "amount": "2",
         "effect": "Survival \u2014 At the beginning of your second main phase, if Glimmer Seeker is tapped, draw a card if you control a Glimmer creature. If you don\u2019t control a Glimmer creature, create a 1/1 white Glimmer enchantment creature token.",
+        "effect2": ""
+    },
+    {
+        "name": "Glimmerburst",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{3}{U}",
+        "power": "",
+        "tag": "draw card, Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "8",
+        "effect": "Draw two cards. Create a 1/1 white Glimmer enchantment creature token.",
+        "effect2": ""
+    },
+    {
+        "name": "Glimmerlight",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{2}",
+        "power": "",
+        "tag": "Creature Token",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "When Glimmerlight enters, create a 1/1 white Glimmer enchantment creature token.; Equipped creature gets +1/+1.; Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
         "effect2": ""
     },
     {
@@ -5597,6 +5835,20 @@
         "set": "Alliances",
         "amount": "3",
         "effect": "{X}{X}{1}: Destroy target noncreature artifact with mana value X.",
+        "effect2": ""
+    },
+    {
+        "name": "Grab the Prize",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "draw card, direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "As an additional cost to cast this spell, discard a card.; Draw two cards. If the discarded card wasn\u2019t a land card, Grab the Prize deals 2 damage to each opponent.",
         "effect2": ""
     },
     {
@@ -5959,7 +6211,7 @@
         "power": "",
         "tag": "mana ability",
         "set": "Duskmourn: House of Horror",
-        "amount": "1",
+        "amount": "2",
         "effect": "{T}: Add {W} or {B}.; {T}, Pay 1 life: Add {G}, {U}, or {R}.; {7}: Put seven +1/+1 counters on Haunted Screen. It becomes a 0/0 Spirit creature in addition to its other types. Activate only once.",
         "effect2": ""
     },
@@ -6479,6 +6731,20 @@
         "set": "Alliances",
         "amount": "3",
         "effect": "Whenever a creature dies, you may pay {3}. If you do, draw a card.",
+        "effect2": ""
+    },
+    {
+        "name": "Innocuous Rat",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Creature \u2014 Rat",
+        "cost": "{1}{B}",
+        "power": "1/1",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "When Innocuous Rat dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it\u2019s a creature card.)",
         "effect2": ""
     },
     {
@@ -8946,6 +9212,20 @@
         "effect2": ""
     },
     {
+        "name": "Moldering Gym",
+        "name2": "Weight Room",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "When you unlock this door, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+        "effect2": "When you unlock this door, manifest dread, then put three +1/+1 counters on that creature."
+    },
+    {
         "name": "Molten Rain",
         "name2": "",
         "rarity": "Common",
@@ -8971,6 +9251,20 @@
         "set": "March of the Machine",
         "amount": "1",
         "effect": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.); Whenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess.",
+        "effect2": ""
+    },
+    {
+        "name": "Monstrous Emergence",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{1}{G}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "As an additional cost to cast this spell, choose a creature you control or reveal a creature card from your hand.; Monstrous Emergence deals damage equal to the power of the creature you chose or the card you revealed to target creature.",
         "effect2": ""
     },
     {
@@ -9069,6 +9363,20 @@
         "set": "Strixhaven: School of Mages",
         "amount": "1",
         "effect": "If X is 1, scry 1, then draw a card.; If X is 2, you may choose a player. They return a creature they control to its owner\u2019s hand.; If X is 3, create a 4/4 blue and red Elemental creature token.; If X is 4 or more, do all of the above.",
+        "effect2": ""
+    },
+    {
+        "name": "Murder",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Instant",
+        "cost": "{1}{B}{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "Destroy target creature.",
         "effect2": ""
     },
     {
@@ -10976,6 +11284,20 @@
         "effect2": ""
     },
     {
+        "name": "Ragged Playmate",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Artifact Creature \u2014 Toy",
+        "cost": "{1}{R}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "9",
+        "effect": "{1}, {T}: Target creature with power 2 or less can\u2019t be blocked this turn.",
+        "effect2": ""
+    },
+    {
         "name": "Raging Goblin",
         "name2": "",
         "rarity": "Common",
@@ -12012,6 +12334,20 @@
         "effect2": ""
     },
     {
+        "name": "Say Its Name",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{1}{G}",
+        "power": "",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "Mill three cards. Then you may return a creature or land card from your graveyard to your hand.; Exile this card and two other cards named Say Its Name from your graveyard: Search your graveyard, hand, and/or library for a card named Altanak, the Thrice-Called and put it onto the battlefield. If you search your library this way, shuffle. Activate only as a sorcery.",
+        "effect2": ""
+    },
+    {
         "name": "Scale the Heights",
         "name2": "",
         "rarity": "Common",
@@ -12292,6 +12628,20 @@
         "effect2": ""
     },
     {
+        "name": "Seized from Slumber",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{4}{W}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "This spell costs {3} less to cast if it targets a tapped creature.; Destroy target creature.",
+        "effect2": ""
+    },
+    {
         "name": "Sejiri Refuge",
         "name2": "",
         "rarity": "Uncommon",
@@ -12471,6 +12821,20 @@
         "set": "New Phyrexia",
         "amount": "1",
         "effect": "Swampwalk (This creature can\u2019t be blocked as long as defending player controls a Swamp.); At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.; At the beginning of each opponent\u2019s upkeep, that player sacrifices a creature.",
+        "effect2": ""
+    },
+    {
+        "name": "Shepherding Spirits",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Spirit",
+        "cost": "{4}{W}{W}",
+        "power": "4/5",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "4",
+        "effect": "Flying; Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",
         "effect2": ""
     },
     {
@@ -13118,6 +13482,20 @@
         "effect2": ""
     },
     {
+        "name": "Spectral Snatcher",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Creature \u2014 Spirit",
+        "cost": "{4}{B}{B}",
+        "power": "6/5",
+        "tag": "fetch card",
+        "set": "Duskmourn: House of Horror",
+        "amount": "9",
+        "effect": "Ward\u2014Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.); Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",
+        "effect2": ""
+    },
+    {
         "name": "Spell Contortion",
         "name2": "",
         "rarity": "Uncommon",
@@ -13557,7 +13935,7 @@
         "rarity": "Rare",
         "color": "white",
         "type": "Creature \u2014 Kor Artificer",
-        "cost": "{1}{W}",
+        "cost": "{W}",
         "power": "1/2",
         "tag": "fetch card",
         "set": "Worldwake",
@@ -13933,9 +14311,9 @@
         "name": "Taigam, Ojutai Master",
         "name2": "",
         "rarity": "Rare",
-        "color": "blue",
+        "color": "blue, white",
         "type": "Legendary Creature \u2014 Human Monk",
-        "cost": "{2}{U}{U}",
+        "cost": "{2}{W}{U}",
         "power": "3/4",
         "tag": "",
         "set": "Multiverse Legends",
@@ -14644,6 +15022,20 @@
         "effect2": ""
     },
     {
+        "name": "Ticket Booth",
+        "name2": "Tunnel of Hate",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Enchantment \u2014 Room",
+        "cost": "{2}{R}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "When you unlock this door, manifest dread.",
+        "effect2": "Whenever you attack, target attacking creature gains double strike until end of turn."
+    },
+    {
         "name": "Tiller Engine",
         "name2": "",
         "rarity": "Rare",
@@ -14980,6 +15372,20 @@
         "effect2": ""
     },
     {
+        "name": "Twist Reality",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{1}{U}{U}",
+        "power": "",
+        "tag": "counterspell",
+        "set": "Duskmourn: House of Horror",
+        "amount": "7",
+        "effect": "Choose one \u2014; \u2022 Counter target spell.; \u2022 Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it\u2019s a creature card.)",
+        "effect2": ""
+    },
+    {
         "name": "Twitching Doll",
         "name2": "",
         "rarity": "Rare",
@@ -15075,6 +15481,20 @@
         "set": "Rise of the Eldrazi",
         "amount": "1",
         "effect": "Auras attached to permanents you control have umbra armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)",
+        "effect2": ""
+    },
+    {
+        "name": "Unable to Scream",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{U}",
+        "power": "",
+        "tag": "",
+        "set": "Duskmourn: House of Horror",
+        "amount": "6",
+        "effect": "Enchant creature; Enchanted creature loses all abilities and is a Toy artifact creature with base power and toughness 0/2 in addition to its other types.; As long as enchanted creature is face down, it can\u2019t be turned face up.",
         "effect2": ""
     },
     {
@@ -16013,6 +16433,20 @@
         "set": "Duskmourn: House of Horror",
         "amount": "2",
         "effect": "Ward {2}; At the beginning of your upkeep, each player draws two cards.; Delirium \u2014 As long as there are four or more card types among cards in your graveyard, each opponent\u2019s maximum hand size is equal to seven minus the number of those card types.",
+        "effect2": ""
+    },
+    {
+        "name": "Winter's Intervention",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Instant",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "life gain, direct damage",
+        "set": "Duskmourn: House of Horror",
+        "amount": "8",
+        "effect": "Winter\u2019s Intervention deals 2 damage to target creature. You gain 2 life.",
         "effect2": ""
     },
     {
