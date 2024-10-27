@@ -70,6 +70,20 @@
         "effect2": ""
     },
     {
+        "name": "Adeline, Resplendent Cathar",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Legendary Creature \u2014 Human Knight",
+        "cost": "{1}{W}{W}",
+        "power": "*/4",
+        "tag": "Creature Token",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Vigilance; Adeline, Resplendent Cathar\u2019s power is equal to the number of creatures you control.; Whenever you attack, for each opponent, create a 1/1 white Human creature token that\u2019s tapped and attacking that player or a planeswalker they control.",
+        "effect2": ""
+    },
+    {
         "name": "Aether Adept",
         "name2": "",
         "rarity": "Common",
@@ -221,6 +235,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Flying; {R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate only if Ancient Hellkite is attacking.",
+        "effect2": ""
+    },
+    {
+        "name": "Angelfire Ignition",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white, red",
+        "type": "Sorcery",
+        "cost": "{1}{W}{R}",
+        "power": "",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Put two +1/+1 counters on target creature. It gains vigilance, trample, lifelink, indestructible, and haste until end of turn.; Flashback {2}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
         "effect2": ""
     },
     {
@@ -599,6 +627,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "{T}, Sacrifice an artifact: Reveal cards from the top of your library until you reveal an artifact card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Audacious Reshapers deals damage to you equal to the number of cards revealed this way.",
+        "effect2": ""
+    },
+    {
+        "name": "Augur of Autumn",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Creature \u2014 Human Druid",
+        "cost": "{1}{G}{G}",
+        "power": "2/3",
+        "tag": "mana ability",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "You may look at the top card of your library any time.; You may play lands from the top of your library.; Coven \u2014 As long as you control three or more creatures with different powers, you may cast creature spells from the top of your library.",
         "effect2": ""
     },
     {
@@ -1288,6 +1330,20 @@
         "effect2": ""
     },
     {
+        "name": "Bloodthirsty Adversary",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "red",
+        "type": "Creature \u2014 Vampire",
+        "cost": "{1}{R}",
+        "power": "2/2",
+        "tag": "copy spell",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Haste; When Bloodthirsty Adversary enters, you may pay {2}{R} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Bloodthirsty Adversary, then exile up to that many target instant and/or sorcery cards with mana value 3 or less from your graveyard and copy them. You may cast any number of the copies without paying their mana costs.",
+        "effect2": ""
+    },
+    {
         "name": "Blossoming Sands",
         "name2": "",
         "rarity": "Common",
@@ -1568,6 +1624,20 @@
         "effect2": ""
     },
     {
+        "name": "Burn Down the House",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{3}{R}{R}",
+        "power": "",
+        "tag": "direct damage, Creature Token",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Choose one \u2014; \u2022 Burn Down the House deals 5 damage to each creature and each planeswalker.; \u2022 Create three 1/1 red Devil creature tokens with \u201cWhen this creature dies, it deals 1 damage to any target.\u201d They gain haste until end of turn.",
+        "effect2": ""
+    },
+    {
         "name": "Burnout",
         "name2": "",
         "rarity": "Uncommon",
@@ -1691,6 +1761,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "({T}: Add {G} or {W}.); Canopy Vista enters the battlefield tapped unless you control two or more basic lands.",
+        "effect2": ""
+    },
+    {
+        "name": "Can't Stay Away",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, white",
+        "type": "Sorcery",
+        "cost": "{B}{W}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains \u201cIf this creature would die, exile it instead.\u201d; Flashback {3}{W}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
         "effect2": ""
     },
     {
@@ -2604,6 +2688,34 @@
         "effect2": ""
     },
     {
+        "name": "Curse of Leeches",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Enchantment \u2014 Aura Curse, Creature \u2014 Leech Horror",
+        "cost": "{2}{B}",
+        "power": "-, 4/4",
+        "tag": "life gain, life loss",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Enchant player; As this permanent transforms into Curse of Leeches, attach it to a player.; At the beginning of enchanted player\u2019s upkeep, they lose 1 life and you gain 1 life.; Daybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+        "effect2": "Lifelink; Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)"
+    },
+    {
+        "name": "Curse of Shaken Faith",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Enchantment \u2014 Aura Curse",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Enchant player; Whenever enchanted player casts a spell other than the first spell they cast each turn or copies a spell, Curse of Shaken Faith deals 2 damage to them.",
+        "effect2": ""
+    },
+    {
         "name": "Curse of Wizardry",
         "name2": "",
         "rarity": "Uncommon",
@@ -3038,6 +3150,20 @@
         "effect2": ""
     },
     {
+        "name": "Dennick, Pious Apprentice",
+        "name2": "Dennick, Pious Apparition",
+        "rarity": "Rare",
+        "color": "blue, white",
+        "type": "Legendary Creature \u2014 Human Soldier, Legendary Creature \u2014 Spirit Soldier",
+        "cost": "{U}{W}",
+        "power": "2/3, 3/2",
+        "tag": "graveyard",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Lifelink; Cards in graveyards can\u2019t be the targets of spells or abilities.; Disturb {2}{W}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",
+        "effect2": "Flying; Whenever one or more creature cards are put into graveyards from anywhere, investigate. This ability triggers only once each turn. (Create a Clue token. It\u2019s an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d); If Dennick, Pious Apparition would be put into a graveyard from anywhere, exile it instead."
+    },
+    {
         "name": "Denying Wind",
         "name2": "",
         "rarity": "Rare",
@@ -3091,6 +3217,20 @@
         "set": "Zendikar",
         "amount": "2",
         "effect": "Destroy target land. Its controller discards a card.",
+        "effect2": ""
+    },
+    {
+        "name": "Deserted Beach",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "dual land",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Deserted Beach enters tapped unless you control two or more other lands.; {T}: Add {W} or {U}.",
         "effect2": ""
     },
     {
@@ -3245,6 +3385,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "{1}, {T}: Add {U}{B}.",
+        "effect2": ""
+    },
+    {
+        "name": "Dire-Strain Rampage",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green, red",
+        "type": "Sorcery",
+        "cost": "{1}{G}{R}",
+        "power": "",
+        "tag": "artifact destruction, enchantment destruction, land destruction",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Destroy target artifact, enchantment, or land. If a land was destroyed this way, its controller may search their library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. Otherwise, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.; Flashback {3}{R}{G}",
         "effect2": ""
     },
     {
@@ -4088,6 +4242,20 @@
         "effect2": ""
     },
     {
+        "name": "Enduring Angel",
+        "name2": "Angelic Enforcer",
+        "rarity": "Mythic",
+        "color": "white",
+        "type": "Creature \u2014 Angel, Creature \u2014 Angel",
+        "cost": "{2}{W}{W}{W}",
+        "power": "3/3, */*",
+        "tag": "rule change",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Flying, double strike; You have hexproof.; If your life total would be reduced to 0 or less, instead transform Enduring Angel and your life total becomes 3. Then if Enduring Angel didn\u2019t transform this way, you lose the game.",
+        "effect2": "Flying; You have hexproof.; Angelic Enforcer\u2019s power and toughness are each equal to your life total.; Whenever Angelic Enforcer attacks, double your life total."
+    },
+    {
         "name": "Enduring Courage",
         "name2": "",
         "rarity": "Rare",
@@ -4438,6 +4606,20 @@
         "effect2": ""
     },
     {
+        "name": "Falkenrath Pit Fighter",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Creature \u2014 Vampire Warrior",
+        "cost": "{R}",
+        "power": "2/1",
+        "tag": "draw card",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "{1}{R}, Discard a card, Sacrifice a Vampire: Draw two cards. Activate only if an opponent lost life this turn.",
+        "effect2": ""
+    },
+    {
         "name": "Fall of Cair Andros",
         "name2": "",
         "rarity": "Rare",
@@ -4547,6 +4729,20 @@
         "set": "Alliances",
         "amount": "1",
         "effect": "An opponent chooses one \u2014; \u2022 You draw three cards.; \u2022 You destroy up to two target creatures that player controls. They can\u2019t be regenerated. That player draws up to three cards.",
+        "effect2": ""
+    },
+    {
+        "name": "Fateful Absence",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{1}{W}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Destroy target creature or planeswalker. Its controller investigates. (Create a Clue token. It\u2019s an artifact with \u201c{2}, Sacrifice this artifact: Draw a card.\u201d)",
         "effect2": ""
     },
     {
@@ -5488,6 +5684,20 @@
         "effect2": ""
     },
     {
+        "name": "Ghoulcaller's Harvest",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, green",
+        "type": "Sorcery",
+        "cost": "{B}{G}",
+        "power": "",
+        "tag": "Creature Token",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Create X 2/2 black Zombie creature tokens with decayed, where X is half the number of creature cards in your graveyard, rounded up. (A creature with decayed can\u2019t block. When it attacks, sacrifice it at end of combat.); Flashback {3}{B}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "effect2": ""
+    },
+    {
         "name": "Giant Scorpion",
         "name2": "",
         "rarity": "Common",
@@ -5541,6 +5751,20 @@
         "set": "The Lord of the Rings: Tales of Middle-earth",
         "amount": "1",
         "effect": "Gimli, Mournful Avenger has indestructible as long as two or more creatures died under your control this turn.; Whenever another creature you control dies, put a +1/+1 counter on Gimli. When this ability resolves for the third time this turn, Gimli fights up to one target creature you don\u2019t control.",
+        "effect2": ""
+    },
+    {
+        "name": "Gisa, Glorious Resurrector",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Legendary Creature \u2014 Human Wizard",
+        "cost": "{2}{B}{B}",
+        "power": "4/4",
+        "tag": "hijack",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "If a creature an opponent controls would die, exile it instead.; At the beginning of your upkeep, put all creature cards exiled with Gisa, Glorious Resurrector onto the battlefield under your control. They gain decayed. (A creature with decayed can\u2019t block. When it attacks, sacrifice it at end of combat.)",
         "effect2": ""
     },
     {
@@ -6132,6 +6356,20 @@
         "effect2": ""
     },
     {
+        "name": "Hallowed Respite",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue, white",
+        "type": "Sorcery",
+        "cost": "{U}{W}",
+        "power": "",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Exile target nonlegendary creature, then return it to the battlefield under its owner\u2019s control. If it entered under your control, put a +1/+1 counter on it. Otherwise, tap it.; Flashback {1}{W}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "effect2": ""
+    },
+    {
         "name": "Halo Hunter",
         "name2": "",
         "rarity": "Rare",
@@ -6508,6 +6746,20 @@
         "amount": "1",
         "effect": "Flying, deathtouch; When Hornet Queen enters the battlefield, create four 1/1 green Insect creature tokens with flying and deathtouch.",
         "effect2": ""
+    },
+    {
+        "name": "Hostile Hostel",
+        "name2": "Creeping Inn",
+        "rarity": "Mythic",
+        "color": "colorless",
+        "type": "Land, Artifact Creature \u2014 Horror Construct",
+        "cost": "",
+        "power": "-, 3/7",
+        "tag": "life gain, life loss",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "{T}: Add {C}.; {1}, {T}, Sacrifice a creature: Put a soul counter on Hostile Hostel. Then if there are three or more soul counters on it, remove those counters, transform it, then untap it. Activate only as a sorcery.",
+        "effect2": "Whenever Creeping Inn attacks, you may exile a creature card from your graveyard. If you do, each opponent loses X life and you gain X life, where X is the number of creature cards exiled with Creeping Inn.; {4}: Creeping Inn phases out."
     },
     {
         "name": "Hunters' Feast",
@@ -8106,6 +8358,20 @@
         "effect2": ""
     },
     {
+        "name": "Liesa, Forgotten Archangel",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, white",
+        "type": "Legendary Creature \u2014 Angel",
+        "cost": "{2}{B}{W}{W}",
+        "power": "4/5",
+        "tag": "Bounce",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Flying, lifelink; Whenever another nontoken creature you control dies, return that card to its owner\u2019s hand at the beginning of the next end step.; If a creature an opponent controls would die, exile it instead.",
+        "effect2": ""
+    },
+    {
         "name": "Light of Sanction",
         "name2": "",
         "rarity": "Rare",
@@ -8328,6 +8594,20 @@
         "amount": "2",
         "effect": "Landfall \u2014 Whenever a land enters the battlefield under your control, add one mana of any color.",
         "effect2": ""
+    },
+    {
+        "name": "Ludevic, Necrogenius",
+        "name2": "Olag, Ludevic's Hubris",
+        "rarity": "Rare",
+        "color": "black, blue",
+        "type": "Legendary Creature \u2014 Human Wizard, Legendary Creature \u2014 Zombie",
+        "cost": "{B}{U}",
+        "power": "2/3, 4/4",
+        "tag": "copy spell",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Whenever Ludevic, Necrogenius enters or attacks, mill a card.; {X}{U}{U}{B}{B}, Exile X creature cards from your graveyard: Transform Ludevic. X can\u2019t be 0. Activate only as a sorcery.",
+        "effect2": "As this creature transforms into Olag, Ludevic\u2019s Hubris, it becomes a copy of a creature card exiled with it, except its name is Olag, Ludevic\u2019s Hubris, it\u2019s 4/4, and it\u2019s a legendary blue and black Zombie in addition to its other colors and types. Put a number of +1/+1 counters on Olag equal to the number of creature cards exiled with it."
     },
     {
         "name": "Lullmage Mentor",
@@ -8677,6 +8957,20 @@
         "set": "Worldwake",
         "amount": "1",
         "effect": "Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.); Creatures you control get +1/+1.; When Marshal\u2019s Anthem enters, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal\u2019s Anthem was kicked.",
+        "effect2": ""
+    },
+    {
+        "name": "Mask of Griselbrand",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Legendary Artifact \u2014 Equipment",
+        "cost": "{1}{B}{B}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Equipped creature has flying and lifelink.; Whenever equipped creature dies, you may pay X life, where X is its power. If you do, draw X cards.; Equip {3}",
         "effect2": ""
     },
     {
@@ -10024,6 +10318,20 @@
         "effect2": ""
     },
     {
+        "name": "Old Stickfingers",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, green",
+        "type": "Legendary Creature \u2014 Horror",
+        "cost": "{X}{B}{G}",
+        "power": "*/*",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "When you cast this spell, reveal cards from the top of your library until you reveal X creature cards. Put all creature cards revealed this way into your graveyard, then put the rest on the bottom of your library in a random order.; Old Stickfingers\u2019s power and toughness are each equal to the number of creature cards in your graveyard.",
+        "effect2": ""
+    },
+    {
         "name": "Omen of Fire",
         "name2": "",
         "rarity": "Rare",
@@ -10486,6 +10794,20 @@
         "effect2": ""
     },
     {
+        "name": "Patrician Geist",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Creature \u2014 Spirit Knight",
+        "cost": "{2}{U}",
+        "power": "2/2",
+        "tag": "graveyard",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Flying; Other Spirits you control get +1/+1.; Spells you cast from your graveyard cost {1} less to cast.",
+        "effect2": ""
+    },
+    {
         "name": "Pawn of Ulamog",
         "name2": "",
         "rarity": "Uncommon",
@@ -10819,6 +11141,20 @@
         "set": "Time Spiral Timeshifted ",
         "amount": "1",
         "effect": "Pirate Ship can\u2019t attack unless defending player controls an Island.; {T}: Pirate Ship deals 1 damage to any target.; When you control no Islands, sacrifice Pirate Ship.",
+        "effect2": ""
+    },
+    {
+        "name": "Pithing Needle",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{1}",
+        "power": "",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "As Pithing Needle enters, choose a card name.; Activated abilities of sources with the chosen name can\u2019t be activated unless they\u2019re mana abilities.",
         "effect2": ""
     },
     {
@@ -11578,6 +11914,20 @@
         "effect2": ""
     },
     {
+        "name": "Reckless Stormseeker",
+        "name2": "Storm-Charged Slasher",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Creature \u2014 Human Werewolf, Creature \u2014 Werewolf",
+        "cost": "{2}{R}",
+        "power": "2/3, 3/4",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "2",
+        "effect": "At the beginning of combat on your turn, target creature you control gets +1/+0 and gains haste until end of turn.; Daybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+        "effect2": "At the beginning of combat on your turn, target creature you control gets +2/+0 and gains trample and haste until end of turn.; Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)"
+    },
+    {
         "name": "Reclamation Sage",
         "name2": "",
         "rarity": "Uncommon",
@@ -12010,6 +12360,20 @@
         "amount": "1",
         "effect": "When you unlock this door, this Room deals damage equal to the number of cards in your hand to target creature an opponent controls.",
         "effect2": "You have no maximum hand size.; At the beginning of your end step, draw a card."
+    },
+    {
+        "name": "Rockfall Vale",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "dual land",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Rockfall Vale enters tapped unless you control two or more other lands.; {T}: Add {R} or {G}.",
+        "effect2": ""
     },
     {
         "name": "Rocky Tar Pit",
@@ -12936,6 +13300,34 @@
         "effect2": ""
     },
     {
+        "name": "Sigarda's Splendor",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Enchantment",
+        "cost": "{2}{W}{W}",
+        "power": "",
+        "tag": "draw card, life gain",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "As Sigarda\u2019s Splendor enters, note your life total.; At the beginning of your upkeep, draw a card if your life total is greater than or equal to the last noted life total for Sigarda\u2019s Splendor. Then note your life total.; Whenever you cast a white spell, you gain 1 life.",
+        "effect2": ""
+    },
+    {
+        "name": "Sigardian Savior",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "white",
+        "type": "Creature \u2014 Angel",
+        "cost": "{3}{W}{W}",
+        "power": "3/3",
+        "tag": "graveyard",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Flying; When Sigardian Savior enters, if you cast it, return up to two target creature cards with mana value 2 or less from your graveyard to the battlefield.",
+        "effect2": ""
+    },
+    {
         "name": "Sign in Blood",
         "name2": "",
         "rarity": "Common",
@@ -12989,6 +13381,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "Silverbluff Bridge enters the battlefield tapped.; Indestructible; {T}: Add {U} or {R}.",
+        "effect2": ""
+    },
+    {
+        "name": "Siphon Insight",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, blue",
+        "type": "Instant",
+        "cost": "{B}{U}",
+        "power": "",
+        "tag": "hijack",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "2",
+        "effect": "Look at the top two cards of target opponent\u2019s library. Exile one of them face down and put the other on the bottom of that library. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.; Flashback {1}{U}{B}",
         "effect2": ""
     },
     {
@@ -13228,6 +13634,20 @@
         "amount": "3",
         "effect": "At the beginning of your first main phase, add {R}{R}. Spend this mana only to cast Room spells and unlock doors.",
         "effect2": "When you unlock this door, create an X/X blue Spirit creature token with flying, where X is the number of unlocked doors among Rooms you control."
+    },
+    {
+        "name": "Smoldering Egg",
+        "name2": "Ashmouth Dragon",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Creature \u2014 Dragon Egg, Creature \u2014 Dragon ",
+        "cost": "{1}{R}",
+        "power": "0/4, 4/4",
+        "tag": "direct damage",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Defender; Whenever you cast an instant or sorcery spell, put a number of ember counters on Smoldering Egg equal to the amount of mana spent to cast that spell. Then if Smoldering Egg has seven or more ember counters on it, remove them and transform Smoldering Egg.",
+        "effect2": "Flying; Whenever you cast an instant or sorcery spell, Ashmouth Dragon deals 2 damage to any target."
     },
     {
         "name": "Smoldering Marsh",
@@ -13482,6 +13902,20 @@
         "effect2": ""
     },
     {
+        "name": "Spectral Adversary",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "blue",
+        "type": "Creature \u2014 Spirit",
+        "cost": "{1}{U}",
+        "power": "2/1",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Flash; Flying; When Spectral Adversary enters, you may pay {1}{U} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Spectral Adversary, then up to that many other target artifacts, creatures, and/or enchantments phase out.",
+        "effect2": ""
+    },
+    {
         "name": "Spectral Snatcher",
         "name2": "",
         "rarity": "Common",
@@ -13499,9 +13933,9 @@
         "name": "Spell Contortion",
         "name2": "",
         "rarity": "Uncommon",
-        "color": "blue",
+        "color": "red",
         "type": "Instant",
-        "cost": "{2}{U}",
+        "cost": "{4}{R}",
         "power": "",
         "tag": "counterspell",
         "set": "Worldwake",
@@ -13935,7 +14369,7 @@
         "rarity": "Rare",
         "color": "white",
         "type": "Creature \u2014 Kor Artificer",
-        "cost": "{W}",
+        "cost": "{1}{W}",
         "power": "1/2",
         "tag": "fetch card",
         "set": "Worldwake",
@@ -14742,6 +15176,20 @@
         "effect2": ""
     },
     {
+        "name": "The Meathook Massacre",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "black",
+        "type": "Legendary Enchantment",
+        "cost": "{X}{B}{B}",
+        "power": "",
+        "tag": "life gain, life loss",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "When The Meathook Massacre enters, each creature gets -X/-X until end of turn.; Whenever a creature you control dies, each opponent loses 1 life.; Whenever a creature an opponent controls dies, you gain 1 life.",
+        "effect2": ""
+    },
+    {
         "name": "The Mindskinner",
         "name2": "",
         "rarity": "Rare",
@@ -15316,6 +15764,20 @@
         "effect2": ""
     },
     {
+        "name": "Triskaidekaphile",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Creature \u2014 Human Wizard",
+        "cost": "{1}{U}",
+        "power": "1/3",
+        "tag": "win condition, rule change",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "You have no maximum hand size.; At the beginning of your upkeep, if you have exactly thirteen cards in your hand, you win the game.; {3}{U}: Draw a card.",
+        "effect2": ""
+    },
+    {
         "name": "Tuktuk the Explorer",
         "name2": "",
         "rarity": "Rare",
@@ -15652,6 +16114,20 @@
         "effect2": ""
     },
     {
+        "name": "Unnatural Growth",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Enchantment",
+        "cost": "{1}{G}{G}{G}{G}",
+        "power": "",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "At the beginning of each combat, double the power and toughness of each creature you control until end of turn.",
+        "effect2": ""
+    },
+    {
         "name": "Unnerving Grasp",
         "name2": "",
         "rarity": "Uncommon",
@@ -15764,6 +16240,20 @@
         "effect2": ""
     },
     {
+        "name": "Vadrik, Astral Archmage",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue, red",
+        "type": "Legendary Creature \u2014 Human Wizard",
+        "cost": "{1}{U}{R}",
+        "power": "1/2",
+        "tag": "",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "If it\u2019s neither day nor night, it becomes day as Vadrik, Astral Archmage enters.; Instant and sorcery spells you cast cost {X} less to cast, where X is Vadrik\u2019s power.; Whenever day becomes night or night becomes day, put a +1/+1 counter on Vadrik.",
+        "effect2": ""
+    },
+    {
         "name": "Valgavoth, Terror Eater",
         "name2": "",
         "rarity": "Mythic",
@@ -15831,6 +16321,20 @@
         "set": "Zendikar",
         "amount": "4",
         "effect": "Flying, deathtouch, lifelink",
+        "effect2": ""
+    },
+    {
+        "name": "Vanquish the Horde",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Sorcery",
+        "cost": "{6}{W}{W}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "This spell costs {1} less to cast for each creature on the battlefield.; Destroy all creatures.",
         "effect2": ""
     },
     {
@@ -16125,6 +16629,20 @@
         "set": "The List",
         "amount": "1",
         "effect": "Destroy target land and all other lands with the same name as that land.",
+        "effect2": ""
+    },
+    {
+        "name": "Wake to Slaughter",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, red",
+        "type": "Sorcery",
+        "cost": "{3}{B}{R}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "Choose up to two target creature cards in your graveyard. An opponent chooses one of them. Return that card to your hand. Return the other to the battlefield under your control. It gains haste. Exile it at the beginning of the next end step.; Flashback {4}{B}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
         "effect2": ""
     },
     {
