@@ -36,8 +36,8 @@
         "cost": "{1}{R}",
         "power": "",
         "tag": "direct damage",
-        "set": "The Brothers' War Commander, Dominaria United Commander",
-        "amount": "1",
+        "set": "The Brothers' War Commander, Dominaria United Commander, Foundations",
+        "amount": "4",
         "effect": "Choose one \u2014; \u2022 Abrade deals 3 damage to target creature.; \u2022 Destroy target artifact.",
         "effect2": ""
     },
@@ -53,6 +53,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Enchant land; When Abundant Growth enters the battlefield, draw a card.; Enchanted land has \u201c{T}: Add one mana of any color.\u201d",
+        "effect2": ""
+    },
+    {
+        "name": "Abyssal Harvester",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Demon Warlock",
+        "cost": "{1}{B}{B}",
+        "power": "3/2",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "{T}: Exile target creature card from a graveyard that was put there this turn. Create a token that\u2019s a copy of it, except it\u2019s a Nightmare in addition to its other types. Then exile all other Nightmare tokens you control.",
         "effect2": ""
     },
     {
@@ -84,6 +98,20 @@
         "effect2": ""
     },
     {
+        "name": "Aegis Turtle",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Creature \u2014 Turtle",
+        "cost": "{U}",
+        "power": "0/5",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "",
+        "effect2": ""
+    },
+    {
         "name": "Aether Adept",
         "name2": "",
         "rarity": "Common",
@@ -95,6 +123,20 @@
         "set": "Magic 2011",
         "amount": "5",
         "effect": "When Aether Adept enters, return target creature to its owner\u2019s hand.",
+        "effect2": ""
+    },
+    {
+        "name": "Aetherize",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{3}{U}",
+        "power": "",
+        "tag": "Bounce",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Return all attacking creatures to their owner\u2019s hand.",
         "effect2": ""
     },
     {
@@ -154,6 +196,20 @@
         "effect2": ""
     },
     {
+        "name": "Alesha, Who Laughs at Fate",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black, red",
+        "type": "Legendary Creature \u2014 Human Warrior",
+        "cost": "{1}{B}{R}",
+        "power": "2/2",
+        "tag": "graveyard",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "First strike; Whenever Alesha attacks, put a +1/+1 counter on it.; Raid \u2014 At the beginning of your end step, if you attacked this turn, return target creature card with mana value less than or equal to Alesha\u2019s power from your graveyard to the battlefield.",
+        "effect2": ""
+    },
+    {
         "name": "Alloy Myr",
         "name2": "",
         "rarity": "Uncommon",
@@ -210,6 +266,20 @@
         "effect2": "Lifelink"
     },
     {
+        "name": "Ambush Wolf",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Wolf",
+        "cost": "{2}{G}",
+        "power": "4/2",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Flash (You may cast this spell any time you could cast an instant.); When this creature enters, exile up to one target card from a graveyard.",
+        "effect2": ""
+    },
+    {
         "name": "Aminatou, Veil Piercer",
         "name2": "",
         "rarity": "Mythic",
@@ -221,6 +291,20 @@
         "set": "Duskmourn: House of Horror Commander",
         "amount": "1",
         "effect": "At the beginning of your upkeep, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.); Each enchantment card in your hand has miracle. Its miracle cost is equal to its mana cost reduced by {4}. (You may cast a card for its miracle cost when you draw it if it\u2019s the first card you drew this turn.)",
+        "effect2": ""
+    },
+    {
+        "name": "An Offer You Can't Refuse",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{U}",
+        "power": "",
+        "tag": "counterspell",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Counter target noncreature spell. Its controller creates two Treasure tokens. (They\u2019re artifacts with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)",
         "effect2": ""
     },
     {
@@ -280,6 +364,20 @@
         "effect2": ""
     },
     {
+        "name": "Anthem of Champions",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white, green",
+        "type": "Enchantment",
+        "cost": "{W}{G}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Creatures you control get +1/+1.",
+        "effect2": ""
+    },
+    {
         "name": "Appendage Amalgam",
         "name2": "",
         "rarity": "Common",
@@ -333,6 +431,20 @@
         "set": "Alliances",
         "amount": "4",
         "effect": "Counter target spell. Its controller may draw up to two cards at the beginning of the next turn\u2019s upkeep.; You draw a card at the beginning of the next turn\u2019s upkeep.",
+        "effect2": ""
+    },
+    {
+        "name": "Arcane Epiphany",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{3}{U}{U}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "This spell costs {1} less to cast if you control a Wizard.; Draw three cards.",
         "effect2": ""
     },
     {
@@ -403,6 +515,20 @@
         "set": "Zendikar",
         "amount": "2",
         "effect": "At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.; As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle.",
+        "effect2": ""
+    },
+    {
+        "name": "Archmage of Runes",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Creature \u2014 Giant Wizard",
+        "cost": "{3}{U}{U}",
+        "power": "3/6",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Instant and sorcery spells you cast cost {1} less to cast.; Whenever you cast an instant or sorcery spell, draw a card.",
         "effect2": ""
     },
     {
@@ -557,6 +683,20 @@
         "set": "War of the Spark",
         "amount": "3",
         "effect": "Spells and abilities your opponents control can\u2019t cause their controller to search their library.; -1: Target player mills four cards. Then exile each opponent\u2019s graveyard.",
+        "effect2": ""
+    },
+    {
+        "name": "Ashiok, Nightmare Weaver",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "black, blue",
+        "type": "Legendary Planeswalker \u2014 Ashiok",
+        "cost": "{B}{U}",
+        "power": "",
+        "tag": "discard card, mill, hijack",
+        "set": "Theros",
+        "amount": "1",
+        "effect": "+2: Exile the top three cards of target opponent\u2019s library.; -X: Put a creature card with mana value X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.; -10: Exile all cards from all opponents\u2019 hands and graveyards.",
         "effect2": ""
     },
     {
@@ -865,6 +1005,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Bad River enters tapped.; {T}, Sacrifice Bad River: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",
+        "effect2": ""
+    },
+    {
+        "name": "Bake into a Pie",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Instant",
+        "cost": "{2}{B}{B}",
+        "power": "",
+        "tag": "creature destruction, life gain",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Destroy target creature. Create a Food token. (It\u2019s an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)",
         "effect2": ""
     },
     {
@@ -1240,8 +1394,8 @@
         "cost": "{2}{G}",
         "power": "",
         "tag": "",
-        "set": "The Brothers' War",
-        "amount": "1",
+        "set": "The Brothers' War, Foundations",
+        "amount": "2",
         "effect": "Enchant creature; Enchanted creature gets +1/+1 for each Forest you control.",
         "effect2": ""
     },
@@ -1257,6 +1411,20 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "This spell costs {1} less to cast for each creature on the battlefield.; Blasphemous Act deals 13 damage to each creature.",
+        "effect2": ""
+    },
+    {
+        "name": "Blasphemous Edict",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{3}{B}{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "You may pay {B} rather than pay this spell\u2019s mana cost if there are thirteen or more creatures on the battlefield.; Each player sacrifices thirteen creatures of their choice.",
         "effect2": ""
     },
     {
@@ -1442,6 +1610,20 @@
         "effect2": ""
     },
     {
+        "name": "Bloodthirsty Conqueror",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "black",
+        "type": "Creature \u2014 Vampire Knight",
+        "cost": "{3}{B}{B}",
+        "power": "5/5",
+        "tag": "life gain",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying, deathtouch; Whenever an opponent loses life, you gain that much life. (Damage causes loss of life.)",
+        "effect2": ""
+    },
+    {
         "name": "Blossoming Sands",
         "name2": "",
         "rarity": "Common",
@@ -1467,6 +1649,20 @@
         "set": "Phyrexia: All Will Be One",
         "amount": "1",
         "effect": "Gain control of target creature with mana value X or less. If X is 5 or more, create a token that\u2019s a copy of that creature.",
+        "effect2": ""
+    },
+    {
+        "name": "Boltwave",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Boltwave deals 3 damage to each opponent.",
         "effect2": ""
     },
     {
@@ -1568,6 +1764,20 @@
         "effect2": ""
     },
     {
+        "name": "Brass's Bounty",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{6}{R}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "For each land you control, create a Treasure token. (It\u2019s an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)",
+        "effect2": ""
+    },
+    {
         "name": "Brave the Elements",
         "name2": "",
         "rarity": "Uncommon",
@@ -1666,6 +1876,20 @@
         "effect2": ""
     },
     {
+        "name": "Broken Wings",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Instant",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "creature destruction, artifact destruction, enchantment destruction",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Destroy target artifact, enchantment, or creature with flying.",
+        "effect2": ""
+    },
+    {
         "name": "Broodspinner",
         "name2": "",
         "rarity": "Uncommon",
@@ -1719,6 +1943,20 @@
         "set": "Ravnica Remastered",
         "amount": "1",
         "effect": "If an opponent would mill one or more cards, they mill twice that many cards instead. (To mill a card, a player puts the top card of their library into their graveyard.)",
+        "effect2": ""
+    },
+    {
+        "name": "Burglar Rat",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Creature \u2014 Rat",
+        "cost": "{1}{B}",
+        "power": "1/1",
+        "tag": "discard card",
+        "set": "Foundations ",
+        "amount": "5",
+        "effect": "When this creature enters, each opponent discards a card.",
         "effect2": ""
     },
     {
@@ -1786,9 +2024,23 @@
         "cost": "{R}",
         "power": "",
         "tag": "direct damage",
-        "set": "Zendikar",
-        "amount": "7",
+        "set": "Zendikar, Foundations",
+        "amount": "11",
         "effect": "Kicker {4} (You may pay an additional {4} as you cast this spell.); Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.",
+        "effect2": ""
+    },
+    {
+        "name": "Bushwhack",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{G}",
+        "power": "",
+        "tag": "creature destruction, fetch card",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Choose one \u2014; \u2022 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.; \u2022 Target creature you control fights target creature you don\u2019t control. (Each deals damage equal to its power to the other.)",
         "effect2": ""
     },
     {
@@ -1932,6 +2184,20 @@
         "effect2": ""
     },
     {
+        "name": "Cat Collector",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Creature \u2014 Human Citizen",
+        "cost": "{2}{W}",
+        "power": "3/2",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "When this creature enters, create a Food token. (It\u2019s an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d); Whenever you gain life for the first time during each of your turns, create a 1/1 white Cat creature token.",
+        "effect2": ""
+    },
+    {
         "name": "Catastrophe",
         "name2": "",
         "rarity": "Rare",
@@ -1954,8 +2220,8 @@
         "cost": "{1}{W}",
         "power": "3/1",
         "tag": "artifact destruction, enchantment destruction",
-        "set": "Innistrad: Midnight Hunt",
-        "amount": "2",
+        "set": "Innistrad: Midnight Hunt, Foundations",
+        "amount": "5",
         "effect": "Flash; {1}, Sacrifice Cathar Commando: Destroy target artifact or enchantment.",
         "effect2": ""
     },
@@ -2002,6 +2268,20 @@
         "effect2": ""
     },
     {
+        "name": "Celestial Armor",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{2}{W}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flash (You may cast this spell any time you could cast an instant.); When this Equipment enters, attach it to target creature you control. That creature gains hexproof and indestructible until end of turn.; Equipped creature gets +2/+0 and has flying.; Equip {3}{W} ({3}{W}: Attach to target creature you control. Equip only as a sorcery.)",
+        "effect2": ""
+    },
+    {
         "name": "Celestial Colonnade",
         "name2": "",
         "rarity": "Rare",
@@ -2013,6 +2293,20 @@
         "set": "Worldwake",
         "amount": "1",
         "effect": "Celestial Colonnade enters tapped.; {T}: Add {W} or {U}.; {3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It\u2019s still a land.",
+        "effect2": ""
+    },
+    {
+        "name": "Cephalid Inkmage",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Creature \u2014 Octopus Wizard",
+        "cost": "{2}{U}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "When this creature enters, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.); Threshold \u2014 This creature can\u2019t be blocked as long as there are seven or more cards in your graveyard.",
         "effect2": ""
     },
     {
@@ -2055,6 +2349,20 @@
         "set": "Duskmourn: House of Horror",
         "amount": "1",
         "effect": "When Chainsaw enters, it deals 3 damage to up to one target creature.; Whenever one or more creatures die, put a rev counter on Chainsaw.; Equipped creature gets +X/+0, where X is the number of rev counters on Chainsaw.; Equip {3}",
+        "effect2": ""
+    },
+    {
+        "name": "Chandra, Flamecaller",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "red",
+        "type": "Legendary Planeswalker \u2014 Chandra",
+        "cost": "{4}{R}{R}",
+        "power": "",
+        "tag": "Creature Token, draw card, direct damage",
+        "set": "Commander 2020",
+        "amount": "1",
+        "effect": "+1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.; 0: Discard all the cards in your hand, then draw that many cards plus one.; -X: Chandra, Flamecaller deals X damage to each creature.",
         "effect2": ""
     },
     {
@@ -2612,8 +2920,8 @@
         "cost": "{3}{U}{B}",
         "power": "*/*",
         "tag": "mill",
-        "set": "Zendikar Rising Commander",
-        "amount": "4",
+        "set": "Zendikar Rising Commander, Foundations ",
+        "amount": "5",
         "effect": "Consuming Aberration\u2019s power and toughness are each equal to the number of cards in your opponents\u2019 graveyards.; Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.",
         "effect2": ""
     },
@@ -2744,6 +3052,20 @@
         "effect2": ""
     },
     {
+        "name": "Courageous Goblin",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Creature \u2014 Goblin",
+        "cost": "{1}{R}",
+        "power": "2/2",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Whenever this creature attacks while you control a creature with power 4 or greater, this creature gets +1/+0 and gains menace until end of turn. (It can\u2019t be blocked except by two or more creatures.)",
+        "effect2": ""
+    },
+    {
         "name": "Cracked Skull",
         "name2": "",
         "rarity": "Common",
@@ -2842,6 +3164,20 @@
         "effect2": ""
     },
     {
+        "name": "Crypt Feaster",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Creature \u2014 Zombie",
+        "cost": "{3}{B}",
+        "power": "3/4",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Menace (This creature can\u2019t be blocked except by two or more creatures.); Threshold \u2014 Whenever this creature attacks, if there are seven or more cards in your graveyard, this creature gets +2/+0 until end of turn.",
+        "effect2": ""
+    },
+    {
         "name": "Crypt Ghast",
         "name2": "",
         "rarity": "Rare",
@@ -2923,6 +3259,20 @@
         "set": "Judgment",
         "amount": "1",
         "effect": "You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.",
+        "effect2": ""
+    },
+    {
+        "name": "Curator of Destinies",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Creature \u2014 Sphinx",
+        "cost": "{4}{U}{U}",
+        "power": "5/5",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "This spell can\u2019t be countered.; Flying; When this creature enters, look at the top five cards of your library and separate them into a face-down pile and a face-up pile. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.",
         "effect2": ""
     },
     {
@@ -3217,6 +3567,20 @@
         "set": "Magic 2012",
         "amount": "1",
         "effect": "Destroy all creatures.",
+        "effect2": ""
+    },
+    {
+        "name": "Dazzling Angel",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Angel",
+        "cost": "{2}{W}",
+        "power": "2/3",
+        "tag": "life gain",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Flying; Whenever another creature you control enters, you gain 1 life.",
         "effect2": ""
     },
     {
@@ -3850,6 +4214,20 @@
         "effect2": ""
     },
     {
+        "name": "Divine Resilience",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{W}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.); Target creature you control gains indestructible until end of turn. If this spell was kicked, instead any number of target creatures you control gain indestructible until end of turn. (Damage and effects that say \u201cdestroy\u201d don\u2019t destroy them.)",
+        "effect2": ""
+    },
+    {
         "name": "Diving Griffin",
         "name2": "",
         "rarity": "Common",
@@ -4043,6 +4421,20 @@
         "set": "Revised, Fourth Edition",
         "amount": "2",
         "effect": "Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.",
+        "effect2": ""
+    },
+    {
+        "name": "Drake Hatcher",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Creature \u2014 Human Wizard",
+        "cost": "{1}{U}",
+        "power": "1/3",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Vigilance, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.); Whenever this creature deals combat damage to a player, put that many incubation counters on it.; Remove three incubation counters from this creature: Create a 2/2 blue Drake creature token with flying.",
         "effect2": ""
     },
     {
@@ -4340,6 +4732,48 @@
         "effect2": ""
     },
     {
+        "name": "Dwynen, Gilt-Leaf Daen",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Legendary Creature \u2014 Elf Warrior",
+        "cost": "{2}{G}{G}",
+        "power": "3/4",
+        "tag": "life gain",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Reach (This creature can block creatures with flying.); Other Elf creatures you control get +1/+1.; Whenever Dwynen attacks, you gain 1 life for each attacking Elf you control.",
+        "effect2": ""
+    },
+    {
+        "name": "Dwynen's Elite",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Elf Warrior",
+        "cost": "{1}{G}",
+        "power": "2/2",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "When this creature enters, if you control another Elf, create a 1/1 green Elf Warrior creature token.",
+        "effect2": ""
+    },
+    {
+        "name": "Eager Trufflesnout",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Boar",
+        "cost": "{2}{G}",
+        "power": "4/2",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Trample (This creature can deal excess combat damage to the player or planeswalker it\u2019s attacking.); Whenever this creature deals combat damage to a player, create a Food token. (It\u2019s an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)",
+        "effect2": ""
+    },
+    {
         "name": "Echoing Truth",
         "name2": "",
         "rarity": "Common",
@@ -4396,6 +4830,20 @@
         "effect2": ""
     },
     {
+        "name": "Elfsworn Giant",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Giant",
+        "cost": "{3}{G}{G}",
+        "power": "5/3",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Reach (This creature can block creatures with flying.); Landfall \u2014 Whenever a land you control enters, create a 1/1 green Elf Warrior creature token.",
+        "effect2": ""
+    },
+    {
         "name": "Elixir of Immortality",
         "name2": "",
         "rarity": "Uncommon",
@@ -4446,8 +4894,8 @@
         "cost": "{1}{G}{G}",
         "power": "2/2",
         "tag": "mana ability",
-        "set": "Tales of Middle-earth Commander, Magic 2011",
-        "amount": "1",
+        "set": "Tales of Middle-earth Commander, Magic 2011, Foundations ",
+        "amount": "3",
         "effect": "Other Elf creatures you control get +1/+1.; {T}: Add {G} for each Elf you control.",
         "effect2": ""
     },
@@ -4760,6 +5208,20 @@
         "effect2": "Trample, indestructible; Whenever Etali, Primal Sickness deals combat damage to a player, they get that many poison counters. (A player with ten or more poison counters loses the game.)"
     },
     {
+        "name": "Etali, Primal Storm",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Legendary Creature \u2014 Elder Dinosaur",
+        "cost": "{4}{R}{R}",
+        "power": "6/6",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Whenever Etali attacks, exile the top card of each player\u2019s library, then you may cast any number of spells from among those cards without paying their mana costs.",
+        "effect2": ""
+    },
+    {
         "name": "Etched Cornfield",
         "name2": "",
         "rarity": "Common",
@@ -4838,9 +5300,23 @@
         "cost": "",
         "power": "",
         "tag": "fetch card",
-        "set": "Innistrad: Midnight Hunt, The Brothers' War, Dominaria United Commander",
-        "amount": "6",
+        "set": "Innistrad: Midnight Hunt, The Brothers' War, Dominaria United Commander, Foundations ",
+        "amount": "10",
         "effect": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+        "effect2": ""
+    },
+    {
+        "name": "Exemplar of Light",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Creature \u2014 Angel",
+        "cost": "{2}{W}{W}",
+        "power": "3/3",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying; Whenever you gain life, put a +1/+1 counter on this creature.; Whenever you put one or more +1/+1 counters on this creature, draw a card. This ability triggers only once each turn.",
         "effect2": ""
     },
     {
@@ -4900,6 +5376,34 @@
         "effect2": ""
     },
     {
+        "name": "Exsanguinate",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{X}{B}{B}",
+        "power": "",
+        "tag": "life gain, life loss",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Each opponent loses X life. You gain life equal to the life lost this way.",
+        "effect2": ""
+    },
+    {
+        "name": "Extravagant Replication",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Enchantment",
+        "cost": "{4}{U}{U}",
+        "power": "",
+        "tag": "copy spell",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "At the beginning of your upkeep, create a token that\u2019s a copy of another target nonland permanent you control.",
+        "effect2": ""
+    },
+    {
         "name": "Eyes of Gitaxias",
         "name2": "",
         "rarity": "Common",
@@ -4925,6 +5429,20 @@
         "set": "Innistrad: Midnight Hunt",
         "amount": "1",
         "effect": "Return target creature to its owner\u2019s hand. If its mana value was 3 or less, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+        "effect2": ""
+    },
+    {
+        "name": "Faebloom Trick",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{2}{U}",
+        "power": "",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Create two 1/1 blue Faerie creature tokens with flying. When you do, tap target creature an opponent controls.",
         "effect2": ""
     },
     {
@@ -5051,6 +5569,20 @@
         "set": "Innistrad: Midnight Hunt",
         "amount": "2",
         "effect": "When Famished Foragers enters, if an opponent lost life this turn, add {R}{R}{R}.; {2}{R}, Discard a card: Draw a card.",
+        "effect2": ""
+    },
+    {
+        "name": "Fanatical Firebrand",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Creature \u2014 Goblin Pirate",
+        "cost": "{R}",
+        "power": "1/1",
+        "tag": "direct damage",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Haste (This creature can attack and {T} as soon as it comes under your control.); {T}, Sacrifice this creature: It deals 1 damage to any target.",
         "effect2": ""
     },
     {
@@ -5278,6 +5810,20 @@
         "effect2": ""
     },
     {
+        "name": "Felidar Savior",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Cat Beast",
+        "cost": "{3}{W}",
+        "power": "2/3",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Lifelink (Damage dealt by this creature also causes you to gain that much life.); When this creature enters, put a +1/+1 counter on each of up to two other target creatures you control.",
+        "effect2": ""
+    },
+    {
         "name": "Felidar Sovereign",
         "name2": "",
         "rarity": "Rare",
@@ -5418,6 +5964,20 @@
         "effect2": ""
     },
     {
+        "name": "Firebrand Archer",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Creature \u2014 Human Archer",
+        "cost": "{1}{R}",
+        "power": "2/1",
+        "tag": "direct damage",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.",
+        "effect2": ""
+    },
+    {
         "name": "Firemane Commando",
         "name2": "",
         "rarity": "Rare",
@@ -5443,6 +6003,20 @@
         "set": "The Lord of the Rings: Tales of Middle-earth",
         "amount": "1",
         "effect": "When Fires of Mount Doom enters the battlefield, it deals 2 damage to target creature an opponent controls. Destroy all Equipment attached to that creature.; {2}{R}: Exile the top card of your library. You may play that card this turn. When you play a card this way, Fires of Mount Doom deals 2 damage to each player.",
+        "effect2": ""
+    },
+    {
+        "name": "Firespitter Whelp",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Creature \u2014 Dragon",
+        "cost": "{2}{R}",
+        "power": "2/2",
+        "tag": "direct damage",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying; Whenever you cast a noncreature or Dragon spell, Firespitter Whelp deals 1 damage to each opponent.",
         "effect2": ""
     },
     {
@@ -5485,6 +6059,20 @@
         "set": "Rise of the Eldrazi",
         "amount": "2",
         "effect": "Flame Slash deals 4 damage to target creature.",
+        "effect2": ""
+    },
+    {
+        "name": "Flamewake Phoenix",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Creature \u2014 Phoenix",
+        "cost": "{1}{R}{R}",
+        "power": "2/2",
+        "tag": "graveyard",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying, haste; This creature attacks each combat if able.; At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return this card from your graveyard to the battlefield.",
         "effect2": ""
     },
     {
@@ -5796,6 +6384,20 @@
         "effect2": ""
     },
     {
+        "name": "Freyalise, Llanowar's Fury",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "green",
+        "type": "Legendary Planeswalker \u2014 Freyalise",
+        "cost": "{3}{G}{G}",
+        "power": "",
+        "tag": "Creature Token, artifact destruction, enchantment destruction, draw card",
+        "set": "Commander Anthology",
+        "amount": "1",
+        "effect": "+2: Create a 1/1 green Elf Druid creature token with \u201c{T}: Add {G}.\u201d; -2: Destroy target artifact or enchantment.; -6: Draw a card for each green creature you control.; Freyalise, Llanowar\u2019s Fury can be your commander.",
+        "effect2": ""
+    },
+    {
         "name": "Frontier Bivouac",
         "name2": "",
         "rarity": "Uncommon",
@@ -5975,6 +6577,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Whenever you cast a spell with mana value 5 or greater, each opponent reveals the top card of their library. If any of those cards shares a card type with that spell, copy that spell, you may choose new targets for the copy, and each opponent draws a card. Otherwise, you draw a card. (A copy of a permanent spell becomes a token.)",
+        "effect2": ""
+    },
+    {
+        "name": "Garruk's Uprising",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Enchantment",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.; Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it\u2019s attacking.); Whenever a creature you control with power 4 or greater enters, draw a card.",
         "effect2": ""
     },
     {
@@ -6160,6 +6776,20 @@
         "effect2": ""
     },
     {
+        "name": "Giada, Font of Hope",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Legendary Creature \u2014 Angel",
+        "cost": "{1}{W}",
+        "power": "2/2",
+        "tag": "mana ability",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying, vigilance; Each other Angel you control enters with an additional +1/+1 counter on it for each Angel you already control.; {T}: Add {W}. Spend this mana only to cast an Angel spell.",
+        "effect2": ""
+    },
+    {
         "name": "Giant Scorpion",
         "name2": "",
         "rarity": "Common",
@@ -6284,6 +6914,20 @@
         "amount": "7",
         "effect": "When you unlock this door, this Room deals 4 damage to target creature an opponent controls.",
         "effect2": "At the beginning of your end step, this Room deals 1 damage to each opponent."
+    },
+    {
+        "name": "Gleaming Barrier",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Artifact Creature \u2014 Wall",
+        "cost": "{2}",
+        "power": "0/4",
+        "tag": "mana ability",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Defender; When this creature dies, create a Treasure token. (It\u2019s an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)",
+        "effect2": ""
     },
     {
         "name": "Glimmer Seeker",
@@ -6412,6 +7056,20 @@
         "effect2": ""
     },
     {
+        "name": "Goblin Negotiation",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{X}{R}{R}",
+        "power": "",
+        "tag": "Creature Token, direct damage",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Goblin Negotiation deals X damage to target creature. Create a number of 1/1 red Goblin creature tokens equal to the amount of excess damage dealt to that creature this way.",
+        "effect2": ""
+    },
+    {
         "name": "Goblin Ruinblaster",
         "name2": "",
         "rarity": "Uncommon",
@@ -6423,6 +7081,20 @@
         "set": "Zendikar",
         "amount": "4",
         "effect": "Kicker {R} (You may pay an additional {R} as you cast this spell.); Haste; When Goblin Ruinblaster enters, if it was kicked, destroy target nonbasic land.",
+        "effect2": ""
+    },
+    {
+        "name": "Goblin Surprise",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{2}{R}",
+        "power": "",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Choose one \u2014; \u2022 Creatures you control get +2/+0 until end of turn.; \u2022 Create two 1/1 red Goblin creature tokens.",
         "effect2": ""
     },
     {
@@ -6451,6 +7123,20 @@
         "set": "Magic 2011",
         "amount": "4",
         "effect": "Flying; Whenever Goldenglow Moth blocks, you may gain 4 life.",
+        "effect2": ""
+    },
+    {
+        "name": "Goldvein Pick",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{2}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Equipped creature gets +1/+1.; Whenever equipped creature deals combat damage to a player, create a Treasure token. (It\u2019s an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d); Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
         "effect2": ""
     },
     {
@@ -6888,6 +7574,20 @@
         "effect2": ""
     },
     {
+        "name": "Hare Apparent",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Rabbit Noble",
+        "cost": "{1}{W}",
+        "power": "2/2",
+        "tag": "deck limit",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "When this creature enters, create a number of 1/1 white Rabbit creature tokens equal to the number of other creatures you control named Hare Apparent.; A deck can have any number of cards named Hare Apparent.",
+        "effect2": ""
+    },
+    {
         "name": "Harrow",
         "name2": "",
         "rarity": "Common",
@@ -6941,6 +7641,20 @@
         "set": "Crimson Vow Commander",
         "amount": "1",
         "effect": "Each player reveals the top card of their library. For each creature card revealed this way, create a token that\u2019s a copy of that card, except it\u2019s 1/1, it\u2019s a Spirit in addition to its other types, and it has flying. If no creature cards were revealed this way, return Haunting Imitation to its owner\u2019s hand.",
+        "effect2": ""
+    },
+    {
+        "name": "Healer's Hawk",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Bird",
+        "cost": "{W}",
+        "power": "1/1",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Flying; Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
         "effect2": ""
     },
     {
@@ -7056,6 +7770,20 @@
         "effect2": ""
     },
     {
+        "name": "Helpful Hunter",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Cat",
+        "cost": "{1}{W}",
+        "power": "1/1",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "When this creature enters, draw a card.",
+        "effect2": ""
+    },
+    {
         "name": "Herald of Anguish",
         "name2": "",
         "rarity": "Mythic",
@@ -7067,6 +7795,34 @@
         "set": "The Brothers' War Commander",
         "amount": "1",
         "effect": "Improvise; Flying; At the beginning of your end step, each opponent discards a card.; {1}{B}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Herald of Eternal Dawn",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "white",
+        "type": "Creature \u2014 Angel",
+        "cost": "{4}{W}{W}{W}",
+        "power": "6/6",
+        "tag": "rule change, win condition",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flash (You may cast this spell any time you could cast an instant.); Flying; You can\u2019t lose the game and your opponents can\u2019t win the game.",
+        "effect2": ""
+    },
+    {
+        "name": "Heraldic Banner",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{3}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "As this artifact enters, choose a color.; Creatures you control of the chosen color get +1/+0.; {T}: Add one mana of the chosen color.",
         "effect2": ""
     },
     {
@@ -7095,6 +7851,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Permanents you control gain hexproof and indestructible until end of turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Hero's Downfall",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Instant",
+        "cost": "{1}{B}{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Destroy target creature or planeswalker.",
         "effect2": ""
     },
     {
@@ -7151,6 +7921,20 @@
         "set": "Fallen Empires",
         "amount": "1",
         "effect": "Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}.",
+        "effect2": ""
+    },
+    {
+        "name": "High-Society Hunter",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Vampire Noble",
+        "cost": "{3}{B}{B}",
+        "power": "5/3",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying; Whenever this creature attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.; Whenever another nontoken creature dies, draw a card.",
         "effect2": ""
     },
     {
@@ -7389,6 +8173,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Mutate {3}{R/G}{U}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.); Flying, trample; Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card. Put that card onto the battlefield or into your hand.",
+        "effect2": ""
+    },
+    {
+        "name": "Imprisoned in the Moon",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{2}{U}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Enchant creature, land, or planeswalker; Enchanted permanent is a colorless land with \u201c{T}: Add {C}\u201d and loses all other card types and abilities.",
         "effect2": ""
     },
     {
@@ -8386,6 +9184,20 @@
         "effect2": ""
     },
     {
+        "name": "Kellan, Planar Trailblazer",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Legendary Creature \u2014 Human Faerie Scout",
+        "cost": "{R}",
+        "power": "2/1",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "{1}{R}: If Kellan is a Scout, it becomes a Human Faerie Detective and gains \u201cWhenever Kellan deals combat damage to a player, exile the top card of your library. You may play that card this turn.\u201d; {2}{R}: If Kellan is a Detective, it becomes a 3/2 Human Faerie Rogue and gains double strike.",
+        "effect2": ""
+    },
+    {
         "name": "Kemba, Kha Enduring",
         "name2": "",
         "rarity": "Rare",
@@ -8498,6 +9310,20 @@
         "effect2": ""
     },
     {
+        "name": "Kiora, the Rising Tide",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Legendary Creature \u2014 Merfolk Noble",
+        "cost": "{2}{U}",
+        "power": "3/2",
+        "tag": "Creature Token, draw card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "When Kiora enters, draw two cards, then discard two cards.; Threshold \u2014 Whenever Kiora attacks, if there are seven or more cards in your graveyard, you may create Scion of the Deep, a legendary 8/8 blue Octopus creature token.",
+        "effect2": ""
+    },
+    {
         "name": "Kismet",
         "name2": "",
         "rarity": "Uncommon",
@@ -8523,6 +9349,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Each other multicolored creature you control gets +1/+1 for each of its colors.",
+        "effect2": ""
+    },
+    {
+        "name": "Koma, World-Eater",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue, green",
+        "type": "Legendary Creature \u2014 Serpent",
+        "cost": "{3}{U}{G}",
+        "power": "8/12",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "This spell can\u2019t be countered.; Trample, ward {4}; Whenever Koma deals combat damage to a player, create four 3/3 blue Serpent creature tokens named Koma\u2019s Coil.",
         "effect2": ""
     },
     {
@@ -8565,6 +9405,20 @@
         "set": "Rise of the Eldrazi",
         "amount": "2",
         "effect": "When you cast this spell, draw four cards.; Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.); When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",
+        "effect2": ""
+    },
+    {
+        "name": "Krenko, Mob Boss",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Legendary Creature \u2014 Goblin Warrior",
+        "cost": "{2}{R}{R}",
+        "power": "3/3",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
         "effect2": ""
     },
     {
@@ -8764,6 +9618,20 @@
         "effect2": ""
     },
     {
+        "name": "Leyline Axe",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{4}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "If this card is in your opening hand, you may begin the game with it on the battlefield.; Equipped creature gets +1/+1 and has double strike and trample.; Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+        "effect2": ""
+    },
+    {
         "name": "Leyline of Hope",
         "name2": "",
         "rarity": "Rare",
@@ -8932,6 +9800,34 @@
         "effect2": ""
     },
     {
+        "name": "Liliana Vess",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "black",
+        "type": "Legendary Planeswalker \u2014 Liliana",
+        "cost": "{3}{B}{B}",
+        "power": "",
+        "tag": "discard card, fetch card, graveyard",
+        "set": "Magic 2010",
+        "amount": "1",
+        "effect": "+1: Target player discards a card.; -2: Search your library for a card, then shuffle and put that card on top.; -8: Put all creature cards from all graveyards onto the battlefield under your control.",
+        "effect2": ""
+    },
+    {
+        "name": "Liliana, Dreadhorde General",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "black",
+        "type": "Legendary Planeswalker \u2014 Liliana",
+        "cost": "{4}{B}{B}",
+        "power": "",
+        "tag": "creature destruction, artifact destruction, enchantment destruction, land destruction, Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Whenever a creature you control dies, draw a card.; +1: Create a 2/2 black Zombie creature token.; -4: Each player sacrifices two creatures of their choice.; -9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",
+        "effect2": ""
+    },
+    {
         "name": "Liliana's Caress",
         "name2": "",
         "rarity": "Uncommon",
@@ -9024,8 +9920,8 @@
         "cost": "{G}",
         "power": "1/1",
         "tag": "mana ability",
-        "set": "Fourth Edition, Magic 2011",
-        "amount": "4",
+        "set": "Fourth Edition, Magic 2011, Foundations",
+        "amount": "8",
         "effect": "{T}: Add {G}.",
         "effect2": ""
     },
@@ -9097,6 +9993,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Lonely Sandbar enters tapped.; {T}: Add {U}.; Cycling {U} ({U}, Discard this card: Draw a card.)",
+        "effect2": ""
+    },
+    {
+        "name": "Loot, Exuberant Explorer",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Legendary Creature \u2014 Beast Noble",
+        "cost": "{2}{G}",
+        "power": "1/4",
+        "tag": "rule change",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "You may play an additional land on each of your turns.; {4}{G}{G}, {T}: Look at the top six cards of your library. You may reveal a creature card with mana value less than or equal to the number of lands you control from among them and put it onto the battlefield. Put the rest on the bottom in a random order.",
         "effect2": ""
     },
     {
@@ -9209,6 +10119,20 @@
         "set": "Modern Horizons 3 Commander",
         "amount": "4",
         "effect": "Lumbering Falls enters tapped.; {T}: Add {G} or {U}.; {2}{G}{U}: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It\u2019s still a land.",
+        "effect2": ""
+    },
+    {
+        "name": "Luminous Rebuke",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{4}{W}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "This spell costs {3} less to cast if it targets a tapped creature.; Destroy target creature.",
         "effect2": ""
     },
     {
@@ -9408,6 +10332,20 @@
         "effect2": ""
     },
     {
+        "name": "Make Your Move",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{2}{W}",
+        "power": "",
+        "tag": "creature destruction, artifact destruction, enchantment destruction",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Destroy target artifact, enchantment, or creature with power 4 or greater.",
+        "effect2": ""
+    },
+    {
         "name": "Malakir Bloodwitch",
         "name2": "",
         "rarity": "Rare",
@@ -9420,6 +10358,20 @@
         "amount": "1",
         "effect": "Flying, protection from white; When Malakir Bloodwitch enters, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.",
         "effect2": ""
+    },
+    {
+        "name": "Malevolent Hermit",
+        "name2": "Benevolent Geist",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Creature \u2014 Human Wizard, Creature \u2014 Spirit Wizard",
+        "cost": "{1}{U}",
+        "power": "2/1, 2/2",
+        "tag": "counterspell",
+        "set": "Innistrad: Midnight Hunt",
+        "amount": "1",
+        "effect": "{U}, Sacrifice Malevolent Hermit: Counter target noncreature spell unless its controller pays {3}.; Disturb {2}{U} (You may cast this card from your graveyard transformed for its disturb cost.)",
+        "effect2": "Flying; Noncreature spells you control can\u2019t be countered.; If Benevolent Geist would be put into a graveyard from anywhere, exile it instead."
     },
     {
         "name": "Mana Cannons",
@@ -9461,6 +10413,20 @@
         "set": "Magic 2011",
         "amount": "3",
         "effect": "When Manic Vandal enters, destroy target artifact.",
+        "effect2": ""
+    },
+    {
+        "name": "Marauding Blight-Priest",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Creature \u2014 Vampire Cleric",
+        "cost": "{2}{B}",
+        "power": "3/2",
+        "tag": "life loss",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Whenever you gain life, each opponent loses 1 life.",
         "effect2": ""
     },
     {
@@ -9688,6 +10654,20 @@
         "effect2": ""
     },
     {
+        "name": "Midnight Snack",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Enchantment",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "life loss",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Raid \u2014 At the beginning of your end step, if you attacked this turn, create a Food token. (It\u2019s an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d); {2}{B}, Sacrifice this enchantment: Target opponent loses X life, where X is the amount of life you gained this turn.",
+        "effect2": ""
+    },
+    {
         "name": "Might Sliver",
         "name2": "",
         "rarity": "Uncommon",
@@ -9912,6 +10892,20 @@
         "effect2": ""
     },
     {
+        "name": "Mischievous Pup",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Creature \u2014 Dog",
+        "cost": "{2}{W}",
+        "power": "3/1",
+        "tag": "Bounce",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flash (You may cast this spell any time you could cast an instant.); When this creature enters, return up to one other target permanent you control to its owner\u2019s hand.",
+        "effect2": ""
+    },
+    {
         "name": "Mishra, Eminent One",
         "name2": "",
         "rarity": "Mythic",
@@ -10035,6 +11029,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They have \u201cWhen this creature dies, create two 1/1 green Ooze creature tokens.\u201d",
+        "effect2": ""
+    },
+    {
+        "name": "Mocking Sprite",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Creature \u2014 Faerie Rogue",
+        "cost": "{2}{U}",
+        "power": "2/1",
+        "tag": "rule change",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Flying; Instant and sorcery spells you cast cost {1} less to cast.",
         "effect2": ""
     },
     {
@@ -10217,6 +11225,20 @@
         "set": "Urza's Saga",
         "amount": "1",
         "effect": "{U}: Untap Morphling.; {U}: Morphling gains flying until end of turn.; {U}: Morphling gains shroud until end of turn. (It can\u2019t be the target of spells or abilities.); {1}: Morphling gets +1/-1 until end of turn.; {1}: Morphling gets -1/+1 until end of turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Mossborn Hydra",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Creature \u2014 Elemental Hydra",
+        "cost": "{2}{G}",
+        "power": "0/0",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Trample (This creature can deal excess combat damage to the player or planeswalker it\u2019s attacking.); This creature enters with a +1/+1 counter on it.; Landfall \u2014 Whenever a land you control enters, double the number of +1/+1 counters on this creature.",
         "effect2": ""
     },
     {
@@ -10766,6 +11788,20 @@
         "effect2": ""
     },
     {
+        "name": "Niv-Mizzet, Visionary",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "blue, red",
+        "type": "Legendary Creature \u2014 Dragon Wizard",
+        "cost": "{4}{U}{R}",
+        "power": "5/5",
+        "tag": "draw card, rule change",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying; You have no maximum hand size.; Whenever a source you control deals noncombat damage to an opponent, you draw that many cards.",
+        "effect2": ""
+    },
+    {
         "name": "No Way Out",
         "name2": "",
         "rarity": "Common",
@@ -11015,6 +12051,20 @@
         "set": "Alliances",
         "amount": "1",
         "effect": "Return all Islands to their owners\u2019 hands. Each player sacrifices a Plains or a white permanent for each white permanent they control.",
+        "effect2": ""
+    },
+    {
+        "name": "Omniscience",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "blue",
+        "type": "Enchantment",
+        "cost": "{7}{U}{U}{U}",
+        "power": "",
+        "tag": "rule change",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "You may cast spells from your hand without paying their mana costs.",
         "effect2": ""
     },
     {
@@ -11389,9 +12439,9 @@
         "type": "Enchantment",
         "cost": "{3}{B}{B}",
         "power": "",
-        "tag": "life loss",
-        "set": "The Brothers' War",
-        "amount": "1",
+        "tag": "life loss, discard card",
+        "set": "The Brothers' War, Foundations ",
+        "amount": "3",
         "effect": "Whenever an opponent casts a spell, that player loses 5 life unless they discard a card.",
         "effect2": ""
     },
@@ -11561,6 +12611,20 @@
         "set": "Scourge",
         "amount": "1",
         "effect": "Enchant creature; {U}: Untap enchanted creature.; {U}: Enchanted creature gains flying until end of turn.; {U}: Enchanted creature gains shroud until end of turn. (It can\u2019t be the target of spells or abilities.); {1}: Enchanted creature gets +1/-1 or -1/+1 until end of turn.",
+        "effect2": ""
+    },
+    {
+        "name": "Perforating Artist",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black, red",
+        "type": "Creature \u2014 Devil",
+        "cost": "{1}{B}{R}",
+        "power": "3/2",
+        "tag": "creature destruction, artifact destruction, enchantment destruction, life loss, discard card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.); Raid \u2014 At the beginning of your end step, if you attacked this turn, each opponent loses 3 life unless that player sacrifices a nonland permanent of their choice or discards a card.",
         "effect2": ""
     },
     {
@@ -11799,6 +12863,20 @@
         "set": "March of the Machine",
         "amount": "1",
         "effect": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature\u2019s color.); Destroy target creature or planeswalker. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",
+        "effect2": ""
+    },
+    {
+        "name": "Pilfer",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "discard card",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.",
         "effect2": ""
     },
     {
@@ -12079,6 +13157,20 @@
         "set": "Magic 2011",
         "amount": "4",
         "effect": "Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+        "effect2": ""
+    },
+    {
+        "name": "Prideful Parent",
+        "name2": "",
+        "rarity": "Common",
+        "color": "white",
+        "type": "Creature \u2014 Cat",
+        "cost": "{2}{W}",
+        "power": "2/2",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Vigilance (Attacking doesn\u2019t cause this creature to tap.); When this creature enters, create a 1/1 white Cat creature token.",
         "effect2": ""
     },
     {
@@ -12432,6 +13524,20 @@
         "effect2": ""
     },
     {
+        "name": "Raise the Past",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Sorcery",
+        "cost": "{2}{W}{W}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Return all creature cards with mana value 2 or less from your graveyard to the battlefield.",
+        "effect2": ""
+    },
+    {
         "name": "Rakdos Carnarium",
         "name2": "",
         "rarity": "Uncommon",
@@ -12678,8 +13784,8 @@
         "cost": "{2}{G}",
         "power": "2/1",
         "tag": "artifact destruction, enchantment destruction",
-        "set": "Tales of Middle-earth Commander",
-        "amount": "1",
+        "set": "Tales of Middle-earth Commander, Foundations",
+        "amount": "3",
         "effect": "When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.",
         "effect2": ""
     },
@@ -12709,6 +13815,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "{T}: Add {C}.; {4}{S}, {T}, Sacrifice Mouth of Ronom: It deals 4 damage to target creature. ({S} can be paid with one mana from a snow source.)",
+        "effect2": ""
+    },
+    {
+        "name": "Refute",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{1}{U}{U}",
+        "power": "",
+        "tag": "draw card, counterspell",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Counter target spell. Draw a card, then discard a card.",
         "effect2": ""
     },
     {
@@ -12813,9 +13933,9 @@
         "name": "Reluctant Role Model",
         "name2": "",
         "rarity": "Rare",
-        "color": "white",
+        "color": "blue, white",
         "type": "Creature \u2014 Human Survivor",
-        "cost": "{1}{W}",
+        "cost": "{2}{W}{W}",
         "power": "2/2",
         "tag": "",
         "set": "Duskmourn: House of Horror",
@@ -12880,6 +14000,20 @@
         "effect2": ""
     },
     {
+        "name": "Resolute Reinforcements",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Creature \u2014 Human Soldier",
+        "cost": "{1}{W}",
+        "power": "1/1",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flash (You may cast this spell any time you could cast an instant.); When this creature enters, create a 1/1 white Soldier creature token.",
+        "effect2": ""
+    },
+    {
         "name": "Respite",
         "name2": "",
         "rarity": "Common",
@@ -12919,6 +14053,20 @@
         "set": "Innistrad: Midnight Hunt",
         "amount": "4",
         "effect": "Choose one \u2014; \u2022 Destroy target artifact.; \u2022 Destroy target enchantment.; \u2022 Exile target card from a graveyard.",
+        "effect2": ""
+    },
+    {
+        "name": "Revenge of the Rats",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{2}{B}{B}",
+        "power": "",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Create a tapped 1/1 black Rat creature token for each creature card in your graveyard.; Flashback {2}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
         "effect2": ""
     },
     {
@@ -13146,6 +14294,20 @@
         "effect2": ""
     },
     {
+        "name": "Rogue's Passage",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "{T}: Add {C}.; {4}, {T}: Target creature can\u2019t be blocked this turn.",
+        "effect2": ""
+    },
+    {
         "name": "Roil Eruption",
         "name2": "",
         "rarity": "Common",
@@ -13272,6 +14434,20 @@
         "effect2": ""
     },
     {
+        "name": "Ruby, Daring Tracker",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green, red",
+        "type": "Legendary Creature \u2014 Human Scout",
+        "cost": "{G}{R}",
+        "power": "1/2",
+        "tag": "mana ability",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Haste (This creature can attack and {T} as soon as it comes under your control.); Whenever Ruby attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.; {T}: Add {R} or {G}.",
+        "effect2": ""
+    },
+    {
         "name": "Rugged Highlands",
         "name2": "",
         "rarity": "Common",
@@ -13297,6 +14473,48 @@
         "set": "Zendikar Rising",
         "amount": "4",
         "effect": "Landfall \u2014 Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)",
+        "effect2": ""
+    },
+    {
+        "name": "Run Away Together",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{1}{U}",
+        "power": "",
+        "tag": "bounce",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Choose two target creatures controlled by different players. Return those creatures to their owners\u2019 hands.",
+        "effect2": ""
+    },
+    {
+        "name": "Rune-Scarred Demon",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Creature \u2014 Demon",
+        "cost": "{5}{B}{B}",
+        "power": "6/6",
+        "tag": "fetch card",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Flying; When this creature enters, search your library for a card, put it into your hand, then shuffle.",
+        "effect2": ""
+    },
+    {
+        "name": "Rune-Sealed Wall",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Artifact Creature \u2014 Wall",
+        "cost": "{2}{U}",
+        "power": "0/6",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Defender; {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
         "effect2": ""
     },
     {
@@ -13395,6 +14613,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Sandsteppe Citadel enters the battlefield tapped.; {T}: Add {W}, {B}, or {G}.",
+        "effect2": ""
+    },
+    {
+        "name": "Sanguine Syphoner",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Creature \u2014 Vampire Warlock",
+        "cost": "{1}{B}",
+        "power": "1/3",
+        "tag": "life gain, life loss",
+        "set": "Foundations ",
+        "amount": "5",
+        "effect": "Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.",
         "effect2": ""
     },
     {
@@ -13594,6 +14826,20 @@
         "effect2": ""
     },
     {
+        "name": "Scrawling Crawler",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Artifact Creature \u2014 Phyrexian Construct",
+        "cost": "{3}",
+        "power": "",
+        "tag": "draw card, life loss",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "At the beginning of your upkeep, each player draws a card.; Whenever an opponent draws a card, that player loses 1 life.",
+        "effect2": ""
+    },
+    {
         "name": "Scrib Nibblers",
         "name2": "",
         "rarity": "Uncommon",
@@ -13692,6 +14938,20 @@
         "effect2": ""
     },
     {
+        "name": "Searslicer Goblin",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Creature \u2014 Goblin Warrior",
+        "cost": "{1}{R}",
+        "power": "2/1",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Raid \u2014 At the beginning of your end step, if you attacked this turn, create a 1/1 red Goblin creature token.",
+        "effect2": ""
+    },
+    {
         "name": "Seaside Citadel",
         "name2": "",
         "rarity": "Uncommon",
@@ -13703,6 +14963,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Seaside Citadel enters the battlefield tapped.; {T}: Add {G}, {W}, or {U}.",
+        "effect2": ""
+    },
+    {
+        "name": "Secluded Courtyard",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "multi land",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "As this land enters, choose a creature type.; {T}: Add {C}.; {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.",
         "effect2": ""
     },
     {
@@ -13731,6 +15005,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Undaunted (This spell costs {1} less to cast for each opponent.); Return up to two target cards from your graveyard to your hand. Exile Seeds of Renewal.",
+        "effect2": ""
+    },
+    {
+        "name": "Seeker's Folly",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "discard card",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Choose one \u2014; \u2022 Target opponent discards two cards.; \u2022 Creatures your opponents control get -1/-1 until end of turn.",
         "effect2": ""
     },
     {
@@ -13815,6 +15103,20 @@
         "set": "Zendikar",
         "amount": "5",
         "effect": "Sejiri Refuge enters tapped.; When Sejiri Refuge enters, you gain 1 life.; {T}: Add {W} or {U}.",
+        "effect2": ""
+    },
+    {
+        "name": "Self-Reflection",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Sorcery",
+        "cost": "{4}{U}{U}",
+        "power": "",
+        "tag": "copy spell",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Create a token that\u2019s a copy of target creature you control.; Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
         "effect2": ""
     },
     {
@@ -13933,9 +15235,9 @@
         "name": "Sharkey, Tyrant of the Shire",
         "name2": "",
         "rarity": "Rare",
-        "color": "colorless",
+        "color": "black, blue",
         "type": "Legendary Creature \u2014 Avatar Rogue",
-        "cost": "",
+        "cost": "{2}{B}{U}",
         "power": "2/4",
         "tag": "copy spell",
         "set": "Tales of Middle-earth Commander",
@@ -14294,6 +15596,20 @@
         "effect2": ""
     },
     {
+        "name": "Skyknight Squire",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white",
+        "type": "Creature \u2014 Cat Scout",
+        "cost": "{1}{W}",
+        "power": "1/1",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Whenever another creature you control enters, put a +1/+1 counter on this creature.; As long as this creature has three or more +1/+1 counters on it, it has flying and is a Knight in addition to its other types.",
+        "effect2": ""
+    },
+    {
         "name": "Skyshroud Ranger",
         "name2": "",
         "rarity": "Common",
@@ -14567,9 +15883,9 @@
         "type": "Artifact Creature \u2014 Golem",
         "cost": "{4}",
         "power": "2/2",
-        "tag": "draw card",
-        "set": "Dominaria United Commander",
-        "amount": "1",
+        "tag": "draw card, fetch card",
+        "set": "Dominaria United Commander, Foundations ",
+        "amount": "2",
         "effect": "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.; When Solemn Simulacrum dies, you may draw a card.",
         "effect2": ""
     },
@@ -14714,6 +16030,34 @@
         "effect2": ""
     },
     {
+        "name": "Soulstone Sanctuary",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "colorless",
+        "type": "Land",
+        "cost": "",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "{T}: Add {C}.; {4}: This land becomes a 3/3 creature with vigilance and all creature types. It\u2019s still a land.",
+        "effect2": ""
+    },
+    {
+        "name": "Sower of Chaos",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Creature \u2014 Devil",
+        "cost": "{3}{R}",
+        "power": "4/3",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "{2}{R}: Target creature can\u2019t block this turn.",
+        "effect2": ""
+    },
+    {
         "name": "Spectral Adversary",
         "name2": "",
         "rarity": "Mythic",
@@ -14725,6 +16069,20 @@
         "set": "Innistrad: Midnight Hunt",
         "amount": "1",
         "effect": "Flash; Flying; When Spectral Adversary enters, you may pay {1}{U} any number of times. When you pay this cost one or more times, put that many +1/+1 counters on Spectral Adversary, then up to that many other target artifacts, creatures, and/or enchantments phase out.",
+        "effect2": ""
+    },
+    {
+        "name": "Spectral Sailor",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Creature \u2014 Spirit Pirate",
+        "cost": "{U}",
+        "power": "1/1",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Flash (You may cast this spell any time you could cast an instant.); Flying; {3}{U}: Draw a card.",
         "effect2": ""
     },
     {
@@ -14840,6 +16198,20 @@
         "effect2": ""
     },
     {
+        "name": "Spinner of Souls",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Creature \u2014 Spider Spirit",
+        "cost": "{2}{G}",
+        "power": "4/3",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Reach; Whenever another nontoken creature you control dies, you may reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+        "effect2": ""
+    },
+    {
         "name": "Spire Barrage",
         "name2": "",
         "rarity": "Common",
@@ -14851,6 +16223,20 @@
         "set": "Zendikar",
         "amount": "3",
         "effect": "Spire Barrage deals damage to any target equal to the number of Mountains you control.",
+        "effect2": ""
+    },
+    {
+        "name": "Spitfire Lagac",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Creature \u2014 Lizard",
+        "cost": "{3}{R}",
+        "power": "3/4",
+        "tag": "direct damage",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Landfall \u2014 Whenever a land you control enters, this creature deals 1 damage to each opponent.",
         "effect2": ""
     },
     {
@@ -15197,7 +16583,7 @@
         "type": "Artifact",
         "cost": "{5}",
         "power": "",
-        "tag": "Bounce",
+        "tag": "Bounce, rule change",
         "set": "Alliances",
         "amount": "1",
         "effect": "Each player may play an additional land during each of their turns.; Whenever a land is tapped for mana, return it to its owner\u2019s hand.",
@@ -15271,6 +16657,34 @@
         "set": "Anthologies",
         "amount": "1",
         "effect": "{T}: Add {C}.; {T}, Sacrifice Strip Mine: Destroy target land.",
+        "effect2": ""
+    },
+    {
+        "name": "Strix Lookout",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Creature \u2014 Bird",
+        "cost": "{1}{U}",
+        "power": "1/2",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Flying, vigilance (Attacking doesn\u2019t cause this creature to tap.); {1}{U}, {T}: Draw a card, then discard a card.",
+        "effect2": ""
+    },
+    {
+        "name": "Stroke of Midnight",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Instant",
+        "cost": "{2}{W}",
+        "power": "",
+        "tag": "creature destruction, artifact destruction, enchantment destruction",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Destroy target nonland permanent. Its controller creates a 1/1 white Human creature token.",
         "effect2": ""
     },
     {
@@ -15355,6 +16769,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Vigilance; Whenever Sun Titan enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",
+        "effect2": ""
+    },
+    {
+        "name": "Sun-Blessed Healer",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Creature \u2014 Human Cleric",
+        "cost": "{1}{W}",
+        "power": "3/1",
+        "tag": "graveyard, life gain",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.); Lifelink (Damage dealt by this creature also causes you to gain that much life.); When this creature enters, if it was kicked, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.",
         "effect2": ""
     },
     {
@@ -15526,6 +16954,34 @@
         "effect2": ""
     },
     {
+        "name": "Swiftblade Vindicator",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "white, red",
+        "type": "Creature \u2014 Human Soldier",
+        "cost": "{W}{R}",
+        "power": "1/1",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Double strike (This creature deals both first-strike and regular combat damage.); Vigilance (Attacking doesn\u2019t cause this creature to tap.); Trample (This creature can deal excess combat damage to the player or planeswalker it\u2019s attacking.)",
+        "effect2": ""
+    },
+    {
+        "name": "Swiftfoot Boots",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "colorless",
+        "type": "Artifact \u2014 Equipment",
+        "cost": "{2}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "Equipped creature has hexproof and haste. (It can\u2019t be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.); Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+        "effect2": ""
+    },
+    {
         "name": "Swords to Plowshares",
         "name2": "",
         "rarity": "Uncommon",
@@ -15551,6 +17007,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Choose an opponent. You and that player each create an X/X green Treefolk creature token.; Choose an opponent. You and that player each create X 1/1 green Elf Warrior creature tokens.",
+        "effect2": ""
+    },
+    {
+        "name": "Sylvan Scavenging",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "green",
+        "type": "Enchantment",
+        "cost": "{1}{G}{G}",
+        "power": "",
+        "tag": "Creature Token",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "At the beginning of your end step, choose one \u2014; \u2022 Put a +1/+1 counter on target creature you control.; \u2022 Create a 3/3 green Raccoon creature token if you control a creature with power 4 or greater.",
         "effect2": ""
     },
     {
@@ -15621,6 +17091,20 @@
         "set": "Prophecy",
         "amount": "1",
         "effect": "When there are no creatures on the battlefield, sacrifice Task Mage Assembly.; {2}: Task Mage Assembly deals 1 damage to target creature. Any player may activate this ability but only as a sorcery.",
+        "effect2": ""
+    },
+    {
+        "name": "Tatyova, Benthic Druid",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue, green",
+        "type": "Legendary Creature \u2014 Merfolk Druid",
+        "cost": "{3}{U}{G}",
+        "power": "3/3",
+        "tag": "draw card, life gain",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Landfall \u2014 Whenever a land you control enters, you gain 1 life and draw a card.",
         "effect2": ""
     },
     {
@@ -15883,7 +17367,7 @@
         "type": "Legendary Creature \u2014 Human Frog Horror",
         "cost": "{1}{B}{W}{G}",
         "power": "4/4",
-        "tag": "draw card",
+        "tag": "draw card, rule change",
         "set": "March of the Machine",
         "amount": "1",
         "effect": "First strike, deathtouch; You may play an additional land on each of your turns.; Creatures and nonbasic lands your opponents control enter the battlefield tapped.; Whenever Thalia and The Gitrog Monster attacks, sacrifice a creature or land, then draw a card.",
@@ -16212,6 +17696,20 @@
         "effect2": ""
     },
     {
+        "name": "Think Twice",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{1}{U}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "5",
+        "effect": "Draw a card.; Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "effect2": ""
+    },
+    {
         "name": "Thornspire Verge",
         "name2": "",
         "rarity": "Rare",
@@ -16324,6 +17822,20 @@
         "effect2": ""
     },
     {
+        "name": "Thrill of Possibility",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "draw card",
+        "set": "Foundations ",
+        "amount": "3",
+        "effect": "As an additional cost to cast this spell, discard a card.; Draw two cards.",
+        "effect2": ""
+    },
+    {
         "name": "Thunderbolt",
         "name2": "",
         "rarity": "Common",
@@ -16363,6 +17875,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "Whenever a land enters the battlefield tapped and under your control, choose one \u2014; \u2022 Untap that land.; \u2022 Tap target nonland permanent an opponent controls.",
+        "effect2": ""
+    },
+    {
+        "name": "Time Stop",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{4}{U}{U}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "End the turn. (Exile all spells and abilities, including this spell. The player whose turn it is discards down to their maximum hand size. Damage heals and \u201cthis turn\u201d and \u201cuntil end of turn\u201d effects end.)",
         "effect2": ""
     },
     {
@@ -16433,6 +17959,20 @@
         "set": "The Brothers' War",
         "amount": "2",
         "effect": "{T}: Add {C}.; {3}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+        "effect2": ""
+    },
+    {
+        "name": "Tolarian Terror",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Creature \u2014 Serpent",
+        "cost": "{6}{U}",
+        "power": "5/5",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "This spell costs {1} less to cast for each instant and sorcery card in your graveyard.; Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",
         "effect2": ""
     },
     {
@@ -16604,6 +18144,20 @@
         "effect2": ""
     },
     {
+        "name": "Treetop Snarespinner",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Spider",
+        "cost": "{3}{G}",
+        "power": "1/4",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "4",
+        "effect": "Reach (This creature can block creatures with flying.); Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.); {2}{G}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.",
+        "effect2": ""
+    },
+    {
         "name": "Trial of Agony",
         "name2": "",
         "rarity": "Uncommon",
@@ -16713,6 +18267,20 @@
         "set": "Zendikar",
         "amount": "3",
         "effect": "Whenever Turntimber Ranger or another Ally you control enters, you may create a 2/2 green Wolf creature token. If you do, put a +1/+1 counter on Turntimber Ranger.",
+        "effect2": ""
+    },
+    {
+        "name": "Twinblade Blessing",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{1}{W}{W}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Flash (You may cast this spell any time you could cast an instant.); Enchant creature; Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)",
         "effect2": ""
     },
     {
@@ -17178,6 +18746,20 @@
         "effect2": ""
     },
     {
+        "name": "Valkyrie's Call",
+        "name2": "",
+        "rarity": "Mythic",
+        "color": "white",
+        "type": "Enchantment",
+        "cost": "{3}{W}{W}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Whenever a nontoken, non-Angel creature you control dies, return that card to the battlefield under its owner\u2019s control with a +1/+1 counter on it. It has flying and is an Angel in addition to its other types.",
+        "effect2": ""
+    },
+    {
         "name": "Vampire Hexmage",
         "name2": "",
         "rarity": "Uncommon",
@@ -17200,8 +18782,8 @@
         "cost": "{1}{B}{B}",
         "power": "2/3",
         "tag": "",
-        "set": "Zendikar",
-        "amount": "4",
+        "set": "Zendikar, Foundations ",
+        "amount": "6",
         "effect": "Flying, deathtouch, lifelink",
         "effect2": ""
     },
@@ -17287,6 +18869,20 @@
         "set": "Magic 2011",
         "amount": "1",
         "effect": "Flying; {X}: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player or planeswalker.",
+        "effect2": ""
+    },
+    {
+        "name": "Vengeful Bloodwitch",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Creature \u2014 Vampire Warlock",
+        "cost": "{1}{B}",
+        "power": "1/1",
+        "tag": "life gain, life loss",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Whenever this creature or another creature you control dies, target opponent loses 1 life and you gain 1 life.",
         "effect2": ""
     },
     {
@@ -17455,6 +19051,20 @@
         "set": "Ninth Edition",
         "amount": "1",
         "effect": "",
+        "effect2": ""
+    },
+    {
+        "name": "Volcanic Offering",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{4}{R}",
+        "power": "",
+        "tag": "land destruction, direct damage",
+        "set": "Commander 2014",
+        "amount": "1",
+        "effect": "Destroy target nonbasic land you don\u2019t control and target nonbasic land of an opponent\u2019s choice you don\u2019t control.; Volcanic Offering deals 7 damage to target creature you don\u2019t control and 7 damage to target creature of an opponent\u2019s choice you don\u2019t control.",
         "effect2": ""
     },
     {
@@ -17794,6 +19404,20 @@
         "effect2": ""
     },
     {
+        "name": "Wildwood Scourge",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "green",
+        "type": "Creature \u2014 Hydra",
+        "cost": "{X}{G}",
+        "power": "0/0",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "This creature enters with X +1/+1 counters on it.; Whenever one or more +1/+1 counters are put on another non-Hydra creature you control, put a +1/+1 counter on this creature.",
+        "effect2": ""
+    },
+    {
         "name": "Will-o'-the-Wisp",
         "name2": "",
         "rarity": "Rare",
@@ -17917,6 +19541,20 @@
         "set": "Duskmourn: House of Horror",
         "amount": "4",
         "effect": "Destroy target creature or enchantment. You lose 2 life.",
+        "effect2": ""
+    },
+    {
+        "name": "Witness Protection",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Enchantment \u2014 Aura",
+        "cost": "{U}",
+        "power": "",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "5",
+        "effect": "Enchant creature; Enchanted creature loses all abilities and is a green and white Citizen creature with base power and toughness 1/1 named Legitimate Businessperson. (It loses all other colors, card types, creature types, and names.)",
         "effect2": ""
     },
     {
@@ -18074,6 +19712,20 @@
         "effect2": ""
     },
     {
+        "name": "Youthful Valkyrie",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "white",
+        "type": "Creature \u2014 Angel",
+        "cost": "{1}{W}",
+        "power": "1/3",
+        "tag": "",
+        "set": "Foundations ",
+        "amount": "2",
+        "effect": "Flying; Whenever another Angel you control enters, put a +1/+1 counter on this creature.",
+        "effect2": ""
+    },
+    {
         "name": "Zaxara, the Exemplary",
         "name2": "",
         "rarity": "Mythic",
@@ -18113,6 +19765,20 @@
         "set": "Duskmourn: House of Horror",
         "amount": "1",
         "effect": "At the beginning of your end step, if a land entered the battlefield under your control this turn and you control a prime number of lands, create Primo, the Indivisible, a legendary 0/0 green and blue Fractal creature token, then put that many +1/+1 counters on it. (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31 are prime numbers.)",
+        "effect2": ""
+    },
+    {
+        "name": "Zul Ashur, Lich Lord",
+        "name2": "",
+        "rarity": "Rare",
+        "color": "black",
+        "type": "Legendary Creature \u2014 Zombie Warlock",
+        "cost": "{1}{B}",
+        "power": "2/2",
+        "tag": "graveyard",
+        "set": "Foundations ",
+        "amount": "1",
+        "effect": "Ward\u2014Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.); {T}: You may cast target Zombie creature card from your graveyard this turn.",
         "effect2": ""
     }
 ]
