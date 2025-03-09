@@ -364,6 +364,20 @@
         "effect2": ""
     },
     {
+        "name": "Annul",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{U}",
+        "power": "",
+        "tag": "counterspell",
+        "set": "Mirrodin",
+        "amount": "1",
+        "effect": "Counter target artifact or enchantment spell.",
+        "effect2": ""
+    },
+    {
         "name": "Anthem of Champions",
         "name2": "",
         "rarity": "Rare",
@@ -1666,6 +1680,20 @@
         "effect2": ""
     },
     {
+        "name": "Bone Harvest",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Instant",
+        "cost": "{2}{B}",
+        "power": "",
+        "tag": "graveyard, draw card",
+        "set": "Mirage",
+        "amount": "1",
+        "effect": "Put any number of target creature cards from your graveyard on top of your library.; Draw a card at the beginning of the next turn\u2019s upkeep.",
+        "effect2": ""
+    },
+    {
         "name": "Bone Shredder",
         "name2": "",
         "rarity": "Uncommon",
@@ -1688,8 +1716,8 @@
         "cost": "{U}{U}",
         "power": "",
         "tag": "Bounce",
-        "set": "Eighth Edition",
-        "amount": "1",
+        "set": "Eighth Edition, Fifth Edition",
+        "amount": "2",
         "effect": "Return target permanent to its owner\u2019s hand.",
         "effect2": ""
     },
@@ -2013,6 +2041,20 @@
         "set": "Alliances",
         "amount": "1",
         "effect": "Counter target instant spell if it\u2019s blue.; Draw a card at the beginning of the next turn\u2019s upkeep.",
+        "effect2": ""
+    },
+    {
+        "name": "Burnt Offering",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Instant",
+        "cost": "{B}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Ice Age",
+        "amount": "1",
+        "effect": "As an additional cost to cast this spell, sacrifice a creature.; Add X mana in any combination of {B} and/or {R}, where X is the sacrificed creature\u2019s mana value.",
         "effect2": ""
     },
     {
@@ -2478,6 +2520,20 @@
         "effect2": ""
     },
     {
+        "name": "Chromatic Sphere",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{1}",
+        "power": "",
+        "tag": "mana ability, draw card",
+        "set": "Mirrodin",
+        "amount": "1",
+        "effect": "{1}, {T}, Sacrifice this artifact: Add one mana of any color. Draw a card.",
+        "effect2": ""
+    },
+    {
         "name": "Chrome Host Seedshark",
         "name2": "",
         "rarity": "Rare",
@@ -2697,7 +2753,7 @@
         "power": "",
         "tag": "discard card",
         "set": "Tempest, Visions, Ninth Edition",
-        "amount": "3",
+        "amount": "5",
         "effect": "Target opponent reveals their hand. You choose a card from it. That player discards that card.",
         "effect2": ""
     },
@@ -2881,6 +2937,20 @@
         "set": "Innistrad: Midnight Hunt",
         "amount": "4",
         "effect": "Surveil 1. (Look at the top card of your library. You may put it into your graveyard.); Draw a card.",
+        "effect2": ""
+    },
+    {
+        "name": "Constant Mists",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Instant",
+        "cost": "{1}{G}",
+        "power": "",
+        "tag": "",
+        "set": "Stronghold",
+        "amount": "2",
+        "effect": "Buyback\u2014Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.); Prevent all combat damage that would be dealt this turn.",
         "effect2": ""
     },
     {
@@ -3425,7 +3495,7 @@
         "power": "",
         "tag": "creature destruction",
         "set": "Tempest, Mirage, Ninth Edition",
-        "amount": "3",
+        "amount": "4",
         "effect": "Destroy target nonblack creature. It can\u2019t be regenerated.",
         "effect2": ""
     },
@@ -3453,7 +3523,7 @@
         "power": "",
         "tag": "mana ability",
         "set": "Revised, Tempest, Ice Age, Mirage, Urza's Saga",
-        "amount": "13",
+        "amount": "16",
         "effect": "Add {B}{B}{B}.",
         "effect2": ""
     },
@@ -3525,6 +3595,20 @@
         "set": "Time Spiral Timeshifted ",
         "amount": "1",
         "effect": "Shadow (This creature can block or be blocked by only creatures with shadow.); Dauthi Slayer attacks each combat if able.",
+        "effect2": ""
+    },
+    {
+        "name": "Dauthi Trapper",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Creature \u2014 Dauthi Minion",
+        "cost": "{2}{B}",
+        "power": "1/1",
+        "tag": "",
+        "set": "Stronghold",
+        "amount": "1",
+        "effect": "{T}: Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)",
         "effect2": ""
     },
     {
@@ -3774,8 +3858,8 @@
         "cost": "{W}",
         "power": "",
         "tag": "enchantment destruction",
-        "set": "Rise of the Eldrazi",
-        "amount": "1",
+        "set": "Rise of the Eldrazi, Onslaught",
+        "amount": "2",
         "effect": "Destroy target enchantment.",
         "effect2": ""
     },
@@ -3892,6 +3976,20 @@
         "effect2": ""
     },
     {
+        "name": "Detonate",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Sorcery",
+        "cost": "{X}{R}",
+        "power": "",
+        "tag": "direct damage, artifact destruction",
+        "set": "Fifth Edition",
+        "amount": "1",
+        "effect": "Destroy target artifact with mana value X. It can\u2019t be regenerated. Detonate deals X damage to that artifact\u2019s controller.",
+        "effect2": ""
+    },
+    {
         "name": "Devastating Summons",
         "name2": "",
         "rarity": "Rare",
@@ -3945,6 +4043,20 @@
         "set": "Zendikar",
         "amount": "2",
         "effect": "Protection from black; When Devout Lightcaster enters, exile target black permanent.",
+        "effect2": ""
+    },
+    {
+        "name": "Diabolic Edict",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Instant",
+        "cost": "{1}{B}",
+        "power": "",
+        "tag": "creature destruction",
+        "set": "Tempest",
+        "amount": "1",
+        "effect": "Target player sacrifices a creature of their choice.",
         "effect2": ""
     },
     {
@@ -4169,6 +4281,20 @@
         "set": "Kamigawa: Neon Dynasty",
         "amount": "1",
         "effect": "As an additional cost to cast this spell, tap an untapped artifact you control or pay {1}.; Counter target spell.",
+        "effect2": ""
+    },
+    {
+        "name": "Disruptive Pitmage",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Creature \u2014 Human Wizard",
+        "cost": "{2}{U}",
+        "power": "1/1",
+        "tag": "counterspell",
+        "set": "Onslaught",
+        "amount": "1",
+        "effect": "{T}: Counter target spell unless its controller pays {1}.; Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
         "effect2": ""
     },
     {
@@ -5418,6 +5544,20 @@
         "effect2": ""
     },
     {
+        "name": "Eyes of the Watcher",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Enchantment",
+        "cost": "{2}{U}",
+        "power": "",
+        "tag": "",
+        "set": "Fifth Dawn",
+        "amount": "1",
+        "effect": "Whenever you cast an instant or sorcery spell, you may pay {1}. If you do, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+        "effect2": ""
+    },
+    {
         "name": "Fading Hope",
         "name2": "",
         "rarity": "Uncommon",
@@ -6113,7 +6253,7 @@
         "power": "",
         "tag": "direct damage",
         "set": "Stronghold, Magic 2011",
-        "amount": "5",
+        "amount": "7",
         "effect": "As an additional cost to cast this spell, sacrifice a creature.; Fling deals damage equal to the sacrificed creature\u2019s power to any target.",
         "effect2": ""
     },
@@ -6238,8 +6378,8 @@
         "cost": "{G}",
         "power": "",
         "tag": "",
-        "set": "Magic 2011",
-        "amount": "5",
+        "set": "Fourth Edition, Magic 2011",
+        "amount": "6",
         "effect": "Prevent all combat damage that would be dealt this turn.",
         "effect2": ""
     },
@@ -8843,7 +8983,7 @@
         "power": "",
         "tag": "fetch card",
         "set": "Mirrodin",
-        "amount": "1",
+        "amount": "2",
         "effect": "Choose one \u2014; \u2022 Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.; \u2022 You may play up to two additional lands this turn.",
         "effect2": ""
     },
@@ -10038,6 +10178,20 @@
         "effect2": ""
     },
     {
+        "name": "Lotus Petal",
+        "name2": "",
+        "rarity": "Common",
+        "color": "colorless",
+        "type": "Artifact",
+        "cost": "{0}",
+        "power": "",
+        "tag": "mana ability",
+        "set": "Tempest",
+        "amount": "1",
+        "effect": "{T}, Sacrifice this artifact: Add one mana of any color.",
+        "effect2": ""
+    },
+    {
         "name": "Loyal Gryff",
         "name2": "",
         "rarity": "Uncommon",
@@ -10259,6 +10413,20 @@
         "set": "Dominaria United Commander",
         "amount": "1",
         "effect": "The first spell you cast each turn has cascade. ",
+        "effect2": ""
+    },
+    {
+        "name": "Magma Jet",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Fifth Dawn",
+        "amount": "1",
+        "effect": "Magma Jet deals 2 damage to any target.; Scry 2.",
         "effect2": ""
     },
     {
@@ -10749,6 +10917,20 @@
         "set": "Modern Masters",
         "amount": "2",
         "effect": "Target opponent reveals cards from the top of their library until four land cards are revealed. That player puts all cards revealed this way into their graveyard.",
+        "effect2": ""
+    },
+    {
+        "name": "Mind Peel",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{B}",
+        "power": "",
+        "tag": "discard card",
+        "set": "Fourth Edition, Stronghold",
+        "amount": "1",
+        "effect": "Buyback {2}{B}{B} (You may pay an additional {2}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.); Target player discards a card.",
         "effect2": ""
     },
     {
@@ -12404,6 +12586,20 @@
         "effect2": ""
     },
     {
+        "name": "Ovinomancer",
+        "name2": "",
+        "rarity": "Uncommon",
+        "color": "blue",
+        "type": "Creature \u2014 Human Wizard",
+        "cost": "{2}{U}",
+        "power": "0/1",
+        "tag": "creature destruction, Creature Token, Bounce",
+        "set": "Visions",
+        "amount": "1",
+        "effect": "When Ovinomancer enters, sacrifice it unless you return three basic lands you control to their owner\u2019s hand.; {T}, Return Ovinomancer to its owner\u2019s hand: Destroy target creature. It can\u2019t be regenerated. That creature\u2019s controller creates a 0/1 green Sheep creature token.",
+        "effect2": ""
+    },
+    {
         "name": "Pack's Betrayal",
         "name2": "",
         "rarity": "Common",
@@ -12667,6 +12863,20 @@
         "set": "Ravnica Remastered",
         "amount": "4",
         "effect": "{1}, {T}: Target player mills a card. (They put the top card of their library into their graveyard.); Tap four untapped Advisors you control: Target player mills twelve cards.; A deck can have any number of cards named Persistent Petitioners.",
+        "effect2": ""
+    },
+    {
+        "name": "Pestilence",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Enchantment",
+        "cost": "{2}{B}{B}",
+        "power": "",
+        "tag": "direct damage",
+        "set": "Urza's Saga",
+        "amount": "2",
+        "effect": "At the beginning of the end step, if no creatures are on the battlefield, sacrifice this enchantment.; {B}: This enchantment deals 1 damage to each creature and each player.",
         "effect2": ""
     },
     {
@@ -13723,9 +13933,9 @@
         "name": "Realm Seekers",
         "name2": "",
         "rarity": "Rare",
-        "color": "green",
+        "color": "blue",
         "type": "Creature \u2014 Elf Scout",
-        "cost": "{4}{G}{G}",
+        "cost": "{1}{U}{U}",
         "power": "0/0",
         "tag": "fetch card",
         "set": "Tales of Middle-earth Commander",
@@ -13933,9 +14143,9 @@
         "name": "Reluctant Role Model",
         "name2": "",
         "rarity": "Rare",
-        "color": "blue, white",
+        "color": "white",
         "type": "Creature \u2014 Human Survivor",
-        "cost": "{2}{W}{W}",
+        "cost": "{1}{W}",
         "power": "2/2",
         "tag": "",
         "set": "Duskmourn: House of Horror",
@@ -15218,6 +15428,20 @@
         "effect2": ""
     },
     {
+        "name": "Shanodin Dryads",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Nymph Dryad",
+        "cost": "{G}",
+        "power": "1/1",
+        "tag": "",
+        "set": "Fourth Edition",
+        "amount": "1",
+        "effect": "Forestwalk (This creature can\u2019t be blocked as long as defending player controls a Forest.)",
+        "effect2": ""
+    },
+    {
         "name": "Shardmage's Rescue",
         "name2": "",
         "rarity": "Uncommon",
@@ -15243,6 +15467,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Activated abilities of lands your opponents control can\u2019t be activated unless they\u2019re mana abilities.; Sharkey, Tyrant of the Shire has all activated abilities of lands your opponents control except mana abilities.; Mana of any type can be spent to activate Sharkey\u2019s abilities.",
+        "effect2": ""
+    },
+    {
+        "name": "Shatter",
+        "name2": "",
+        "rarity": "Common",
+        "color": "red",
+        "type": "Instant",
+        "cost": "{1}{R}",
+        "power": "",
+        "tag": "artifact destruction",
+        "set": "Fourth Edition",
+        "amount": "1",
+        "effect": "Destroy target artifact.",
         "effect2": ""
     },
     {
@@ -16352,6 +16590,20 @@
         "effect2": ""
     },
     {
+        "name": "Spy Network",
+        "name2": "",
+        "rarity": "Common",
+        "color": "blue",
+        "type": "Instant",
+        "cost": "{U}",
+        "power": "",
+        "tag": "",
+        "set": "Onslaught",
+        "amount": "1",
+        "effect": "Look at target player\u2019s hand, the top card of that player\u2019s library, and any face-down creatures they control. Look at the top four cards of your library, then put them back in any order.",
+        "effect2": ""
+    },
+    {
         "name": "Squad Commander",
         "name2": "",
         "rarity": "Rare",
@@ -16556,8 +16808,8 @@
         "cost": "{2}{R}",
         "power": "",
         "tag": "Land Destruction",
-        "set": "Revised, Champions of Kamigawa",
-        "amount": "4",
+        "set": "Revised, Champions of Kamigawa, Mirage, Eighth Edition",
+        "amount": "6",
         "effect": "Destroy target land.",
         "effect2": ""
     },
@@ -17024,6 +17276,34 @@
         "effect2": ""
     },
     {
+        "name": "Sylvok Explorer",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Human Druid",
+        "cost": "{1}{G}",
+        "power": "1/1",
+        "tag": "mana ability",
+        "set": "Fifth Dawn",
+        "amount": "1",
+        "effect": "{T}: Add one mana of any color that a land an opponent controls could produce.",
+        "effect2": ""
+    },
+    {
+        "name": "Syphon Mind",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Sorcery",
+        "cost": "{3}{B}",
+        "power": "",
+        "tag": "discard card, draw card",
+        "set": "Onslaught",
+        "amount": "1",
+        "effect": "Each other player discards a card. You draw a card for each card discarded this way.",
+        "effect2": ""
+    },
+    {
         "name": "Syr Konrad, the Grim",
         "name2": "",
         "rarity": "Uncommon",
@@ -17077,6 +17357,20 @@
         "set": "Zendikar",
         "amount": "5",
         "effect": "Whenever Tajuru Archer or another Ally you control enters, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.",
+        "effect2": ""
+    },
+    {
+        "name": "Tangle Asp",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Snake",
+        "cost": "{1}{G}",
+        "power": "1/2",
+        "tag": "creature destruction",
+        "set": "Fifth Dawn",
+        "amount": "1",
+        "effect": "Whenever this creature blocks or becomes blocked by a creature, destroy that creature at end of combat.",
         "effect2": ""
     },
     {
@@ -18004,6 +18298,20 @@
         "effect2": ""
     },
     {
+        "name": "Tortured Existence",
+        "name2": "",
+        "rarity": "Common",
+        "color": "black",
+        "type": "Enchantment",
+        "cost": "{B}",
+        "power": "",
+        "tag": "graveyard",
+        "set": "Stronghold",
+        "amount": "1",
+        "effect": "{B}, Discard a creature card: Return target creature card from your graveyard to your hand.",
+        "effect2": ""
+    },
+    {
         "name": "Tower of Eons",
         "name2": "",
         "rarity": "Rare",
@@ -18071,6 +18379,20 @@
         "set": "Tales of Middle-earth Commander",
         "amount": "1",
         "effect": "Tranquil Thicket enters tapped.; {T}: Add {G}.; Cycling {G} ({G}, Discard this card: Draw a card.)",
+        "effect2": ""
+    },
+    {
+        "name": "Tranquility",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Sorcery",
+        "cost": "{2}{G}",
+        "power": "",
+        "tag": "enchantment destruction",
+        "set": "Fourth Edition",
+        "amount": "1",
+        "effect": "Destroy all enchantments.",
         "effect2": ""
     },
     {
@@ -19009,6 +19331,20 @@
         "set": "Phyrexia: All Will Be One",
         "amount": "2",
         "effect": "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.); Corrupted \u2014 As long as an opponent has three or more poison counters and Viral Spawning is in your graveyard, it has flashback {2}{G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "effect2": ""
+    },
+    {
+        "name": "Viridian Acolyte",
+        "name2": "",
+        "rarity": "Common",
+        "color": "green",
+        "type": "Creature \u2014 Elf Shaman",
+        "cost": "{G}",
+        "power": "1/1",
+        "tag": "mana ability",
+        "set": "Darksteel",
+        "amount": "1",
+        "effect": "{1}, {T}: Add one mana of any color.",
         "effect2": ""
     },
     {
